@@ -1,0 +1,2009 @@
+{
+  "method": "Independent transcription of raw synthesized speech; not human listening approval.",
+  "clips": [
+    {
+      "id": "c01s01",
+      "expected": "A café visitor shows a colourful brain image and says one bright area proves that Sam felt afraid. Maya asks how the image was collected and what other processes can activate the same area.",
+      "heard": "A cafe visitor shows a colorful brain image and says one bright area proves that Sam felt afraid. Maya asks how the image was collected and what other processes can activate the same area.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 12.309,
+      "wpm": 165.7,
+      "peak": 0.456298828125,
+      "flags": [],
+      "raw_sha256": "bb6a0a189f730cd64c6dc69c9dc28c9a301e4cc24f1439cf2c3a4830198637ab"
+    },
+    {
+      "id": "c01s02",
+      "expected": "First, make a prediction about the café story.\n\nWhat is missing from the fear claim?\n\nA. Evidence that the signal uniquely supports fear over alternatives.\n\nB. A brighter colour scale for the same image.\n\nC. A confident statement from the visitor.\n\nChoose an option before checking the feedback.",
+      "heard": "First, make a prediction about the cafe story. What is missing from the fear claim? A, evidence that the signal uniquely supports fear overall alternatives. B, a brighter color scale for the same image. C, a confident statement from the visitor. Choose an option before checking the feedback.",
+      "ratio": 0.9792,
+      "model": "tiny.en",
+      "duration": 19.613,
+      "wpm": 176.0,
+      "peak": 0.573974609375,
+      "flags": [],
+      "raw_sha256": "b418d8b1d605248ce21f3cac7f5920b493d83de3edcbc6a5ee36bfe1f9dd4cef"
+    },
+    {
+      "id": "c01s02-feedback-0",
+      "expected": "Specificity and comparison conditions are needed for that inference.",
+      "heard": "Specificity and comparison conditions are needed for that inference.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.224,
+      "wpm": 127.8,
+      "peak": 0.394378662109375,
+      "flags": [],
+      "raw_sha256": "b51c268a7b60c222e6c5bbf8b2cd1479f2c2e2eeaf906fb4d24228fdd951805a"
+    },
+    {
+      "id": "c01s02-feedback-1",
+      "expected": "A colour display changes presentation rather than inference.",
+      "heard": "A color display changes presentation rather than inference.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 3.648,
+      "wpm": 131.6,
+      "peak": 0.48492431640625,
+      "flags": [],
+      "raw_sha256": "02ca6a15bc509e44f27c508d7ad0fd244263e6a58318ad434936a886c30ed928"
+    },
+    {
+      "id": "c01s02-feedback-2",
+      "expected": "Confidence does not add the missing evidence.",
+      "heard": "Confidence does not add the missing evidence.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 2.496,
+      "wpm": 168.3,
+      "peak": 0.41546630859375,
+      "flags": [],
+      "raw_sha256": "175f9b3725d2b7bbc8d3c3cdba919b8278bd9a709a3b045873c5c1cf522a1ad8"
+    },
+    {
+      "id": "c01s03",
+      "expected": "Biological psychology: study of biological contributions to behaviour. Neural correlate: brain measure associated with a process. Mechanism: a process proposed to produce an effect.\n\nBehaviour involves interacting biological, psychological and social processes. A biological description adds a level of explanation; it does not remove the need to understand the task.\n\nAn association between a brain signal and an event is a starting point. It does not uniquely identify what one person thought.",
+      "heard": "Biological Psychology, study of biological contributions to behavior, neural correlate, brain measure associated with a process, mechanism, a process proposed to produce an effect. Behavior involves interacting biological, psychological, and social processes. A biological description adds a level of explanation. It does not remove the need to understand the task. An association between a brain signal and an event is a starting point. It does not uniquely identify what one person thought.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 34.473,
+      "wpm": 130.2,
+      "peak": 0.538604736328125,
+      "flags": [],
+      "raw_sha256": "d2907c8dc4f3357df996e8bf0c22296d8907ae49e5f53c3f7ce906f5991e0552"
+    },
+    {
+      "id": "c01s03b",
+      "expected": "Electroencephalography: recording electrical activity at the scalp. Functional imaging: estimating activity-related physiological changes. Lesion evidence: studying consequences of tissue damage.\n\nScalp electrical recordings have useful temporal resolution but limited source localization. Functional magnetic resonance imaging measures blood-oxygen-related changes rather than thoughts directly.\n\nLesions and carefully designed interventions can add causal evidence, but damage or stimulation can affect connected systems. Each method has practical and inferential limits.",
+      "heard": "Electroencephalography, recording electrical activity at the scalp. Functional imaging, estimating activity-related physiological changes, lesion evidence, studying consequences of tissue damage. Scalp electrical recordings have useful temporal resolution, but limited source localization. Functional magnetic resonance imaging measures blood oxygen-related changes rather than thoughts directly. Leasions and carefully designed interventions can add causal evidence, but damage or stimulation can affect connected systems. Each method has practical and inferential limits.",
+      "ratio": 0.9855,
+      "model": "tiny.en",
+      "duration": 39.764,
+      "wpm": 107.6,
+      "peak": 0.523681640625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "0ff8fc95d4cfa2cb711c93022875c610627de1a0511dc450ac8dab3332a3096c"
+    },
+    {
+      "id": "c01s04",
+      "expected": "Reverse inference: inferring a process from associated brain activity. Converging evidence: support across suitable methods.\n\nIf fear sometimes involves a region, activity there does not prove fear. The same region may participate in attention, learning and other tasks.\n\nA stronger account uses comparison conditions, task behaviour and information about specificity. Neural evidence should narrow alternatives rather than decorate a preferred story.",
+      "heard": "Reverse inference, inferring a process from associated brain activity, converging evidence, support across suitable methods. If fear sometimes involves a region, activity there does not prove fear. The same region may participate in attention, learning and other tasks. A stronger account uses comparison conditions, task behavior and information about specificity. Neural evidence should narrow alternatives rather than decorate a preferred story.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 30.719,
+      "wpm": 124.4,
+      "peak": 0.613494873046875,
+      "flags": [],
+      "raw_sha256": "a0d68608d8e20b8c9345a47f16d33f3c09da17526823983a86262ed2072f9273"
+    },
+    {
+      "id": "c01s05",
+      "expected": "Functional imaging findings depend on comparisons, analysis choices and samples. Reverse inference is stronger when the observed pattern is selective and the prior alternatives are considered.\n\nThe café image is fictional. It supplies no diagnostic or individual mental-state evidence.",
+      "heard": "Functional imaging findings depend on comparisons, analysis choices, and samples. Reverse inference is stronger when the observed pattern is selective, and the prior alternatives are considered. The CAFE image is fictional. It supplies no diagnostic or individual mental state evidence.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 19.189,
+      "wpm": 129.5,
+      "peak": 0.510986328125,
+      "flags": [],
+      "raw_sha256": "99e31b5d5b840e4dbdd95d2608619909ef0ccf0d8dae15ff8551a3e0b5a2f69b"
+    },
+    {
+      "id": "c01s06",
+      "expected": "Apply the idea to this new fictional case.\n\nA scalp recording differs while participants hear frequent and unexpected sounds.\n\nWhich conclusion is best supported?\n\nA. The recording identifies the exact thought.\n\nB. The conditions differ in a measured signal; interpretation needs the task.\n\nC. Electrical activity is unrelated to mental processes.\n\nChoose an option and write your reasoning before checking the feedback.",
+      "heard": "Apply the idea to this new fictional case. A scalp recording differs while participants here frequent and unexpected sounds. Which conclusion is best supported? A, the recording identifies the exact thought. B, the conditions differ in a measured signal. Interpretation needs the task. C, electrical activity is unrelated to mental processes. Choose an option and write your reasoning before checking the feedback.",
+      "ratio": 0.9839,
+      "model": "tiny.en",
+      "duration": 29.711,
+      "wpm": 149.9,
+      "peak": 0.51971435546875,
+      "flags": [],
+      "raw_sha256": "cc12f10562316fdb4b3d97376ba88cbe783289262bb6fcd4ac1fd3cb88b37116"
+    },
+    {
+      "id": "c01s06-feedback-0",
+      "expected": "The signal is not a unique thought label.",
+      "heard": "The signal is not a unique thought label.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 3.304,
+      "wpm": 208.3,
+      "peak": 0.335601806640625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "0efbac7ae113128cc34cc85e9ed9c24199ddf6a4adfad466fda33c0d68d20281"
+    },
+    {
+      "id": "c01s06-feedback-1",
+      "expected": "This distinguishes an observation from a process inference.",
+      "heard": "This distinguishes an observation from a process inference.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.392,
+      "wpm": 141.5,
+      "peak": 0.441802978515625,
+      "flags": [],
+      "raw_sha256": "caeba397547320e431dfdc4d1a6448447446b3b6ecd2070d31f7be20fd699529"
+    },
+    {
+      "id": "c01s06-feedback-2",
+      "expected": "The limitation does not make the measurement meaningless.",
+      "heard": "The limitation does not make the measurement meaningless.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.051,
+      "wpm": 157.3,
+      "peak": 0.38433837890625,
+      "flags": [],
+      "raw_sha256": "654a6c99874767976f3afe849b853eb655dc4cd61147b67d3cbeac4fdd8d86bc"
+    },
+    {
+      "id": "c01s07",
+      "expected": "Try these questions without your notes.\n\nWhy is functional imaging indirect?\n\nWhat is reverse inference?\n\nReveal the suggested answers after trying.",
+      "heard": "Try these questions without your notes. Why is functional imaging indirect? What is reverse inference? Reveal the suggested answers after trying.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 11.483,
+      "wpm": 147.7,
+      "peak": 0.495025634765625,
+      "flags": [],
+      "raw_sha256": "541273d502f052c9d17525d3eaa698564395884493a9549e2f9a7e6855e5d24f"
+    },
+    {
+      "id": "c01s07-answers",
+      "expected": "It measures a physiological correlate, such as blood-oxygen changes, rather than a thought itself.\n\nIt infers a psychological process from a brain pattern associated with that process.",
+      "heard": "It measures a physiological correlate, such as blood oxygen changes, rather than a thought itself. It infers a psychological process from a brain pattern associated with that process.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 12.957,
+      "wpm": 148.6,
+      "peak": 0.409393310546875,
+      "flags": [],
+      "raw_sha256": "1766303ca2b27c8cc04272d0d88cbe91cc262979d9f66fc19d1e119934a67ea4"
+    },
+    {
+      "id": "c01s08",
+      "expected": "Inspect a public brain-image headline. Name its measure, comparison and one alternative interpretation.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+      "heard": "Inspect a public brain image headline. Name its measure, comparison, and one alternative interpretation. Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 13.066,
+      "wpm": 145.0,
+      "peak": 0.4122314453125,
+      "flags": [],
+      "raw_sha256": "4690292279e8cd35841b23955f39b0e0c12868419a58ef2bfcf723eb0961cbf3"
+    },
+    {
+      "id": "c02s01",
+      "expected": "A diagram at the café calls neurons tiny wires carrying thoughts. Sam asks what actually happens when a neural signal travels and reaches another cell.",
+      "heard": "A diagram at the cafe calls neurons tiny wires carrying thoughts. Sam asks what actually happens when a neural signal travels and reaches another cell.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 10.027,
+      "wpm": 149.6,
+      "peak": 0.5113525390625,
+      "flags": [],
+      "raw_sha256": "5572098193c2868a5d2f3f9a24c377639c72afb72d56922bfe71f542f0d8ee5d"
+    },
+    {
+      "id": "c02s02",
+      "expected": "First, make a prediction about the café story.\n\nWhich correction improves the wire metaphor?\n\nA. A neuron carries one fixed personality trait.\n\nB. All spikes have sizes proportional to happiness.\n\nC. Signals involve membrane processes and connections between cells.\n\nChoose an option before checking the feedback.",
+      "heard": "First, make a prediction about the cafe story, which correction improves the wire metaphor. A, a neuron carries one fixed personality trait. B, all spikes have sizes proportional to happiness. C, signals involve membrane processes and connections between cells. Choose an option before checking the feedback.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 21.853,
+      "wpm": 148.4,
+      "peak": 0.419891357421875,
+      "flags": [],
+      "raw_sha256": "fbaf346ba758c62a6c0cef05450eea9586935944ccaf311bb4e4852e88d70859"
+    },
+    {
+      "id": "c02s02-feedback-0",
+      "expected": "Traits are not carried as individual labelled packets.",
+      "heard": "Trades are not carried as individual labeled packets.",
+      "ratio": 0.875,
+      "model": "tiny.en",
+      "duration": 3.179,
+      "wpm": 151.0,
+      "peak": 0.368377685546875,
+      "flags": [
+        "words"
+      ],
+      "raw_sha256": "7fbf6116863d579591b90c1c08302e380d7709b7b20d24034c77f2d742fc905f"
+    },
+    {
+      "id": "c02s02-feedback-1",
+      "expected": "Spike amplitude is not a happiness scale.",
+      "heard": "Spike Amplitude is not a happiness scale.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 2.539,
+      "wpm": 165.4,
+      "peak": 0.341217041015625,
+      "flags": [],
+      "raw_sha256": "a4d33f27f63b2f157ca0876222209a924666cb64dfe1082d06c005afe2092ea3"
+    },
+    {
+      "id": "c02s02-feedback-2",
+      "expected": "This retains the process without treating neurons as passive wires.",
+      "heard": "This retains the process without treating neurons as passive wires.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.096,
+      "wpm": 146.5,
+      "peak": 0.41253662109375,
+      "flags": [],
+      "raw_sha256": "c6082e9cc4471f9ace0038adec5d59211b8d32ce0fc4e824db0c9731588ddd4f"
+    },
+    {
+      "id": "c02s03",
+      "expected": "Ion channel: a membrane pathway for specific ions.\n\nNeurons maintain differences in charged particles across a membrane. Inputs can change the membrane potential. Dendrites and the cell body receive many inputs, while an axon can carry a propagated signal.\n\nThese are useful functional distinctions, with variation across neuron types. A single neuron is not a miniature thinking person.",
+      "heard": "ion channel, a membrane pathway for specific ions. Neurons maintain differences in charged particles across a membrane. Inputs can change the membrane potential. Dendrites and the cell body receive many inputs while an axon can carry a propagated signal. These are useful functional distinctions with variation across neuron types. A single neuron is not a miniature thinking person.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 26.367,
+      "wpm": 138.8,
+      "peak": 0.623931884765625,
+      "flags": [],
+      "raw_sha256": "ed5b8a9d4eec5e2e10eba7b970d41edae8789dcc9b4a13816a129c8fe50d47f3"
+    },
+    {
+      "id": "c02s03b",
+      "expected": "Action potential: a brief propagated membrane-voltage change. Refractory period: interval limiting immediate refiring.\n\nWhen conditions reach threshold, voltage-sensitive channels support a rapid change in membrane potential. The process regenerates along the axon.\n\nIndividual spikes are broadly all-or-none. Information can depend on timing, firing rates and population patterns rather than a bigger spike meaning a stronger thought.",
+      "heard": "Action potential, a brief propagated membrane voltage change, refractory period, interval limiting immediate refiring. When conditions reach threshold, voltage sensitive channels support a rapid change in membrane potential. The process regenerates along the axon. Individual spikes are broadly all are none. Information can depend on timing, firing rates and population patterns, rather than a bigger spike meaning a stronger thought.",
+      "ratio": 0.9833,
+      "model": "tiny.en",
+      "duration": 29.396,
+      "wpm": 128.1,
+      "peak": 0.499481201171875,
+      "flags": [],
+      "raw_sha256": "2a91cacc47be4d5187b065c21e8e4e72aba4db4dbc5b4fa2541d9755a5d4e72f"
+    },
+    {
+      "id": "c02s04",
+      "expected": "Synapse: a junction for signalling between cells. Neurotransmitter: chemical messenger released at a synapse. Receptor: molecular target responsive to a messenger.\n\nAt many synapses, an arriving signal triggers chemical release. A transmitter binds receptors that affect the receiving cell. Other synapses transmit electrically.\n\nThe effect depends on receptors, cell state and circuitry. A transmitter is not inherently a single emotion, and more of it does not imply more happiness.",
+      "heard": "Synapse, a junction for signaling between cells. Neurotransmitter, chemical messenger released at a synapse. Receptor, molecular target responsive to a messenger. At many synapses, an arriving signal triggers chemical release. A transmitter binds receptors that affect the receiving cell. Other synapses transmit electrically. The effect depends on receptors, cell state, and circuitry. A transmitter is not inherently a single emotion and more of it does not imply more happiness.",
+      "ratio": 0.9855,
+      "model": "tiny.en",
+      "duration": 32.169,
+      "wpm": 134.1,
+      "peak": 0.449676513671875,
+      "flags": [],
+      "raw_sha256": "75f5ce2e356a2d06ea982eef867d7507d83e9baf3711b0111ebed270ce152428"
+    },
+    {
+      "id": "c02s05",
+      "expected": "Cellular physiology supports detailed mechanisms of signalling, while links from those mechanisms to complex behaviour require additional levels of evidence.\n\nElectrical and chemical descriptions are complementary. Neither identifies a personality trait or emotion from one cell.",
+      "heard": "Cellular physiology supports detailed mechanisms of signaling, while links from those mechanisms to complex behavior require additional levels of evidence. Electrical and chemical descriptions are complementary. Neither identifies a personality trait or emotion from one cell.",
+      "ratio": 0.9722,
+      "model": "tiny.en",
+      "duration": 18.869,
+      "wpm": 118.6,
+      "peak": 0.435577392578125,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "7b82c18da5a34b8f1d04da11b5e2086bfa80a329e5f1420eb4119f10cfe40df2"
+    },
+    {
+      "id": "c02s06",
+      "expected": "Apply the idea to this new fictional case.\n\nThe same neurotransmitter is found in pathways supporting different functions.\n\nWhat should the explanation include?\n\nA. The transmitter’s receptor and circuit context.\n\nB. A fixed emotional meaning for the chemical.\n\nC. The assumption that more transmitter is better.\n\nChoose an option and write your reasoning before checking the feedback.",
+      "heard": "Apply the idea to this new fictional case. The same neurotransmitter is found in pathways supporting different functions. What should the explanation include? A, the transmitter's receptor and circuit context. B, a fixed emotional meaning for the chemical. C, the assumption that more transmitter is better. Choose an option and write your reasoning before checking the feedback.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 25.7,
+      "wpm": 164.4,
+      "peak": 0.495208740234375,
+      "flags": [],
+      "raw_sha256": "2d4caca2b238f3be23ee7028fb3259a86bb4eecc657ce3501ea95d0c9b5da139"
+    },
+    {
+      "id": "c02s06-feedback-0",
+      "expected": "The same messenger can have different effects through different targets.",
+      "heard": "The same messenger can have different effects through different targets.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.52,
+      "wpm": 170.5,
+      "peak": 0.37957763671875,
+      "flags": [],
+      "raw_sha256": "415a484b485eb357b7da413488ab36b28bc337bf513d83192fc02a7302dc657f"
+    },
+    {
+      "id": "c02s06-feedback-1",
+      "expected": "That ignores receptor and network differences.",
+      "heard": "That ignores receptor and network differences.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 3.624,
+      "wpm": 137.2,
+      "peak": 0.30712890625,
+      "flags": [],
+      "raw_sha256": "bfb4a50e2a467c122e15cd7f078ebe7b98b417ebb9ae435a3b5332ead98e2ede"
+    },
+    {
+      "id": "c02s06-feedback-2",
+      "expected": "Benefits and harms depend on system, dose and function.",
+      "heard": "Benefits and harms depend on system, dose and function.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.413,
+      "wpm": 158.2,
+      "peak": 0.386444091796875,
+      "flags": [],
+      "raw_sha256": "a89aa0609bc68b45635648911de231dc1d8bafa6a9c3b24a1657190dd9967b3a"
+    },
+    {
+      "id": "c02s07",
+      "expected": "Try these questions without your notes.\n\nWhat propagates in an action potential?\n\nWhy does a transmitter need receptor context?\n\nReveal the suggested answers after trying.",
+      "heard": "Try these questions without your notes. What propagates in an action potential? Why does a transmitter need receptor context? Reveal the suggested answers after trying.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 12.529,
+      "wpm": 156.6,
+      "peak": 0.47772216796875,
+      "flags": [],
+      "raw_sha256": "1087c10dd70e3236801b67d230cc25c71b67df84b1cee3375f6276bc69bc88b7"
+    },
+    {
+      "id": "c02s07-answers",
+      "expected": "A regenerated change in membrane voltage, driven by ion-channel processes.\n\nIts effect depends on the receiving receptor, cell and circuit rather than the chemical name alone.",
+      "heard": "a regenerated change in membrane voltage, driven by ion channel processes. Its effect depends on the receiving receptor, cell and circuit rather than the chemical name alone.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 12.573,
+      "wpm": 148.3,
+      "peak": 0.41778564453125,
+      "flags": [],
+      "raw_sha256": "1afb65f7e3d5fb67500652f58137e7387b396c51b065625b2603f9a8bead8870"
+    },
+    {
+      "id": "c02s08",
+      "expected": "Explain a neural signal in your own words using three stages. Identify where the wire metaphor stops being useful.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+      "heard": "Explain a neural signal in your own words using three stages. Identify where the wire metaphor stops being useful. Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 13.493,
+      "wpm": 163.5,
+      "peak": 0.412933349609375,
+      "flags": [],
+      "raw_sha256": "189ea17d6b4d08611d0c5e9207f1995f0bb247a0bb28b03669efa0df26c3c334"
+    },
+    {
+      "id": "c03s01",
+      "expected": "Leo says the left brain does logic and the right brain does creativity. Maya asks him to explain how Sam listens, remembers instructions and repairs a radio at the same time.",
+      "heard": "Leo says the left brain does logic, and the right brain does creativity. Maya asks him to explain how Sam listens, remembers instructions, and repairs a radio at the same time.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 11.712,
+      "wpm": 158.8,
+      "peak": 0.5848388671875,
+      "flags": [],
+      "raw_sha256": "634a31e5deeea184282b40d16898986ad133e8aa2cfebac2b6fd4f20697a4876"
+    },
+    {
+      "id": "c03s02",
+      "expected": "First, make a prediction about the café story.\n\nWhat best corrects Leo’s claim?\n\nA. Every function is equally distributed everywhere.\n\nB. Complex tasks recruit interacting systems in both hemispheres.\n\nC. Creativity is located entirely on the right.\n\nChoose an option before checking the feedback.",
+      "heard": "First, make a prediction about the cafe story. What best corrects Leo's claim? A, every function is equally distributed everywhere. B, complex tasks recruit interacting systems in both hemispheres. C, creativity is located entirely on the right. Choose an option before checking the feedback.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 20.957,
+      "wpm": 149.1,
+      "peak": 0.540924072265625,
+      "flags": [],
+      "raw_sha256": "f86188c4b79afff4103c600dbdc6a6a5745c93a8de05e061fee273ab2b59ca2b"
+    },
+    {
+      "id": "c03s02-feedback-0",
+      "expected": "Specialization still matters; total interchangeability is another overstatement.",
+      "heard": "Specialization still matters. Total interchangeability is another overstatement.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 5.227,
+      "wpm": 91.8,
+      "peak": 0.434661865234375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "8f3c8be0b71157b790e61b5f2bdab6159ae02391eca490ddc7d4d21fecd28273"
+    },
+    {
+      "id": "c03s02-feedback-1",
+      "expected": "This allows specialization without a one-sided personality classification.",
+      "heard": "This allows specialization without a one-sided personality classification.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.672,
+      "wpm": 115.6,
+      "peak": 0.377227783203125,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "060b7a3438d5bb69f37b85ef6f945d7fb7a9b576ca62b657a37aa94f1346a685"
+    },
+    {
+      "id": "c03s02-feedback-2",
+      "expected": "The task and networks are more complex than that label.",
+      "heard": "The task and networks are more complex than that label.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 3.029,
+      "wpm": 198.1,
+      "peak": 0.354888916015625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "e8f4d7e1628a52a550aa9c6de75195e1764ed2545b214c3e17a6d3c836594be8"
+    },
+    {
+      "id": "c03s03",
+      "expected": "Cerebral cortex: outer neural tissue of the cerebrum. Subcortical structure: structure beneath the cortex. Network: interacting set of connected regions.\n\nBrain regions have different connections and contributions. Cortical and subcortical systems interact in perception, memory and action.\n\nA task can involve several networks, and a region can contribute to several tasks. A labelled anatomical map is a starting point for understanding these interactions.",
+      "heard": "Cerebral cortex, outer neural tissue of the cerebrum, sub-cortical structure, structure beneath the cortex, network interacting set of connected regions. Brain regions have different connections and contributions. Cortical and sub-cortical systems interact in perception, memory, and action. A task can involve several networks, and a region can contribute to several tasks. A labeled anatomical map is a starting point for understanding these interactions.",
+      "ratio": 0.9531,
+      "model": "tiny.en",
+      "duration": 31.039,
+      "wpm": 127.1,
+      "peak": 0.491851806640625,
+      "flags": [],
+      "raw_sha256": "492ab55a3c1dd6769c9139739d9cb59f82311f90a705f0bb46e6fe33a0a17e44"
+    },
+    {
+      "id": "c03s03b",
+      "expected": "Lateralization: unequal contribution across hemispheres. Corpus callosum: major connection between the hemispheres. Functional specialization: relative contribution to a function.\n\nSome functions show hemispheric asymmetries. Many aspects of language are often left-lateralized, but variation and bilateral contributions matter.\n\nBoth hemispheres participate in complex reasoning and creative activity. Classifying a person as left-brained or right-brained is not supported by this anatomical distinction.",
+      "heard": "Lateralization, unequal contribution across hemispheres, corpus callosum, major connection between the hemispheres, functional specialization, relative contribution to a function. Some functions show hemispheric asymmetries. Many aspects of language are often left lateralized, but variation and bilateral contributions matter. Both hemispheres participate in complex reasoning and creative activity, Classifying a person as left-brained or right-brained is not supported by this anatomical distinction.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 34.452,
+      "wpm": 114.0,
+      "peak": 0.6943359375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "ad35f360eda272a4f7eb8ac8130b2828dfd4634101f759bccc17dcd9705b016b"
+    },
+    {
+      "id": "c03s04",
+      "expected": "Plasticity: experience-related change in a biological system. Distributed processing: a function depends on interacting components. Compensation: another route helps maintain performance.\n\nA lesion can disrupt local tissue and its connections. Changes in performance help investigate a system, but task demands and the extent of damage matter.\n\nRecovery can involve practice, support and reorganization. It is not evidence that all regions are interchangeable or that every injury has the same prognosis.",
+      "heard": "Plasticity, experience-related change in a biological system, distributed processing, a function depends on interacting components, compensation. Another route helps maintain performance. A lesion can disrupt local tissue and its connections. Changes in performance help investigate a system, but task demands and the extent of damage matter. Recovery can involve practice, support, and reorganization. It is not evidence that all regions are interchangeable or that every injury has the same prognosis.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 34.985,
+      "wpm": 126.5,
+      "peak": 0.53302001953125,
+      "flags": [],
+      "raw_sha256": "e36033983610aeb07656b232408d5990e86f38abb5cfa10894f9b6131db048a0"
+    },
+    {
+      "id": "c03s05",
+      "expected": "Neuroscience combines anatomy, task measures and interventions to examine functional organization. Region labels alone cannot establish a psychological explanation.\n\nThe café repair is not a localization experiment. Brain-based personality quizzes need independent validation rather than anatomical metaphors.",
+      "heard": "Neuroscience combines anatomy, task measures, and interventions to examine functional organization. Region labels alone cannot establish a psychological explanation. The cafe repair is not a localization experiment. Brain-based personality quizzes need independent validation rather than anatomical metaphors.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 21.791,
+      "wpm": 107.8,
+      "peak": 0.482757568359375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "5dc83448ae5292a50f2d2eba996eedad1a3b49f6a0b8dd25d871af36eecd3aa7"
+    },
+    {
+      "id": "c03s06",
+      "expected": "Apply the idea to this new fictional case.\n\nAfter a lesion, a person struggles with a particular task, but several connected pathways were affected.\n\nWhat inference is proportionate?\n\nA. The area is the sole store of that ability.\n\nB. No other methods are needed.\n\nC. The damaged system contributes to performance under these conditions.\n\nChoose an option and write your reasoning before checking the feedback.",
+      "heard": "Apply the idea to this new fictional case. After a lesion, a person struggles with a particular task, but several connected pathways were affected. What inference is proportionate? A, the area is the sole store of that ability. B, no other methods are needed. C, the damage system contributes to performance under these conditions. Choose an option and write your reasoning before checking the feedback.",
+      "ratio": 0.9846,
+      "model": "tiny.en",
+      "duration": 28.025,
+      "wpm": 168.6,
+      "peak": 0.488922119140625,
+      "flags": [],
+      "raw_sha256": "ac86beb4bdab1e9ce8fd042eeabbd520c48f0111340595b658400156a9851d17"
+    },
+    {
+      "id": "c03s06-feedback-0",
+      "expected": "The lesion can disrupt a connected system rather than one isolated store.",
+      "heard": "The lesion can disrupt a connected system, rather than one isolated store.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 5.523,
+      "wpm": 159.2,
+      "peak": 0.493011474609375,
+      "flags": [],
+      "raw_sha256": "e0f4677bf913619b9b16f6afec6b6e3e249ebe846a0f6b81ee0fab7211a5dc94"
+    },
+    {
+      "id": "c03s06-feedback-1",
+      "expected": "Converging evidence helps address alternative explanations.",
+      "heard": "Converging evidence helps address alternative explanations.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.733,
+      "wpm": 96.4,
+      "peak": 0.454132080078125,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "d14261851e00ca85c11bb60f6b1ef2fdef9a8b8a2288db6c46e8b712471708d4"
+    },
+    {
+      "id": "c03s06-feedback-2",
+      "expected": "This recognizes a contribution without claiming exclusive localization.",
+      "heard": "This recognizes a contribution without claiming exclusive localization.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 5.48,
+      "wpm": 107.1,
+      "peak": 0.42120361328125,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "77b7dbe7daacbfb2f8169187270520a2ca1a4f70594c7bacff5a1252cf66e5a0"
+    },
+    {
+      "id": "c03s07",
+      "expected": "Try these questions without your notes.\n\nWhat does lateralization describe?\n\nWhy does a lesion not imply a single isolated function?\n\nReveal the suggested answers after trying.",
+      "heard": "Try these questions without your notes. What does lateralization describe? Why does a lesion not imply a single isolated function? Reveal the suggested answers after trying.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 13.446,
+      "wpm": 148.6,
+      "peak": 0.496368408203125,
+      "flags": [],
+      "raw_sha256": "b402eb78142e0c4ab6e94cab7bf8022ad3af08b404fe5cccec30b27e6f8f9361"
+    },
+    {
+      "id": "c03s07-answers",
+      "expected": "A relative hemispheric difference in contribution to a specified function.\n\nDamage affects connections and multiple processes needed for the task.",
+      "heard": "a relative hemispheric difference in contribution to a specified function. Damage affects connections and multiple processes needed for the task.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 10.439,
+      "wpm": 136.5,
+      "peak": 0.421112060546875,
+      "flags": [],
+      "raw_sha256": "6a6ba18f5858ffe5c9072b73b7ba82377c49e3b6a5c99f4ee71ee0e43f887b5f"
+    },
+    {
+      "id": "c03s08",
+      "expected": "Rewrite a left-brain/right-brain headline as a testable statement about a specified task and measure.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+      "heard": "We're right a left brain slash right brain headline as a testable statement about a specified task in measure. Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+      "ratio": 0.9118,
+      "model": "tiny.en",
+      "duration": 13.173,
+      "wpm": 158.1,
+      "peak": 0.458740234375,
+      "flags": [],
+      "raw_sha256": "f7ab03b7cee75814499a74da423e1db3a8e1544513ee1d5764e285f5d9c8592a"
+    },
+    {
+      "id": "c04s01",
+      "expected": "Sam and Pat hear the same café announcement differently in background noise. Leo says the sound either reached both ears or it did not. Maya asks what happens between sound and understanding.",
+      "heard": "Sam and Pat hear the same cafe announcement, differently in background noise. Leo says the sound either reached both ears or it did not. Maya asks what happens between sound and understanding.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 12.117,
+      "wpm": 158.5,
+      "peak": 0.51495361328125,
+      "flags": [],
+      "raw_sha256": "b12bc11b143817c1d48cfc1cf6a28081c99caf880d2709338392c04f5c66fca6"
+    },
+    {
+      "id": "c04s02",
+      "expected": "First, make a prediction about the café story.\n\nWhat is missing from Leo’s explanation?\n\nA. Transduction and processing under the actual listening conditions.\n\nB. The assumption that a missed word proves disinterest.\n\nC. A larger volume increase in every situation.\n\nChoose an option before checking the feedback.",
+      "heard": "First, make a prediction about the cafe story. What is missing from Leo's explanation? A, transduction and processing under the actual listening conditions. B, the assumption that a missed word proves disinterest. C, a larger volume increase in every situation. Choose an option before checking the feedback.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 21.085,
+      "wpm": 158.1,
+      "peak": 0.52166748046875,
+      "flags": [],
+      "raw_sha256": "bade11936309af7191defa12ac99735e491da53739c5250363a013b440a247f2"
+    },
+    {
+      "id": "c04s02-feedback-0",
+      "expected": "The signal must be detected and interpreted in context.",
+      "heard": "The signal must be detected and interpreted in context.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 3.371,
+      "wpm": 160.2,
+      "peak": 0.35296630859375,
+      "flags": [],
+      "raw_sha256": "d8313340cfb18616dcd2b05368ac44e13bc69ee97f353f1aa60fbc3882895dbd"
+    },
+    {
+      "id": "c04s02-feedback-1",
+      "expected": "That adds an unsupported motive.",
+      "heard": "That adds an unsupported motive.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 1.899,
+      "wpm": 158.0,
+      "peak": 0.48358154296875,
+      "flags": [],
+      "raw_sha256": "1ee49e68c378da58ea26a79be3cea8fd9045a37a37d684a4b0b5a455f31a6240"
+    },
+    {
+      "id": "c04s02-feedback-2",
+      "expected": "Volume alone does not address all noise, access or interpretation problems.",
+      "heard": "Volume alone does not address all noise, access or interpretation problems.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.885,
+      "wpm": 135.1,
+      "peak": 0.492095947265625,
+      "flags": [],
+      "raw_sha256": "198de57ef60459805a48266578b015d272a5c9307574ab314505f4c74106bb2c"
+    },
+    {
+      "id": "c04s03",
+      "expected": "Sensory transduction: conversion of stimulation into cellular signalling. Sensory receptor: cell or ending responsive to stimulation.\n\nSound pressure, light and other physical events interact with specialized receptors. Transduction turns these interactions into biological signals.\n\nDetection depends on the stimulus, receptor system and conditions. The physical presence of a sound does not guarantee that a listener received a usable message.",
+      "heard": "sensory transduction, conversion of stimulation into cellular signaling, sensory receptor, cell or ending responsive to stimulation. Sound pressure, light, and other physical events interact with specialized receptors. Transduction turns these interactions into biological signals. Detection depends on the stimulus, receptor system, and conditions. The physical presence of a sound does not guarantee that a listener received a usable message.",
+      "ratio": 0.9831,
+      "model": "tiny.en",
+      "duration": 30.015,
+      "wpm": 123.3,
+      "peak": 0.49884033203125,
+      "flags": [],
+      "raw_sha256": "79939ddb2a21a1cf95003025cab00c147372a4e536619c5640aa44531b961e5a"
+    },
+    {
+      "id": "c04s03b",
+      "expected": "Sensory adaptation: changed responsiveness during sustained stimulation. Absolute threshold: stimulus level detected under defined conditions. Difference threshold: change detectable under defined conditions.\n\nResponsiveness can change with ongoing stimulation. Detection thresholds are measured probabilistically under specified conditions, not as an unchanging line for every person.\n\nNoise, fatigue, attention and sensory access affect performance. Compare the actual listening conditions before assigning a psychological motive to a missed message.",
+      "heard": "Sensory adaptation changed responsiveness during sustained stimulation. Absolute threshold, stimulus level detected under defined conditions. Difference threshold, change detectable under defined conditions. Responsiveness can change with ongoing stimulation. Detection thresholds are measured probabilistically under specified conditions, not as an unchanging line for every person. Noise, fatigue, attention, and sensory access affect performance. Compare the actual listening conditions before assigning a psychological motive to a a missed message.",
+      "ratio": 0.9925,
+      "model": "tiny.en",
+      "duration": 37.652,
+      "wpm": 108.9,
+      "peak": 0.52838134765625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "341fbe0ccd16953f1a4c39e341bb04e101e33da64c9f86e84dafb3475c0ec855"
+    },
+    {
+      "id": "c04s04",
+      "expected": "Perception: organization and interpretation of sensory information. Multisensory integration: combining information across senses. Top-down influence: effects of knowledge or expectation on processing.\n\nA visible speaker, clear context or written message can improve interpretation. Expectations can also favour a mistaken reading of an ambiguous signal.\n\nBiological pathways and cognitive interpretation work together. Provide accessible information and check understanding instead of assuming that a loud enough signal solves every difficulty.",
+      "heard": "Perception, organization and interpretation of sensory information, multisensory integration, combining information across senses, top-down influence, effects of knowledge or expectation on processing. A visible speaker, clear context or written message can improve interpretation. Expectations can also favor a mistaken reading of an ambiguous signal. Biological pathways and cognitive interpretation work together. Provide accessible information and check understanding, instead of assuming that allowed enough signal solves every difficulty.",
+      "ratio": 0.9635,
+      "model": "tiny.en",
+      "duration": 37.759,
+      "wpm": 113.6,
+      "peak": 0.600555419921875,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "b4b0740dbf350727370797cfcacdab30242a939afbd3e088c0d65222337d0752"
+    },
+    {
+      "id": "c04s05",
+      "expected": "Sensory physiology identifies transduction and pathways; perceptual research investigates how information is selected and interpreted. A demonstration does not diagnose an individual sensory condition.\n\nThresholds depend on measurement procedures and response criteria. Persistent sensory concerns warrant suitable professional assessment.",
+      "heard": "Sensory physiology identifies transduction and pathways. Perceptual research investigates how information is selected and interpreted. A demonstration does not diagnose an individual's sensory condition. Thresholds depend on measurement procedures and response criteria. Persistent sensory concerns warrant suitable professional assessment.",
+      "ratio": 0.9744,
+      "model": "tiny.en",
+      "duration": 23.157,
+      "wpm": 104.0,
+      "peak": 0.4864501953125,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "448a4097e1b3bbf4b9d33f7b287715e0096eefc67ac7265a0f44f09d2369066a"
+    },
+    {
+      "id": "c04s06",
+      "expected": "Apply the idea to this new fictional case.\n\nA visitor follows instructions more accurately when a spoken announcement also appears as clear text.\n\nWhich conclusion is reasonable?\n\nA. The listener’s hearing capacity permanently improved.\n\nB. Written support made the message more accessible in this task.\n\nC. Visual information is always superior to sound.\n\nChoose an option and write your reasoning before checking the feedback.",
+      "heard": "Apply the idea to this new fictional case. A visitor follows instructions more accurately when a spoken announcement also appears as clear text. Which conclusion is reasonable? A, the listener's hearing capacity permanently improved. B, written support made the message more accessible in this task. C, visual information is always superior to sound. Choose an option and write your reasoning before checking the feedback.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 29.583,
+      "wpm": 155.6,
+      "peak": 0.487060546875,
+      "flags": [],
+      "raw_sha256": "4a4809643b498bc1cdc9ef7dd1e04607e6190e5edb8c6fb08bcd7dbac3b3663f"
+    },
+    {
+      "id": "c04s06-feedback-0",
+      "expected": "A task support does not establish a physiological change.",
+      "heard": "A task support does not establish a physiological change.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.627,
+      "wpm": 148.9,
+      "peak": 0.3502197265625,
+      "flags": [],
+      "raw_sha256": "2c0042bf654ed501225676eb462b745e8a8eb5ea4b49442a3b2b1b2774259464"
+    },
+    {
+      "id": "c04s06-feedback-1",
+      "expected": "The claim fits the local outcome without broad overreach.",
+      "heard": "The claim fits the local outcome without broad overreach.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.285,
+      "wpm": 164.4,
+      "peak": 0.404632568359375,
+      "flags": [],
+      "raw_sha256": "b10bb069ff2c5c87c5f9f342c6138faad529beead814298267cdac573aa68caf"
+    },
+    {
+      "id": "c04s06-feedback-2",
+      "expected": "Accessibility depends on the person, message and context.",
+      "heard": "Accessibility depends on the person, message and context.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.541,
+      "wpm": 135.5,
+      "peak": 0.3895263671875,
+      "flags": [],
+      "raw_sha256": "bb4ea565de773ab7c8eed120e5f5d0a006e55f0c8a7701f73e6a851181b028ce"
+    },
+    {
+      "id": "c04s07",
+      "expected": "Try these questions without your notes.\n\nWhat is transduction?\n\nWhy distinguish detection from interpretation?\n\nReveal the suggested answers after trying.",
+      "heard": "Try these questions without your notes. What is transduction? Why distinguish detection from interpretation? Reveal the suggested answers after trying.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 11.867,
+      "wpm": 134.6,
+      "peak": 0.472991943359375,
+      "flags": [],
+      "raw_sha256": "eefb35865489b357a87119b20e026c4551a2be84deda4763d4cedb0757399cb8"
+    },
+    {
+      "id": "c04s07-answers",
+      "expected": "Conversion of physical stimulation into biological signalling.\n\nA signal can be present or detected without its intended meaning being correctly understood.",
+      "heard": "conversion of physical stimulation into biological signaling. A signal can be present or detected without its intended meaning being correctly understood.",
+      "ratio": 0.9524,
+      "model": "tiny.en",
+      "duration": 11.165,
+      "wpm": 132.4,
+      "peak": 0.423919677734375,
+      "flags": [],
+      "raw_sha256": "b11ccd592404f8a6c052462ff4cc9e2fda79f2113b64dc59ec53a631590d97e1"
+    },
+    {
+      "id": "c04s08",
+      "expected": "Inspect your own low-stakes listening environment. Identify a signal, a source of competition and an accessibility support.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+      "heard": "Inspect your own low stakes listening environment. Identify a signal, a source of competition, and an accessibility support. Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 14.389,
+      "wpm": 148.5,
+      "peak": 0.420806884765625,
+      "flags": [],
+      "raw_sha256": "91d09a6f157d68c755c431332cc2b77e9bf65ff04d01a053bbc203388972c919"
+    },
+    {
+      "id": "c05s01",
+      "expected": "Before a café presentation Sam notices a fast heartbeat. Leo calls it proof of fear. Sam says there is also excitement, and asks whether the body can distinguish the two from pulse alone.",
+      "heard": "Before a cafe presentation, Sam notices a fast heartbeat. Leo calls it proof of fear. Sam says there is also excitement and asks whether the body can distinguish the two from pulse alone.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 12.203,
+      "wpm": 162.3,
+      "peak": 0.47344970703125,
+      "flags": [],
+      "raw_sha256": "22e1c7f33609f81947458e38be0e74a3dd710bc10f324d1d6630f609bf81a26a"
+    },
+    {
+      "id": "c05s02",
+      "expected": "First, make a prediction about the café story.\n\nWhat can the pulse establish by itself?\n\nA. Sam is definitely afraid.\n\nB. A bodily rate changed; the psychological meaning needs context.\n\nC. Sam is definitely excited rather than afraid.\n\nChoose an option before checking the feedback.",
+      "heard": "First, make a prediction about the cafe story. What can the pulse establish by itself? A, Sam is definitely afraid. B, a bodily rate changed. The psychological meaning needs context. C, Sam is definitely excited rather than afraid. Choose an option before checking the feedback.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 20.018,
+      "wpm": 161.0,
+      "peak": 0.405731201171875,
+      "flags": [],
+      "raw_sha256": "5ac00998f408382c9501634a3a4e743995412c34d3de53fe3e3dbe7fdee12362"
+    },
+    {
+      "id": "c05s02-feedback-0",
+      "expected": "Fear is one possible account, not a unique reading.",
+      "heard": "Fear is one possible account, not a unique reading.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 3.157,
+      "wpm": 171.0,
+      "peak": 0.3572998046875,
+      "flags": [],
+      "raw_sha256": "381b41209bc2e68d1e0c2446eeb891ea595729a81cb5ba75bb4a4c32ab85ecf9"
+    },
+    {
+      "id": "c05s02-feedback-1",
+      "expected": "This separates a measurement from the emotional interpretation.",
+      "heard": "This separates a measurement from the emotional interpretation.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 3.499,
+      "wpm": 137.2,
+      "peak": 0.4017333984375,
+      "flags": [],
+      "raw_sha256": "442e0fb8dd11eaa59016aadeeccd1325742a424dc9fc7ad3bb9edb4c20cc86ff"
+    },
+    {
+      "id": "c05s02-feedback-2",
+      "expected": "Excitement also cannot be uniquely inferred from pulse alone.",
+      "heard": "Excitement also cannot be uniquely inferred from pulse alone.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 3.669,
+      "wpm": 147.2,
+      "peak": 0.3297119140625,
+      "flags": [],
+      "raw_sha256": "e72cfbc1a9d0dc2d18b8d88f44178784c23d67926857e02898960337515ed0a2"
+    },
+    {
+      "id": "c05s03",
+      "expected": "Autonomic nervous system: regulation of many internal bodily functions. Sympathetic division: supports mobilization in many conditions. Parasympathetic division: supports regulation including recovery and digestion.\n\nAutonomic pathways help regulate cardiovascular, digestive and other functions. Their effects are organ-specific and coordinated with central processes.\n\nThe common mobilize-and-recover description is useful but simplified. The divisions are not two personality types or exact opposites in every organ and situation.",
+      "heard": "autonomic nervous system, regulation of many internal bodily functions, sympathetic division supports mobilization in many conditions, parasympathetic division, supports regulation including recovery and digestion. Autonomic pathways help regulate cardiovascular, digestive, and other functions. Their effects are organ-specific and coordinated with central processes. The common mobilize and recover description is useful but simplified. The divisions are not two personality types or exact opposites in every organ and situation.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 37.993,
+      "wpm": 111.2,
+      "peak": 0.48504638671875,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "3480836076001195547487e2ab92618e5b72b629bd36df12e87d9040c65cecd9"
+    },
+    {
+      "id": "c05s03b",
+      "expected": "Endocrine system: glands and signals regulating bodily functions. Feedback loop: system output influences subsequent regulation.\n\nHormones reach target tissues through circulation. Effects depend on receptors, timing and the state of the system. Feedback helps regulate activity over time.\n\nA single hormone measurement can vary with time of day and sampling conditions. It is not a direct scale of personality, stress damage or moral character.",
+      "heard": "Endocrine system, glands and signals regulating bodily functions. Feedback loop, system output influences subsequent regulation. Hormones reach target tissues through circulation. Effects depend on receptors, timing, and the state of the system. Feedback helps regulate activity over time. A single hormone measurement can vary with time of day and sampling conditions. It is not a direct scale of personality, stress damage, or moral character. .",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 30.121,
+      "wpm": 133.2,
+      "peak": 0.559539794921875,
+      "flags": [],
+      "raw_sha256": "c3a9f26512865f5077180a958e275a2fdf00d4361b377cb5a05f7aef769115a0"
+    },
+    {
+      "id": "c05s04",
+      "expected": "Physiological arousal: change in bodily activation. Interoception: sensing internal bodily states. Appraisal: evaluation of a situation’s significance.\n\nA fast heartbeat can accompany exertion, excitement, fear or other conditions. Interpretation also uses the situation, expectations and subjective experience.\n\nDo not infer another person’s emotion from one bodily cue. Ask what they report and consider other explanations; persistent or concerning symptoms need appropriate medical advice.",
+      "heard": "physiological arousal, change in bodily activation, interception, sensing internal bodily states, appraisal, evaluation of a situation's significance. A fast heartbeat can accompany exertion, excitement, fear, or other conditions. Interpretation also uses the situation, expectations and subjective experience. Do not infer another person's emotion from one bodily cue. ask what they report and consider other explanations. Persistent or concerning symptoms need appropriate medical advice.",
+      "ratio": 0.9841,
+      "model": "tiny.en",
+      "duration": 36.095,
+      "wpm": 108.6,
+      "peak": 0.5252685546875,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "9fae814717538778fd802ccd0683cc9b4b31cf2b6eeca72440321d3257164d36"
+    },
+    {
+      "id": "c05s05",
+      "expected": "Autonomic and endocrine measures help investigate regulation when sampling, context and suitable comparisons are specified. Individual signals usually lack psychological specificity.\n\nA course explanation cannot diagnose a symptom or justify changing medication.",
+      "heard": "Autonomic and endocrine measures help investigate regulation when sampling, context and suitable comparisons are specified. Individual signals usually lack psychological specificity. A course explanation cannot diagnose a symptom or justify changing medication.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 18.719,
+      "wpm": 106.3,
+      "peak": 0.455902099609375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "5972496bc1ef9c234f6f78ddf17343392e163db4a2627370890d91f0d6d8f31f"
+    },
+    {
+      "id": "c05s06",
+      "expected": "Apply the idea to this new fictional case.\n\nA social-media post interprets one hormone measurement as a complete measure of chronic stress.\n\nWhat additional information matters?\n\nA. Sampling time and conditions, plus suitable clinical interpretation.\n\nB. Whether the result matches a personality stereotype.\n\nC. A single universal normal value for every circumstance.\n\nChoose an option and write your reasoning before checking the feedback.",
+      "heard": "Apply the idea to this new fictional case. A social media post interprets one hormone measurement as a complete measure of chronic stress. What additional information matters? A, sampling time and conditions, plus suitable clinical interpretation. B, whether the result matches a personality stereotype. C, a single universal normal value for every circumstance. Choose an option and write your reasoning before checking the feedback.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 30.82,
+      "wpm": 148.1,
+      "peak": 0.49200439453125,
+      "flags": [],
+      "raw_sha256": "f0ee7f7bdf5f7b40f87566a14fb5e95313ee4a95f8e544e9c990304493b6d6a2"
+    },
+    {
+      "id": "c05s06-feedback-0",
+      "expected": "Biological measures need context and appropriate interpretation.",
+      "heard": "Biological measures need context and appropriate interpretation.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 5.096,
+      "wpm": 102.5,
+      "peak": 0.36248779296875,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "0922895a500d8aaf600ac0267da2f96c96d946ddfbc984807345a42f0bb75c8d"
+    },
+    {
+      "id": "c05s06-feedback-1",
+      "expected": "A stereotype is not a measurement model.",
+      "heard": "A stereotype is not a measurement model.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 3.453,
+      "wpm": 171.2,
+      "peak": 0.306915283203125,
+      "flags": [],
+      "raw_sha256": "9f96ab251d1d5940a0d6aa3015dd1b47f8be5ca9f4969ac7af4a0d0b563b4b2f"
+    },
+    {
+      "id": "c05s06-feedback-2",
+      "expected": "Reference values and sampling conditions are more complex.",
+      "heard": "Reference values and sampling conditions are more complex.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.669,
+      "wpm": 130.8,
+      "peak": 0.431182861328125,
+      "flags": [],
+      "raw_sha256": "75c5106a0cb84d7e3ea105a5dee3b85f7ef450aa4841cde5de9b7be2b353c9cc"
+    },
+    {
+      "id": "c05s07",
+      "expected": "Try these questions without your notes.\n\nWhy does hormone action depend on receptors?\n\nWhy is arousal not an emotion label?\n\nReveal the suggested answers after trying.",
+      "heard": "Try these questions without your notes. Why does hormone action depend on receptors? Why is arousal not an emotion label? Reveal the suggested answers after trying.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 12.998,
+      "wpm": 155.3,
+      "peak": 0.465423583984375,
+      "flags": [],
+      "raw_sha256": "45d0c1855c89949f6108166af8b7f63fd66d3af01bb38a9cbdd04c4aa1a48093"
+    },
+    {
+      "id": "c05s07-answers",
+      "expected": "Target tissues respond differently according to receptor and system context.\n\nSimilar bodily changes can occur in several emotions and non-emotional conditions.",
+      "heard": "Target tissues respond differently according to receptor and system context. Similar bodily changes can occur in several emotions and non-emotional conditions.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 11.741,
+      "wpm": 130.8,
+      "peak": 0.517242431640625,
+      "flags": [],
+      "raw_sha256": "7e8e9a5d6c40729da374f3652172ce1eefa588eb6ca3f5652b0b917090fe812a"
+    },
+    {
+      "id": "c05s08",
+      "expected": "For a fictional presentation scene, list one bodily observation, two possible explanations and a respectful question. Do not monitor or diagnose another person.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+      "heard": "For a fictional presentation scene, list one bodily observation, two possible explanations, and a respectful question. Do not monitor or diagnose another person. Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 17.418,
+      "wpm": 139.6,
+      "peak": 0.4202880859375,
+      "flags": [],
+      "raw_sha256": "a4bccf012ab1d5ba04a554cf3c636dbdbcc2fffee3147cde30d6031f2b655cfb"
+    },
+    {
+      "id": "c06s01",
+      "expected": "A sudden alarm interrupts the café. Sam feels alert and reacts quickly. Later a headline says every stress response damages the brain. Maya asks whether brief mobilization and prolonged strain are the same claim.",
+      "heard": "a sudden alarm interrupts the cafe. Sam feels alert and reacts quickly. Later a headline says every stress response damages the brain. Maya asks whether brief mobilization and prolonged strain are the same claim.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 13.995,
+      "wpm": 145.8,
+      "peak": 0.52001953125,
+      "flags": [],
+      "raw_sha256": "a283e679b82c1d262ed1f746587c93deb68f94e4f71b3acb8746f9274a6980a9"
+    },
+    {
+      "id": "c06s02",
+      "expected": "First, make a prediction about the café story.\n\nHow should the headline be qualified?\n\nA. Every stress response causes the same damage.\n\nB. Acute mobilization and prolonged strain need different evidence.\n\nC. A useful alarm response proves stress has no risks.\n\nChoose an option before checking the feedback.",
+      "heard": "First, make a prediction about the cafe story. How should the headline be qualified? A, every stress response causes the same damage. B, acute mobilization, and prolonged strain need different evidence. C, a useful alarm response proves stress has no risks. Choose an option before checking the feedback.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 21.191,
+      "wpm": 160.5,
+      "peak": 0.570556640625,
+      "flags": [],
+      "raw_sha256": "7e512ea8d31501d73670caba4cbd7234121c2d24dc5239e5408b2d367c8a30f0"
+    },
+    {
+      "id": "c06s02-feedback-0",
+      "expected": "That erases duration, dose and individual context.",
+      "heard": "That erases duration, dose and individual context.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 3.605,
+      "wpm": 116.5,
+      "peak": 0.37640380859375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "cc58063111f3e6ac1dadc60eee75ba678d18bdc3ac4df36cf2200c15d6687f3b"
+    },
+    {
+      "id": "c06s02-feedback-1",
+      "expected": "This separates a short-term function from long-term risk claims.",
+      "heard": "This separates a short-term function from long-term risk claims.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 3.733,
+      "wpm": 176.8,
+      "peak": 0.430755615234375,
+      "flags": [],
+      "raw_sha256": "d1394b977e6795848fe49419b7158d7a134195b179402ec4f5ce8ec17de1b20c"
+    },
+    {
+      "id": "c06s02-feedback-2",
+      "expected": "Short-term usefulness does not establish long-term harmlessness.",
+      "heard": "Short-term usefulness does not establish long-term harmlessness.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 3.776,
+      "wpm": 143.0,
+      "peak": 0.370880126953125,
+      "flags": [],
+      "raw_sha256": "66843d64e41ffc6e4eda4b33e6781955f26ff78ec18391974a71571b4a892ee0"
+    },
+    {
+      "id": "c06s03",
+      "expected": "Stressor: a demand or threat capable of eliciting a response. Stress response: coordinated response to a perceived demand. Acute stress: a response over a relatively short period.\n\nStress responses can mobilize attention and resources for immediate demands. Whether a response helps depends on the task, its intensity and the available resources.\n\nA useful short-term response is not evidence that prolonged strain is harmless. Likewise, a long-term risk association does not mean every alarm response causes damage.",
+      "heard": "Stressor, a demand or threat capable of eliciting a response. Stress response, coordinated response to a perceived demand. Acute stress, a response over a relatively short period. Stress responses can mobilize attention and resources for immediate demands. Whether a response helps depends on the task, its intensity, and the available resources. A useful short-term response is not evidence that prolonged strain is harmless. Likewise, a long-term risk association does not mean every alarm response causes damage.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 36.159,
+      "wpm": 134.3,
+      "peak": 0.55279541015625,
+      "flags": [],
+      "raw_sha256": "e9b3e7efbff894852b7f7b282e72a9f1eef2a90fb1b900be1866c9379cd6f6c2"
+    },
+    {
+      "id": "c06s03b",
+      "expected": "Hypothalamic–pituitary–adrenal axis: linked hormonal stress-regulation pathway. Allostasis: stability supported through changing regulation.\n\nStress regulation involves autonomic and hormonal systems, including the hypothalamic, pituitary and adrenal pathway. Cortisol has ordinary regulatory functions as well as changing with some stressors.\n\nIts level depends on time, health and measurement conditions. A single sample cannot reveal a person’s complete stress history.",
+      "heard": "Hypothelamic pituitary adrenal axis linked hormonal stress regulation pathway, allostasis, stability supported through changing regulation. Stress regulation involves autonomic and hormonal systems, including the hypothelamic pituitary and adrenal pathway. Cortisol has ordinary regulatory functions as well as changing with some stressors. Its level depends on time, health, and measurement conditions. A single sample cannot reveal a person's complete stress history.",
+      "ratio": 0.9667,
+      "model": "tiny.en",
+      "duration": 32.916,
+      "wpm": 113.9,
+      "peak": 0.515625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "ded7f6f123216b83f181507be1e30beafd09dba058e7e6d54867ebf71ce4062c"
+    },
+    {
+      "id": "c06s04",
+      "expected": "Allostatic load: cumulative burden associated with repeated adaptation. Recovery: return or adjustment following demands. Confounding: other factors contributing to an association.\n\nResearch relates prolonged adversity and physiological regulation to health, using multiple measures and long timescales. Causal interpretation must consider health, resources and other exposures.\n\nWorkload, safety and material support matter. An individual relaxation exercise is not an adequate answer to every structural stressor.",
+      "heard": "Allostatic load, cumulative burden associated with repeated adaptation. Recovery, return, or adjustment following demands. Confounding, other factors contributing to an association. Research relates prolonged adversity and physiological regulation to health, using multiple measures and long time scales. Causal interpretation must consider health, resources, and other exposures. workload, safety, and material support matter. An individual relaxation exercise is not an adequate answer to every structural stressor.",
+      "ratio": 0.9767,
+      "model": "tiny.en",
+      "duration": 35.689,
+      "wpm": 111.7,
+      "peak": 0.530426025390625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "ef994980196c98ac48bd8524bbcb09e9f4a4c3e9e1d4a3077e33e89548636978"
+    },
+    {
+      "id": "c06s05",
+      "expected": "Allostatic-load measures are composites, and studies differ in which indicators they include. Longitudinal associations do not turn one cortisol result into proof of damage.\n\nPersistent distress or physical concerns need appropriate care. The course does not prescribe a biological treatment.",
+      "heard": "Allostatic load measures are composites and studies differ in which indicators they include. Longitudinal associations do not turn one cortisol result into proof of damage. Persistent distress or physical concerns need appropriate care. The course does not prescribe a biological treatment.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 19.53,
+      "wpm": 130.3,
+      "peak": 0.42840576171875,
+      "flags": [],
+      "raw_sha256": "cb3a901d6da73d04c8436a46fc25fc5717d8b58729bd63cfb24aa962a7c73b5f"
+    },
+    {
+      "id": "c06s06",
+      "expected": "Apply the idea to this new fictional case.\n\nA volunteer reports repeated overload because staffing and break arrangements have changed.\n\nWhat response fits the situation best?\n\nA. Address recurring workload and support, then evaluate outcomes.\n\nB. Assign a fixed stress personality.\n\nC. Treat one breathing exercise as sufficient evidence of recovery.\n\nChoose an option and write your reasoning before checking the feedback.",
+      "heard": "Apply the idea to this new fictional case. A volunteer report's repeated overload because staffing and break arrangements have changed. What response fits the situation best? A, address recurring workload and support, then evaluate outcomes. B, assign a fixed stress personality. C, treat one, breathing exercise as sufficient evidence of recovery. Choose an option and write your reasoning before checking the feedback.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 29.625,
+      "wpm": 150.5,
+      "peak": 0.549224853515625,
+      "flags": [],
+      "raw_sha256": "cbed2eb9fb7026ad45a3c38acb4d8ecbe9f1330d48438cb720b503339a1c4e9c"
+    },
+    {
+      "id": "c06s06-feedback-0",
+      "expected": "The persistent demand and available resources are relevant targets.",
+      "heard": "The persistent demand and available resources are relevant targets.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 5.117,
+      "wpm": 131.2,
+      "peak": 0.453857421875,
+      "flags": [],
+      "raw_sha256": "2ea6186b2ec298579c4fe52ac816bbf220865ea6a6589b0330335e9caaf43baa"
+    },
+    {
+      "id": "c06s06-feedback-1",
+      "expected": "A personality label does not identify the cause or needed change.",
+      "heard": "A personality label does not identify the cause or needed change.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 5.245,
+      "wpm": 155.5,
+      "peak": 0.327545166015625,
+      "flags": [],
+      "raw_sha256": "592385aa1ab807bbe6f6c21d117e3873545516de6c91f4f3f36e4706998576f7"
+    },
+    {
+      "id": "c06s06-feedback-2",
+      "expected": "A local exercise does not demonstrate resolution of ongoing strain.",
+      "heard": "A local exercise does not demonstrate resolution of ongoing strain.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 5.48,
+      "wpm": 133.9,
+      "peak": 0.5262451171875,
+      "flags": [],
+      "raw_sha256": "0c941ba4a28cc20c2a76c7189b2b919ac0ec59478fc50963d629470e8b0a112c"
+    },
+    {
+      "id": "c06s07",
+      "expected": "Try these questions without your notes.\n\nWhy is cortisol not simply a damage chemical?\n\nWhat is allostatic load intended to describe?\n\nReveal the suggested answers after trying.",
+      "heard": "Try these questions without your notes. Why is cortisol not simply a damaged chemical? What is allostatic load intended to describe? Reveal the suggested answers after trying.",
+      "ratio": 0.963,
+      "model": "tiny.en",
+      "duration": 13.489,
+      "wpm": 153.7,
+      "peak": 0.47955322265625,
+      "flags": [],
+      "raw_sha256": "4f3c109dd684d0355a6b569eeb643d453d2827cf7898df6137c5c9792aafb40d"
+    },
+    {
+      "id": "c06s07-answers",
+      "expected": "It has normal regulatory functions and varies with time and context.\n\nCumulative physiological burden associated with repeated adaptation, estimated using specified measures.",
+      "heard": "It has normal regulatory functions and varies with time and context. Cumulative physiological burden associated with repeated adaptation, estimated using specified measures.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 13.149,
+      "wpm": 114.8,
+      "peak": 0.51654052734375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "ba5e01b173a7a7f6ebdf894808a77517ccb4a4ed79fae9df1eceb092ceb5f691"
+    },
+    {
+      "id": "c06s08",
+      "expected": "Use a fictional recurring workload problem. Separate demand, response, recovery opportunity and a change in the environment.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+      "heard": "Use a fictional recurring workload problem. Separate demand, response, recovery opportunity, and a change in the environment. Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 14.133,
+      "wpm": 146.9,
+      "peak": 0.442291259765625,
+      "flags": [],
+      "raw_sha256": "253dcd31a01f20b4811f3df1f3ddd74265fb3b261eeb6a508916e04eef80edd0"
+    },
+    {
+      "id": "c07s01",
+      "expected": "Pat feels sleepy late at night after a long day. Jo, working a shifted schedule, feels alert then but sleepy in the morning. Leo says both should simply decide to sleep at the same time.",
+      "heard": "Pat feels sleepy late at night after a long day. Joe, working a shifted schedule, feels alert then but sleepy in the morning. Leo says both should simply decide to sleep at the same time.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 11.477,
+      "wpm": 183.0,
+      "peak": 0.422698974609375,
+      "flags": [],
+      "raw_sha256": "928c31ad763c928f085005187cafdc65ff411d5e00c9863ca47c8c5afaf71379"
+    },
+    {
+      "id": "c07s02",
+      "expected": "First, make a prediction about the café story.\n\nWhat is missing from Leo’s instruction?\n\nA. Circadian timing and accumulated wakefulness.\n\nB. The claim that sleep is only a choice.\n\nC. The assumption that feeling alert proves sufficient sleep.\n\nChoose an option before checking the feedback.",
+      "heard": "First, make a prediction about the cafe story. What is missing from Leo's instruction? A, circadian timing, and accumulated wakefulness. B, the claim that sleep is only a choice. C, the assumption that feeling alert proves sufficient sleep. Choose an option before checking the feedback.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 19.378,
+      "wpm": 167.4,
+      "peak": 0.490020751953125,
+      "flags": [],
+      "raw_sha256": "44fec043809315cd896e4a6045db9be9fc1ef0a42ec2378e462a4c2a7df412b5"
+    },
+    {
+      "id": "c07s02-feedback-0",
+      "expected": "Both processes and the available sleep opportunity matter.",
+      "heard": "both processes and the available sleep opportunity matter.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 3.435,
+      "wpm": 139.8,
+      "peak": 0.349822998046875,
+      "flags": [],
+      "raw_sha256": "27f2c37052cd3d0c0ae3164f3e552d7ef416d0d6200b10462d4eeb278cc3f26d"
+    },
+    {
+      "id": "c07s02-feedback-1",
+      "expected": "That is the oversimplification, not the missing mechanism.",
+      "heard": "That is the oversimplification, not the missing mechanism.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 3.584,
+      "wpm": 133.9,
+      "peak": 0.402984619140625,
+      "flags": [],
+      "raw_sha256": "9b32f2f7c9d97a481505ba4f119b833fb062b15a2b87db0ac58dfbf898405581"
+    },
+    {
+      "id": "c07s02-feedback-2",
+      "expected": "Subjective alertness does not uniquely establish adequate sleep.",
+      "heard": "Subjective alertness does not uniquely establish adequate sleep.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 3.904,
+      "wpm": 123.0,
+      "peak": 0.35845947265625,
+      "flags": [],
+      "raw_sha256": "bb299ce06b945444979c29c5ad6072dacb455d089a3801b15147dd2d2dca57ad"
+    },
+    {
+      "id": "c07s03",
+      "expected": "Circadian rhythm: approximately daily biological cycle. Sleep pressure: need for sleep increasing with sustained wakefulness. Entrainment: alignment of a rhythm to external timing cues.\n\nSleep timing reflects both accumulated wakefulness and circadian regulation. Light is an important timing cue, alongside behaviour and social schedules.\n\nFeeling alert does not necessarily mean a person is fully rested. Shift schedules can place biological timing and required activity in conflict.",
+      "heard": "Circadian rhythm, approximately daily biological cycle, sleep pressure, need for sleep increasing with sustained wakefulness, entrainment, alignment of a rhythm to external timing cues. Sleep timing reflects both accumulated wakefulness and circadian regulation. Light is an important timing cue, alongside behavior and social schedules. Feeling alert does not necessarily mean a person is fully rested. Shift schedules can place biological timing and required activity in conflict.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 34.068,
+      "wpm": 120.8,
+      "peak": 0.475006103515625,
+      "flags": [],
+      "raw_sha256": "375a9fd9feaa1ce0c28cfb779f89aa1498c7d6a70ad91b3b11f1dd65665b9318"
+    },
+    {
+      "id": "c07s03b",
+      "expected": "Non-rapid-eye-movement sleep: sleep stages without rapid eye movements. Rapid-eye-movement sleep: sleep stage with characteristic eye movements. Sleep architecture: organization of sleep stages across time.\n\nSleep cycles through stages identified using physiological measures. Stages differ in features such as brain activity, muscle tone and eye movements.\n\nSleep supports several functions, including aspects of memory and regulation. Dreams are not restricted to one simple function, and a stage label is not a unique psychological meaning.",
+      "heard": "Non-rapid eye movement sleep. Sleep stages without rapid eye movements. Rapid eye movement sleep. Sleep stage with characteristic eye movements. Sleep architecture. Organization of sleep stages across time. Sleep cycles through stages identified using physiological measures. Stages differ in features such as brain activity, muscle tone, and eye movements. Sleep supports several functions, including aspects of memory and regulation. Dreams are not restricted to one simple function, and a stage label is not a unique psychological meaning.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 36.777,
+      "wpm": 131.9,
+      "peak": 0.74468994140625,
+      "flags": [],
+      "raw_sha256": "4e3f02d84f3a84c2b0df4f2625d40e055ff766acf423aa80ae597f4f0c807dda"
+    },
+    {
+      "id": "c07s04",
+      "expected": "Sleep opportunity: time and conditions available for sleeping. Measurement validity: whether a measure supports its intended use.\n\nConsumer devices infer sleep from limited signals; their estimates are not equivalent to a complete clinical sleep study. Judge a device against validation for its claimed use.\n\nPersistent sleep difficulties, breathing concerns or excessive sleepiness warrant appropriate care. Do not alter medication or undertake sleep deprivation as course practice.",
+      "heard": "Sleep opportunity, time and conditions available for sleeping, measurement validity, whether a measure supports its intended use. Consumer devices, in first sleep from limited signals, their estimates are not equivalent to a complete clinical sleep study. Judge a device against validation for its claimed use. Persistent sleep difficulties, breathing concerns or excessive sleepiness warrant appropriate care. Do not alter medication or undertake sleep deprivation as course practice.",
+      "ratio": 0.9774,
+      "model": "tiny.en",
+      "duration": 31.977,
+      "wpm": 129.1,
+      "peak": 0.68597412109375,
+      "flags": [],
+      "raw_sha256": "93a91da9ee61414b6bea95489b2204fb19c63746644a6e145d5e423a039423e2"
+    },
+    {
+      "id": "c07s05",
+      "expected": "Sleep findings depend on duration, timing, task and measurement. Laboratory deprivation studies inform specific outcomes without establishing every real-world effect.\n\nSleep needs and clinical problems vary. The course provides concepts rather than individualized sleep treatment.",
+      "heard": "Sleep findings depend on duration, timing, task, and measurement. Laboratory deprivation studies inform specific outcomes without establishing every real-world effect. Sleep needs and clinical problems vary. The course provides concepts rather than individualized sleep treatment.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 18.869,
+      "wpm": 118.6,
+      "peak": 0.51861572265625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "1d8b83cb285a5da9bb7cd08a423b1e59a26823ccbb29904ea8bf8cb2a927fb99"
+    },
+    {
+      "id": "c07s06",
+      "expected": "Apply the idea to this new fictional case.\n\nA wrist device labels several minutes as a specific sleep stage using movement and pulse data.\n\nWhich conclusion fits the evidence?\n\nA. The device can diagnose every sleep disorder.\n\nB. The estimate needs validation for that particular use.\n\nC. Any estimate with uncertainty is useless.\n\nChoose an option and write your reasoning before checking the feedback.",
+      "heard": "Apply the idea to this new fictional case. A wrist device labels several minutes as a specific sleep stage using movement and pulse data, which conclusion fits the evidence. A, the device can diagnose every sleep disorder. B, the estimate needs validation for that particular use. C, any estimate with uncertainty is useless. Choose an option and write your reasoning before checking the feedback.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 28.495,
+      "wpm": 162.7,
+      "peak": 0.610687255859375,
+      "flags": [],
+      "raw_sha256": "eaf1ac9c2b0a35116044c98959101941e5ae58819eed241b68ef321894eea4eb"
+    },
+    {
+      "id": "c07s06-feedback-0",
+      "expected": "The available signals do not support such an unrestricted diagnostic claim.",
+      "heard": "The available signals do not support such an unrestricted diagnostic claim.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 5.672,
+      "wpm": 141.3,
+      "peak": 0.4339599609375,
+      "flags": [],
+      "raw_sha256": "053505946c6c20a87c394b1a442358578ab7f653800fde19b037b636c54c65de"
+    },
+    {
+      "id": "c07s06-feedback-1",
+      "expected": "Validation should match the claimed stage or clinical inference.",
+      "heard": "Validation should match the claims stage or clinical inference.",
+      "ratio": 0.8889,
+      "model": "tiny.en",
+      "duration": 4.776,
+      "wpm": 143.0,
+      "peak": 0.429656982421875,
+      "flags": [
+        "words"
+      ],
+      "raw_sha256": "3ede304e26ae1059a15948e7bfc8e47f60b7eea9820a1c10158e764efca89961"
+    },
+    {
+      "id": "c07s06-feedback-2",
+      "expected": "Estimates can be useful while retaining defined limits.",
+      "heard": "Estimates can be useful while retaining defined limits.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.179,
+      "wpm": 151.0,
+      "peak": 0.580291748046875,
+      "flags": [],
+      "raw_sha256": "dcf689dd8858f8588937abdd29a2b13f9a24c000d5c58ff508b5310cecb85a6c"
+    },
+    {
+      "id": "c07s07",
+      "expected": "Try these questions without your notes.\n\nHow do circadian timing and sleep pressure differ?\n\nWhy distinguish a tracker from clinical assessment?\n\nReveal the suggested answers after trying.",
+      "heard": "Try these questions without your notes. How do circadian timing and sleep pressure differ? Why distinguish a tracker from clinical assessment? Reveal the suggested answers after trying.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 13.446,
+      "wpm": 154.3,
+      "peak": 0.481475830078125,
+      "flags": [],
+      "raw_sha256": "ccb93673528d8ce1353414e04dd8b8c40916d6f1da5858135354e024f4f5ed1d"
+    },
+    {
+      "id": "c07s07-answers",
+      "expected": "One modulates timing over the day; the other reflects accumulated wakefulness.\n\nSignals, validation and intended uses differ, and clinical interpretation requires more context.",
+      "heard": "One modulates timing over the day. The other reflects accumulated wakefulness. Signals, validation, and intended uses differ, and clinical interpretation requires more context.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 13.255,
+      "wpm": 118.9,
+      "peak": 0.58795166015625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "4323b56627dd82db214b3b5b5494835eb761acbab7bbabed4c5515a07b1e7866"
+    },
+    {
+      "id": "c07s08",
+      "expected": "Evaluate a public sleep-device claim using its measured signals and intended use. Do not change your sleep duration to run an experiment.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+      "heard": "Evaluate a public sleep device, claim using its measured signals and intended use. Do not change your sleep duration to run an experiment. Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 15.37,
+      "wpm": 159.0,
+      "peak": 0.4395751953125,
+      "flags": [],
+      "raw_sha256": "eac1cebaa4728e6d09f2f6fc32ec03319a5d21902abe8f79f0449cb8a581b32b"
+    },
+    {
+      "id": "c08s01",
+      "expected": "A visitor advertises a gene test for motivation. Leo says a high heritability estimate means a trait cannot change. Sam asks what the estimate describes and whether it explains an individual.",
+      "heard": "A visitor advertises a gene test for motivation. Leo says a high-heritability estimate means a trait cannot change. Sam asks what the estimate describes and whether it explains an individual.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 12.928,
+      "wpm": 143.9,
+      "peak": 0.543426513671875,
+      "flags": [],
+      "raw_sha256": "5f928bda495da6e27abb619a2bfb07422cc5fb3c8d931c7fcdccc50cd87d6e99"
+    },
+    {
+      "id": "c08s02",
+      "expected": "First, make a prediction about the café story.\n\nWhat does a heritability estimate describe?\n\nA. A fixed percentage of one person’s trait.\n\nB. Variation in a population under specified conditions.\n\nC. How much a trait can never change.\n\nChoose an option before checking the feedback.",
+      "heard": "First, make a prediction about the cafe story. What does a heritability estimate describe? A, a fixed percentage of one person's trait. B, variation in a population under specified conditions. C, how much a trait can never change. Choose an option before checking the feedback.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 19.357,
+      "wpm": 167.6,
+      "peak": 0.545989990234375,
+      "flags": [],
+      "raw_sha256": "09c00720a576e227120ba382a667ee4fb4f16451c21cbf1c164a9a31d739309a"
+    },
+    {
+      "id": "c08s02-feedback-0",
+      "expected": "The estimate is about population variation, not a personal decomposition.",
+      "heard": "The estimate is about population variation, not a personal decomposition.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.8,
+      "wpm": 125.0,
+      "peak": 0.588714599609375,
+      "flags": [],
+      "raw_sha256": "7ae89e2b59d7dbd8059210a671b4dbf62e62efe4b53e8af1afa38a150c1479a1"
+    },
+    {
+      "id": "c08s02-feedback-1",
+      "expected": "Population, environment range, measure and model define its interpretation.",
+      "heard": "population, environment range, measure and model define its interpretation.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 5.013,
+      "wpm": 107.7,
+      "peak": 0.450531005859375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "e997f6f03c32b8b91dbb011c8664324c536264168591fbb19b65dce16525abce"
+    },
+    {
+      "id": "c08s02-feedback-2",
+      "expected": "Heritability and modifiability are different questions.",
+      "heard": "Heritability and Modify ability are different questions.",
+      "ratio": 0.7692,
+      "model": "tiny.en",
+      "duration": 3.307,
+      "wpm": 108.9,
+      "peak": 0.35137939453125,
+      "flags": [
+        "pace",
+        "words"
+      ],
+      "raw_sha256": "62f50cfde4abd7b7274ec4d3e8eb35b093540ee7c618ef2ee0324ec589e6cf5a"
+    },
+    {
+      "id": "c08s03",
+      "expected": "Gene: a DNA sequence involved in biological function. Genotype: genetic constitution at relevant sites.\n\nGenes contribute through biological processes in developing environments. Complex psychological traits usually involve many variants with small, context-dependent associations.\n\nA genetic association is not a single-purpose instruction for a behaviour. The phenotype depends on development, measurement and circumstances.",
+      "heard": "Gene, a DNA sequence involved in biological function, genotype, genetic constitution at relevant sites. Gene's contribute through biological processes in developing environments. Complex psychological traits usually involve many variants with small, context dependent associations. A genetic association is not a single-purpose instruction for a behavior. The phenotype depends on development, measurement, and circumstances.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 30.377,
+      "wpm": 111.4,
+      "peak": 0.397430419921875,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "3a2a83f59bfd0ac979005d7104d7fa0d1765f4226d82321c210747fab5015dbc"
+    },
+    {
+      "id": "c08s03b",
+      "expected": "Gene–environment interaction: genetic effects vary across environments. Gene–environment correlation: genetic differences associated with environmental exposure.\n\nHeritability concerns differences within a specified population and range of environments. It does not state what percentage of one person’s trait is genetic.\n\nA high estimate does not imply that environmental changes are ineffective. Estimates can change when conditions or measurement change.",
+      "heard": "Gene environment interaction, genetic effects vary across environments. Gene environment correlation, genetic differences associated with environmental exposure. Heritability concerns differences within a specified population and range of environments. It does not state what percentage of one person's trait is genetic. A high estimate does not imply that environmental changes are ineffective. Estimates can change when conditions or measurement change.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 31.337,
+      "wpm": 117.9,
+      "peak": 0.520843505859375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "b6757cc4f87ca4e86c55a52894ec06f351ba6cbb3724007019db7d33bc06d08f"
+    },
+    {
+      "id": "c08s04",
+      "expected": "Polygenic score: weighted summary of many genetic associations. Population transfer: performance in a different population. Association: statistical relationship without automatic causation.\n\nA genetic score’s predictive value depends on the outcome, sample and reference data. Performance can fall in populations unlike the study group.\n\nPrediction does not identify a modifiable mechanism or justify ranking someone’s worth. Privacy and informed consent matter for genetic information.",
+      "heard": "Polygenic score weighted summary of many genetic associations, population transfer, performance in a different population. Association, statistical relationship without automatic causation. A genetic score's predictive value depends on the outcome, sample, and reference data. Performance can fall in populations unlike the study group. Prediction does not identify a modifiable mechanism or justify ranking someone's worth. Privacy and informed consent matter for genetic information.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 34.409,
+      "wpm": 114.2,
+      "peak": 0.4659423828125,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "9e71ca73d14416d0a28902684bd3447adfedd4420e6e74d7c1eeba93b2264eaa"
+    },
+    {
+      "id": "c08s05",
+      "expected": "Genetically informative studies rely on design assumptions and measured environments. Association studies need replication and careful attention to population structure.\n\nAn introductory example cannot validate a genetic product or establish an individual prognosis.",
+      "heard": "Genetically informative studies rely on design assumptions and measured environments. Association studies need replication and careful attention to population structure. An introductory example cannot validate a genetic product or establish an individual prognosis.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 18.57,
+      "wpm": 110.5,
+      "peak": 0.407562255859375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "0270030b51a469b2f268e430271714bd6c2b51559947a0ba567b63b0a5313ff6"
+    },
+    {
+      "id": "c08s06",
+      "expected": "Apply the idea to this new fictional case.\n\nA company offers a DNA-based score to decide who should lead a volunteer team.\n\nWhat should be checked before using the score?\n\nA. Whether the label sounds biologically precise.\n\nB. Whether any gene association exists at all.\n\nC. Independent validation for the population and intended decision.\n\nChoose an option and write your reasoning before checking the feedback.",
+      "heard": "Apply the idea to this new fictional case. A company offers a DNA-based score to decide who should lead a volunteer team. What should be checked before using the score? A, whether the label sounds biologically precise. B, whether any gene association exists at all. C, independent validation for the population and intended decision. Choose an option and write your reasoning before checking the feedback.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 28.9,
+      "wpm": 165.0,
+      "peak": 0.495208740234375,
+      "flags": [],
+      "raw_sha256": "2c70f061246cd553c6be6e870925b7ab45cfba47721bfc2c80197e693095b4e2"
+    },
+    {
+      "id": "c08s06-feedback-0",
+      "expected": "A precise-sounding label does not establish useful prediction.",
+      "heard": "A precise sounding label does not establish useful prediction.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.776,
+      "wpm": 143.0,
+      "peak": 0.359954833984375,
+      "flags": [],
+      "raw_sha256": "4c9b7680b8e1188ec15620ab4bd2a43b6dbc5279db8a1754145e7f96925664b2"
+    },
+    {
+      "id": "c08s06-feedback-1",
+      "expected": "Some association is insufficient to justify a practical individual decision.",
+      "heard": "Some association is insufficient to justify a practical individual decision.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 6.291,
+      "wpm": 113.4,
+      "peak": 0.418975830078125,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "cbf1fedb357d87d04d903d938a3833314396bcaaac65fa4609247bb8067bd155"
+    },
+    {
+      "id": "c08s06-feedback-2",
+      "expected": "Validation must address actual predictive value, uncertainty and population transfer.",
+      "heard": "Validation must address actual predictive value, uncertainty and population transfer.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 6.568,
+      "wpm": 107.8,
+      "peak": 0.37420654296875,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "a9ea1bdc528a13796ff8b98e048976a6168c9c3bcb3d150bf08158c9c352f090"
+    },
+    {
+      "id": "c08s07",
+      "expected": "Try these questions without your notes.\n\nWhy is heritability not immutability?\n\nWhy may a polygenic score transfer poorly?\n\nReveal the suggested answers after trying.",
+      "heard": "Try these questions without your notes. Why is heritability, not immutability? Why may a polygenic score transfer poorly? Reveal the suggested answers after trying.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 12.87,
+      "wpm": 145.2,
+      "peak": 0.489044189453125,
+      "flags": [],
+      "raw_sha256": "721c211bcddfc1f55564213d5b2342619d57c7d16d11410e5163d2cc0836c023"
+    },
+    {
+      "id": "c08s07-answers",
+      "expected": "A population variance estimate does not show how outcomes respond to changed conditions.\n\nIts associations and reference data may not match the new population or environment.",
+      "heard": "A population variance estimate does not show how outcomes respond to changed conditions. Its associations and reference data may not match the new population or environment.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 12.722,
+      "wpm": 140.9,
+      "peak": 0.377838134765625,
+      "flags": [],
+      "raw_sha256": "7b2697d5c9176d1ad36448e76ad813d220a49968d55bba00644ed9740d4e55d9"
+    },
+    {
+      "id": "c08s08",
+      "expected": "Rewrite a public genes-for-behaviour headline with the population, measured outcome and uncertainty made explicit.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+      "heard": "We write a public genes for behavior headline with the population, measured outcome and uncertainty made explicit, return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+      "ratio": 0.9538,
+      "model": "tiny.en",
+      "duration": 13.13,
+      "wpm": 153.8,
+      "peak": 0.441375732421875,
+      "flags": [],
+      "raw_sha256": "5c8f710cf462f7ba069576e1d0b6029c1f5b96f4a1281bfaa341558d4c133e77"
+    },
+    {
+      "id": "c09s01",
+      "expected": "After weeks of practice, Sam identifies familiar radio faults faster. A training app calls this proof of a stronger brain. Maya asks whether the improvement transfers to an unfamiliar task.",
+      "heard": "After weeks of practice, SAM identifies familiar radio faults faster. A training app calls this proof of a stronger brain. Maya asks whether the improvement transfers to an unfamiliar task.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 12.267,
+      "wpm": 146.7,
+      "peak": 0.483123779296875,
+      "flags": [],
+      "raw_sha256": "10815c493e7d2d9b7b3758b566d33bbde54d4c1fc91896f7b5bf0aa389ec932f"
+    },
+    {
+      "id": "c09s02",
+      "expected": "First, make a prediction about the café story.\n\nWhat does Sam’s improvement support most directly?\n\nA. Better performance on the practiced repair task.\n\nB. A permanent increase in all mental abilities.\n\nC. Proof that any training app works.\n\nChoose an option before checking the feedback.",
+      "heard": "First, make a prediction about the cafe story. What does SAM's improvement support most directly? A, better performance on the practice repair task. B, a permanent increase in all mental abilities. C, proof that any training app works. Choose an option before checking the feedback.",
+      "ratio": 0.9778,
+      "model": "tiny.en",
+      "duration": 18.973,
+      "wpm": 171.7,
+      "peak": 0.43585205078125,
+      "flags": [],
+      "raw_sha256": "2ca8efeb4d161d799c7c0bab34adfeb74f9593d4ac6319cbd963f59320ca9a1a"
+    },
+    {
+      "id": "c09s02-feedback-0",
+      "expected": "The improvement is meaningful but task-specific until further tested.",
+      "heard": "The improvement is meaningful, but tasks specific until further tested.",
+      "ratio": 0.9,
+      "model": "tiny.en",
+      "duration": 4.203,
+      "wpm": 142.8,
+      "peak": 0.3621826171875,
+      "flags": [],
+      "raw_sha256": "f4bb3740d4ba174d9ff53e4bc43e33e2188d6fd4f7d25c1507b6ac7da413553d"
+    },
+    {
+      "id": "c09s02-feedback-1",
+      "expected": "The observed task does not establish broad or permanent change.",
+      "heard": "The observe task does not establish broad or permanent change.",
+      "ratio": 0.9,
+      "model": "tiny.en",
+      "duration": 3.669,
+      "wpm": 163.5,
+      "peak": 0.434661865234375,
+      "flags": [],
+      "raw_sha256": "2ee8d6928f267a6eb15a0b7d83da060a1148c94bc31c5c4fe0c350869bdfd316"
+    },
+    {
+      "id": "c09s02-feedback-2",
+      "expected": "This says nothing about an unrelated product.",
+      "heard": "This says nothing about an unrelated product.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 2.837,
+      "wpm": 148.0,
+      "peak": 0.336578369140625,
+      "flags": [],
+      "raw_sha256": "0d9112f843c703b7cef2c4338c45e99ee4686c336ed870fc95720865af5bbf8e"
+    },
+    {
+      "id": "c09s03",
+      "expected": "Neuroplasticity: change in neural organization or function. Experience-dependent change: change associated with particular experience. Synaptic plasticity: change in the effectiveness of connections.\n\nNervous systems change with development, experience, injury and learning. Plasticity includes several mechanisms and timescales.\n\nCalling an activity plasticity does not tell us whether a change is beneficial or durable. The effect must be measured against a specific outcome.",
+      "heard": "Neuroplasticity, change in neural organization or function, experience dependent change, change associated with particular experience, synaptic plasticity, change in the effectiveness of connections. Nervous systems change with development, experience, injury, and learning. Plasticity includes several mechanisms and time scales. Calling an activity plasticity does not tell us whether a change is beneficial or durable. The effect must be measured against a specific outcome.",
+      "ratio": 0.976,
+      "model": "tiny.en",
+      "duration": 32.852,
+      "wpm": 117.9,
+      "peak": 0.50885009765625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "417cfb07cb2cf3a3cbe167a6fbe1bfd6619c399c496272e027894cc773c85919"
+    },
+    {
+      "id": "c09s03b",
+      "expected": "Near transfer: benefit on a closely related task. Far transfer: benefit on a substantially different task. Active control: comparison with a credible alternative activity.\n\nSam may learn the regularities of familiar repairs. That is useful even if general memory does not change.\n\nTo test a broader benefit, compare suitable groups on untrained outcomes, account for expectations and assess persistence. A pre-to-post improvement without a comparison leaves practice and other explanations open.",
+      "heard": "Near transfer, benefit on a closely related task. Far transfer, benefit on a substantially different task. Active control, comparison with a credible alternative activity. Sam may learn the regularities of familiar repairs. That is useful even if general memory does not change. To test a broader benefit, compare suitable groups on untrained outcomes, account for expectations and assess persistence. A pre-to-post improvement without a comparison leaves practice and other explanations open.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 33.364,
+      "wpm": 136.6,
+      "peak": 0.603302001953125,
+      "flags": [],
+      "raw_sha256": "5ebc9568201ab1dd2a3d6ce87e4f382562b85256309b105d191dd2d11d56dfe5"
+    },
+    {
+      "id": "c09s04",
+      "expected": "Functional outcome: performance relevant to daily life. Prognosis: anticipated course with uncertainty.\n\nRecovery and rehabilitation depend on the injury, health, time, goals and available care. Neural changes may support recovery without restoring every previous function.\n\nDo not promise cures from a general plasticity claim. Professional plans should connect meaningful outcomes with suitable evidence and the person’s priorities.",
+      "heard": "Functional outcome, performance relevant to daily life, prognosis, anticipated course with uncertainty. Recovery and rehabilitation depend on the injury, health, time, goals, and available care. Neural changes may support recovery without restoring every previous function. Do not promise cures from a general plasticity claim. Professional plans should connect meaningful outcomes with suitable evidence and the person's priorities.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 29.716,
+      "wpm": 120.4,
+      "peak": 0.51116943359375,
+      "flags": [],
+      "raw_sha256": "c055756b69deaa9ed95994c03ab7e49e66d9e1d6ef6622737b17fe45f6ba9297"
+    },
+    {
+      "id": "c09s05",
+      "expected": "Plasticity research shows that neural systems can change, but evidence for a particular training product requires its own controlled studies and meaningful outcomes.\n\nChanges in an image or trained score do not automatically show durable far transfer or clinical recovery.",
+      "heard": "Plasticity research shows that neural systems can change, but evidence for a particular training product requires its own controlled studies and meaningful outcomes. Changes in an image or train score do not automatically show durable, far transfer or clinical recovery.",
+      "ratio": 0.975,
+      "model": "tiny.en",
+      "duration": 17.887,
+      "wpm": 139.2,
+      "peak": 0.570159912109375,
+      "flags": [],
+      "raw_sha256": "2095b4aa3c7569fae0bceac89a2a73b5c469a88d67d48ac578908d28de4210f6"
+    },
+    {
+      "id": "c09s06",
+      "expected": "Apply the idea to this new fictional case.\n\nA training programme claims better everyday reasoning after practice on one game.\n\nWhat would best test the broader claim?\n\nA. Repeat only the trained task immediately.\n\nB. Use credible controls and delayed untrained outcomes.\n\nC. Display a colourful brain image after training.\n\nChoose an option and write your reasoning before checking the feedback.",
+      "heard": "Apply the idea to this new fictional case. A training program claims better everyday reasoning after practice on one game. What would best test the broader claim? A, repeat only the train task immediately. B, use credible controls and delayed untrained outcomes. C, display a colorful brain image after training. Choose an option and write your reasoning before checking the feedback.",
+      "ratio": 0.9672,
+      "model": "tiny.en",
+      "duration": 27.193,
+      "wpm": 164.2,
+      "peak": 0.495452880859375,
+      "flags": [],
+      "raw_sha256": "5aaa963c844d05087b6cd816159db5bf5e5021fbcb7939dc7d6215b416b929c7"
+    },
+    {
+      "id": "c09s06-feedback-0",
+      "expected": "That checks practice gains rather than broader transfer.",
+      "heard": "That checks practice gains rather than broader transfer.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.136,
+      "wpm": 153.1,
+      "peak": 0.393218994140625,
+      "flags": [],
+      "raw_sha256": "a7e2c63c0e773dc811addf7d27eb83c64e70a5a8593b487030dfb4d65192215c"
+    },
+    {
+      "id": "c09s06-feedback-1",
+      "expected": "The design addresses expectations, transfer and persistence.",
+      "heard": "The design addresses expectations, transfer, and persistence.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.669,
+      "wpm": 114.5,
+      "peak": 0.43731689453125,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "6a70e5e80680ea3c5011ef4e345c3df2fc14f7a830c8121efdd1a4e4c04c69d0"
+    },
+    {
+      "id": "c09s06-feedback-2",
+      "expected": "An image change is not equivalent to the claimed functional benefit.",
+      "heard": "an image change is not equivalent to the claimed functional benefit.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.925,
+      "wpm": 168.1,
+      "peak": 0.43402099609375,
+      "flags": [],
+      "raw_sha256": "6774e7bdd5d3d4bc3462697dc2a9e2e880aa0f9a75390f81cafdf5e65351d3a9"
+    },
+    {
+      "id": "c09s07",
+      "expected": "Try these questions without your notes.\n\nWhy does plasticity not necessarily mean improvement?\n\nWhat distinguishes far transfer from practice?\n\nReveal the suggested answers after trying.",
+      "heard": "Try these questions without your notes. Why does plasticity not necessarily mean improvement? What distinguishes far transfer from practice? Reveal the suggested answers after trying.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 13.659,
+      "wpm": 140.1,
+      "peak": 0.475250244140625,
+      "flags": [],
+      "raw_sha256": "74b12300dfe4d67fc7da13fb138ff9c47673be2b937f77bed4ae73e7a482b43f"
+    },
+    {
+      "id": "c09s07-answers",
+      "expected": "Biological change can have different consequences; benefit needs a specified outcome.\n\nFar transfer concerns substantially different untrained tasks rather than improvement on the practiced activity.",
+      "heard": "Biological change can have different consequences, benefit needs a specified outcome. Far transfer concerns substantially different untrained tasks, rather than improvement on the practice activity.",
+      "ratio": 0.96,
+      "model": "tiny.en",
+      "duration": 14.215,
+      "wpm": 119.4,
+      "peak": 0.46270751953125,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "1b6f021f544681e677b69b301316d7c0f6bbe94256f2341c9badd233644b36dd"
+    },
+    {
+      "id": "c09s08",
+      "expected": "Choose a skill you practise. State one trained outcome and one untrained outcome needed to support a broader claim.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+      "heard": "Choose a skill you practice. State one trained outcome and one untrained outcome needed to support a broader claim. Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 13.493,
+      "wpm": 163.5,
+      "peak": 0.418914794921875,
+      "flags": [],
+      "raw_sha256": "d34e9ad0b5937c2773f800b02c52e850fe2cac933a23c14863d6487206e833a7"
+    },
+    {
+      "id": "c10s01",
+      "expected": "The café considers a brain-based wellbeing workshop. Its advert combines genetic scores, hormone checks and a short training game. The team wants to distinguish credible concepts from unsupported product claims.",
+      "heard": "The cafe considers a brain-based well-being workshop. Its advert combines genetic scores, hormone checks, and a short training game. The team wants to distinguish credible concepts from unsupported product claims.",
+      "ratio": 0.9524,
+      "model": "tiny.en",
+      "duration": 13.547,
+      "wpm": 137.3,
+      "peak": 0.709228515625,
+      "flags": [],
+      "raw_sha256": "dcfe4822819e527e3930b870a855add76e8decf8f0f353adb21d4ef4ff9b9c93"
+    },
+    {
+      "id": "c10s02",
+      "expected": "First, make a prediction about the café story.\n\nWhat should the café ask first?\n\nA. Which brain terms make the advert sound convincing.\n\nB. Which benefit was tested, against what comparison, in whom.\n\nC. Whether all biological research should be dismissed.\n\nChoose an option before checking the feedback.",
+      "heard": "First, make a prediction about the cafe story. What should the cafe ask first? A, which brain terms make the advert sound convincing? B, which benefit was tested, against what comparison in whom? C, whether all biological research should be dismissed. Choose an option before checking the feedback.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 20.445,
+      "wpm": 167.5,
+      "peak": 0.477874755859375,
+      "flags": [],
+      "raw_sha256": "d5f80c43116768e1f4ffac4bebcafec4e6e094d1fec08e75e5b5380a611fcec2"
+    },
+    {
+      "id": "c10s02-feedback-0",
+      "expected": "Terminology cannot establish a product’s efficacy.",
+      "heard": "Terminology cannot establish a product's efficacy.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 3.136,
+      "wpm": 114.8,
+      "peak": 0.35699462890625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "1157dbee22aadfe2f79cdfaab1443ba04400ba551159dcbfd4613d4bb423ebeb"
+    },
+    {
+      "id": "c10s02-feedback-1",
+      "expected": "The practical claim needs a relevant design and outcome.",
+      "heard": "The practical claim needs a relevant design and outcome.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 3.52,
+      "wpm": 153.4,
+      "peak": 0.401397705078125,
+      "flags": [],
+      "raw_sha256": "ac1ea01c64e73f8210564885a0c87a43696a34c4feae893f5bd78fdb3eff9624"
+    },
+    {
+      "id": "c10s02-feedback-2",
+      "expected": "Unsupported advertising does not invalidate the underlying science.",
+      "heard": "unsupported advertising does not invalidate the underlying science.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.331,
+      "wpm": 110.8,
+      "peak": 0.375152587890625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "8182b80e6bf51cafbd6e69e1ef45db8aa15da26a828c862ea5d64f6414e22edf"
+    },
+    {
+      "id": "c10s03",
+      "expected": "Reductionism: explaining a complex phenomenon only at a narrower level. Multilevel explanation: linking relevant levels of analysis. Causal chain: specified sequence of influences.\n\nA biological explanation can connect cells, circuits, behaviour and environment. Each link needs evidence rather than an attractive metaphor.\n\nA brain correlate does not identify the only cause, and a social context is not biologically irrelevant. Ask how the proposed levels interact in the actual task.",
+      "heard": "Reductionism, explaining a complex phenomenon only at a narrower level. Multilevel explanation, linking relevant levels of analysis, causal chain, specified sequence of influences. A biological explanation can connect cells, circuits, behavior, and environment. Each link needs evidence rather than an attractive metaphor. A brain correlate does not identify the only cause, and a social context is not biologically irrelevant. Ask how the proposed levels interact in the actual task.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 34.537,
+      "wpm": 124.6,
+      "peak": 0.48236083984375,
+      "flags": [],
+      "raw_sha256": "9d019fb95bfe85815af92ddf636edaced7aa002185618ddb998612196cbc18c9"
+    },
+    {
+      "id": "c10s03b",
+      "expected": "Generalizability: applicability to other settings or populations. Adverse effect: an unwanted consequence of an intervention.\n\nA product can use accurate neuroscience terms while making an untested practical claim. Check the comparison group, sample, outcome, follow-up and unwanted effects.\n\nAsk whether the benefit matters in everyday life and whether the study tested the actual product. Biological plausibility is not a substitute for efficacy evidence.",
+      "heard": "generalizability, applicability to other settings or populations, adverse effect, and unwanted consequence of an intervention. A product can use accurate neuroscience terms while making an untested practical claim. Check the comparison group, sample, outcome, follow-up and unwanted effects. Ask whether the benefit matters in everyday life and whether the study tested the actual product. Biological plausibility is not a substitute for efficacy evidence.",
+      "ratio": 0.9844,
+      "model": "tiny.en",
+      "duration": 30.761,
+      "wpm": 130.3,
+      "peak": 0.52850341796875,
+      "flags": [],
+      "raw_sha256": "13b25fd0740becd4fb9f3b7a8bdd3e0dc8572941ece1d58b6f59e1e77debfa26"
+    },
+    {
+      "id": "c10s04",
+      "expected": "Informed consent: agreement based on relevant information. Biological determinism: treating biology as a fixed inevitable cause. Uncertainty: limits in what evidence establishes.\n\nUse the evidence to ask better questions and improve accessible conditions. Avoid diagnosing, prescribing or interpreting another person’s private biological data.\n\nHealth decisions need qualified care and informed choice. If a claim exceeds the evidence, narrow it rather than replacing it with another certainty.",
+      "heard": "informed consent, agreement based on relevant information, biological determinism, treating biology as a fixed inevitable cause, uncertainty, limits in what evidence establishes. Use the evidence to ask better questions and improve accessible conditions. Avoid diagnosing, prescribing, or interpreting another person's private biological data. Health decisions need qualified care and inform choice. If a claim exceeds the evidence, narrow it rather than replacing it with another certainty.",
+      "ratio": 0.9848,
+      "model": "tiny.en",
+      "duration": 34.58,
+      "wpm": 119.0,
+      "peak": 0.521636962890625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "ddf902f90224b81c3204ad590e5d2f18f4cdf651f82b190eabd5fb18f0115183"
+    },
+    {
+      "id": "c10s05",
+      "expected": "A strong biological account uses suitable measurements, competing explanations and converging methods. Translation to individual care or products requires additional evidence.\n\nThis course is not medical training. Completing it does not establish competence to interpret scans, genetic tests or treatment choices.",
+      "heard": "A strong biological account uses suitable measurements, competing explanations and converging methods. Translation to individual care or products requires additional evidence. This course is not medical training. Completing it does not establish competence to interpret scans, genetic tests, or treatment choices.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 21.215,
+      "wpm": 119.6,
+      "peak": 0.39947509765625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "aff4ecb7e02964fc413aa580a73d829532c75bf34b68fe82f087c65a4025f700"
+    },
+    {
+      "id": "c10s06",
+      "expected": "Apply the idea to this new fictional case.\n\nA small uncontrolled study finds a brain-signal difference after a workshop but measures no daily-life benefit.\n\nWhich conclusion is proportionate?\n\nA. The environment cannot matter because the signal is biological.\n\nB. The image proves the workshop treats a disorder.\n\nC. A signal changed, but clinical benefit and transfer remain untested.\n\nChoose an option and write your reasoning before checking the feedback.",
+      "heard": "Apply the idea to this new fictional case. A small, uncontrolled study finds a brain signal difference after a workshop, but measures no daily life benefit, which conclusion is proportionate. A, the environment cannot matter because the signal is biological. B, the image proves the workshop treats a disorder. C, a signal changed, but clinical benefit and transfer remain untested. Choose an option and write your reasoning before checking the feedback.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 31.716,
+      "wpm": 158.9,
+      "peak": 0.489593505859375,
+      "flags": [],
+      "raw_sha256": "141dc5c555503a2ce7c52809460719e03642ee0044d693a5d8e033b9e2837ae4"
+    },
+    {
+      "id": "c10s06-feedback-0",
+      "expected": "Environmental conditions can influence biological responses and behaviour.",
+      "heard": "Environmental conditions can influence biological responses and behavior.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 6.056,
+      "wpm": 94.9,
+      "peak": 0.41436767578125,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "4f3222ae680575fffc45a3e003e98c452714501e6692394d9704779e629f651f"
+    },
+    {
+      "id": "c10s06-feedback-1",
+      "expected": "The measurement is not evidence of clinical efficacy by itself.",
+      "heard": "The measurement is not evidence of clinical efficacy by itself.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 5.011,
+      "wpm": 149.6,
+      "peak": 0.475677490234375,
+      "flags": [],
+      "raw_sha256": "1ce49e412e6afba1ecd843b1fb5c093cfdb705e0737f1d58df73eed87877a2d3"
+    },
+    {
+      "id": "c10s06-feedback-2",
+      "expected": "This separates the measured change from the untested practical claim.",
+      "heard": "This separates the measured change from the untested practical claim.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 5.032,
+      "wpm": 148.8,
+      "peak": 0.406158447265625,
+      "flags": [],
+      "raw_sha256": "ee65479bbce99ee495f2f56b457ed7361e03d1c1fe4d7ff320f6baf7c60cb726"
+    },
+    {
+      "id": "c10s07",
+      "expected": "Try these questions without your notes.\n\nWhy separate mechanism from efficacy?\n\nWhat does a multilevel explanation add?\n\nReveal the suggested answers after trying.",
+      "heard": "Try these questions without your notes. Why separate mechanism from efficacy? What does a multilevel explanation add? Reveal the suggested answers after trying.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 12.251,
+      "wpm": 148.4,
+      "peak": 0.475250244140625,
+      "flags": [],
+      "raw_sha256": "a63938fc409c7e27ac289d1cece63f88cad3dcaa769907e7baace17731b08caf"
+    },
+    {
+      "id": "c10s07-answers",
+      "expected": "A plausible mechanism does not show that an intervention produces meaningful benefit.\n\nIt specifies and tests interactions between biological processes, behaviour and context.",
+      "heard": "A plausible mechanism does not show that an intervention produces meaningful benefit. It specifies and tests interactions between biological processes, behavior and context.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 12.829,
+      "wpm": 123.4,
+      "peak": 0.37091064453125,
+      "flags": [],
+      "raw_sha256": "038e8ab0a1c3e6221ce534e952258c5eabcbb0e9712625215b967221f6e99059"
+    },
+    {
+      "id": "c10s08",
+      "expected": "Write a brief review of a fictional brain-based product: claimed outcome, actual measure, missing comparison and a proportionate conclusion.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+      "heard": "write a brief review of a fictional brain-based product, claimed outcome, actual measure, missing comparison, and a proportionate conclusion. Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 14.815,
+      "wpm": 152.5,
+      "peak": 0.509796142578125,
+      "flags": [],
+      "raw_sha256": "412c8f56ea9b5a191187de9c1729ffca5500334d1e204eec2a1f62424075d980"
+    }
+  ],
+  "flagged": 41
+}

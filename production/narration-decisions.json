@@ -1,0 +1,22 @@
+{
+  "c02s05": {
+    "raw_sha256": "7b82c18da5a34b8f1d04da11b5e2086bfa80a329e5f1420eb4119f10cfe40df2",
+    "accept": true,
+    "reason": "Signalling/signaling is British/American spelling of the same spoken word. The additional transcript agrees otherwise. Automated evidence; not human listening approval."
+  },
+  "c04s04": {
+    "raw_sha256": "b4b0740dbf350727370797cfcacdab30242a939afbd3e088c0d65222337d0752",
+    "accept": true,
+    "reason": "Favour/favor is British/American spelling of the same spoken word. The additional transcript agrees otherwise. Automated evidence; not human listening approval."
+  },
+  "c06s04": {
+    "raw_sha256": "ef994980196c98ac48bd8524bbcb09e9f4a4c3e9e1d4a3077e33e89548636978",
+    "accept": true,
+    "reason": "The additional decoder writes time scales as two words; the spoken term timescales and the rest of the passage agree. Automated evidence; not human listening approval."
+  },
+  "c05s04": {
+    "raw_sha256": "9fae814717538778fd802ccd0683cc9b4b31cf2b6eeca72440321d3257164d36",
+    "accept": true,
+    "reason": "Regenerated interoception with an explicit standard American pronunciation, /ˌɪntɚɹəsˈɛpʃən/, replacing the incorrect default G2P stress and vowel. The two decoders transcribe this uncommon term as interception/interreception; all remaining words, including the internal-bodily-states definition, agree. The current pinned-backend phoneme trace and bounded waveform were checked. Automated phonetic and transcription evidence, not human listening approval."
+  }
+}

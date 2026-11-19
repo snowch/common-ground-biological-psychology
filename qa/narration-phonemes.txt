@@ -1,0 +1,1099 @@
+c01s01
+A café visitor shows a colourful brain image and says one bright area proves that Sam felt afraid. Maya asks how the image was collected and what other processes can activate the same area.
+ɐ kæfˈeɪ vˈɪzɪɾɚ ʃˈoʊz ɐ kˈʌlɚfəl bɹˈeɪn ˈɪmɪdʒ ænd sˈɛz wˈʌn bɹˈaɪt ˈɛɹiə pɹˈuːvz ðæt sˈæm fˈɛlt ɐfɹˈeɪd. mˈaɪə ˈæsks hˌaʊ ðɪ ˈɪmɪdʒ wʌz kəlˈɛktᵻd ænd wʌt ˈʌðɚ pɹˈɑːsɛsᵻz kæn ˈæktᵻvˌeɪt ðə sˈeɪm ˈɛɹiə.
+
+c01s02
+First, make a prediction about the café story.
+
+What is missing from the fear claim?
+
+A. Evidence that the signal uniquely supports fear over alternatives.
+
+B. A brighter colour scale for the same image.
+
+C. A confident statement from the visitor.
+
+Choose an option before checking the feedback.
+fˈɜːst, mˌeɪk ɐ pɹɪdˈɪkʃən ɐbˌaʊt ðə kæfˈeɪ stˈɔːɹi.   wˌʌt ɪz mˈɪsɪŋ fɹʌmðə fˈɪɹ klˈeɪm?   ˈeɪ. ˈɛvɪdəns ðætðə sˈɪɡnəl juːnˈiːkli səpˈɔːɹts fˈɪɹ ˌoʊvɚɹ ɔːltˈɜːnətˌɪvz.   bˈiː. ɐ bɹˈaɪɾɚ kˈʌlɚ skˈeɪl fɚðə sˈeɪm ˈɪmɪdʒ.   sˈiː. ɐ kˈɑːnfɪdənt stˈeɪtmənt fɹʌmðə vˈɪzɪɾɚ.   tʃˈuːz ɐn ˈɑːpʃən bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c01s02-feedback-0
+Specificity and comparison conditions are needed for that inference.
+spˌɛsɪfˈɪsᵻɾi ænd kəmpˈæɹɪsən kəndˈɪʃənz ɑːɹ nˈiːdᵻd fɔːɹ ðæt ˈɪnfɚɹəns.
+
+c01s02-feedback-1
+A colour display changes presentation rather than inference.
+ɐ kˈʌlɚ dɪsplˈeɪ tʃˈeɪndʒᵻz pɹˌɛzəntˈeɪʃən ɹˈæðɚ ðɐn ˈɪnfɚɹəns.
+
+c01s02-feedback-2
+Confidence does not add the missing evidence.
+kˈɑːnfɪdəns dʌznˌɑːt ˈæd ðə mˈɪsɪŋ ˈɛvɪdəns.
+
+c01s03
+Biological psychology: study of biological contributions to behaviour. Neural correlate: brain measure associated with a process. Mechanism: a process proposed to produce an effect.
+
+Behaviour involves interacting biological, psychological and social processes. A biological description adds a level of explanation; it does not remove the need to understand the task.
+
+An association between a brain signal and an event is a starting point. It does not uniquely identify what one person thought.
+bˌaɪəlˈɑːdʒɪkəl saɪkˈɑːlədʒi: stˈʌdi ʌv bˌaɪəlˈɑːdʒɪkəl kˌɑːntɹɪbjˈuːʃənz tə bᵻhˈeɪvjɚ. nˈʊɹɹəl kˈɔɹɪlˌeɪt: bɹˈeɪn mˈɛʒɚɹ ɐsˈoʊsɪˌeɪɾᵻd wɪð ɐ pɹˈɑːsɛs. mˈɛkənˌɪzəm: ɐ pɹˈɑːsɛs pɹəpˈoʊzd tə pɹədˈuːs ɐn ɪfˈɛkt.   bᵻhˈeɪvjɚɹ ɪnvˈɑːlvz ˌɪntɚɹˈæktɪŋ bˌaɪəlˈɑːdʒɪkəl, saɪkəlˈɑːdʒɪkəl ænd sˈoʊʃəl pɹˈɑːsɛsᵻz. ɐ bˌaɪəlˈɑːdʒɪkəl dᵻskɹˈɪpʃən ˈædz ɐ lˈɛvəl ʌv ɛksplɐnˈeɪʃən; ɪt dʌznˌɑːt ɹᵻmˈuːv ðə nˈiːd tʊ ˌʌndɚstˈænd ðə tˈæsk.   ɐn ɐsˌoʊsɪˈeɪʃən bᵻtwˌiːn ɐ bɹˈeɪn sˈɪɡnəl ænd ɐn ᵻvˈɛnt ɪz ɐ stˈɑːɹɾɪŋ pˈɔɪnt. ɪt dʌznˌɑːt juːnˈiːkli aɪdˈɛntᵻfˌaɪ wʌt wˈʌn pˈɜːsən θˈɔːt.
+
+c01s03b
+Electroencephalography: recording electrical activity at the scalp. Functional imaging: estimating activity-related physiological changes. Lesion evidence: studying consequences of tissue damage.
+
+Scalp electrical recordings have useful temporal resolution but limited source localization. Functional magnetic resonance imaging measures blood-oxygen-related changes rather than thoughts directly.
+
+Lesions and carefully designed interventions can add causal evidence, but damage or stimulation can affect connected systems. Each method has practical and inferential limits.
+ɪlˌɛktɹoʊˌɛnsɪfɐlˈɑːɡɹəfi: ɹᵻkˈɔːɹdɪŋ ᵻlˈɛktɹɪkəl æktˈɪvᵻɾi æt ðə skˈælp. fˈʌŋkʃənəl ˈɪmɪdʒɪŋ: ˈɛstᵻmˌeɪɾɪŋ æktˈɪvᵻɾiɹᵻlˈeɪɾᵻd fˌɪzɪəlˈɑːdʒɪkəl tʃˈeɪndʒᵻz. lˈiːʒən ˈɛvɪdəns: stˈʌdiɪŋ kˈɑːnsɪkwənsᵻz ʌv tˈɪʃuː dˈæmɪdʒ.   skˈælp ᵻlˈɛktɹɪkəl ɹᵻkˈɔːɹdɪŋz hæv jˈuːsfəl tˈɛmpɚɹəl ɹˌɛzəlˈuːʃən bˌʌt lˈɪmɪɾᵻd sˈɔːɹs lˌoʊkəlᵻzˈeɪʃən. fˈʌŋkʃənəl mæɡnˈɛɾɪk ɹˈɛzənəns ˈɪmɪdʒɪŋ mˈɛʒɚz blˈʌdˈɑːksɪdʒənɹᵻlˈeɪɾᵻd tʃˈeɪndʒᵻz ɹˈæðɚ ðɐn θˈɔːts dᵻɹˈɛktli.   lˈiːʒənz ænd kˈɛɹfəli dɪzˈaɪnd ˌɪntɚvˈɛnʃənz kæn ˈæd kˈɔːzəl ˈɛvɪdəns, bˌʌt dˈæmɪdʒ ɔːɹ stˌɪmjʊlˈeɪʃən kæn ɐfˈɛkt kənˈɛktᵻd sˈɪstəmz. ˈiːtʃ mˈɛθəd hɐz pɹˈæktɪkəl ænd ɪnfəɹˈɛnʃəl lˈɪmɪts.
+
+c01s04
+Reverse inference: inferring a process from associated brain activity. Converging evidence: support across suitable methods.
+
+If fear sometimes involves a region, activity there does not prove fear. The same region may participate in attention, learning and other tasks.
+
+A stronger account uses comparison conditions, task behaviour and information about specificity. Neural evidence should narrow alternatives rather than decorate a preferred story.
+ɹᵻvˈɜːs ˈɪnfɚɹəns: ɪnfˈɜːɹɪŋ ɐ pɹˈɑːsɛs fɹʌm ɐsˈoʊsɪˌeɪɾᵻd bɹˈeɪn æktˈɪvᵻɾi. kənvˈɜːdʒɪŋ ˈɛvɪdəns: səpˈɔːɹt əkɹˌɑːs sˈuːɾəbəl mˈɛθədz.   ɪf fˈɪɹ sˈʌmtaɪmz ɪnvˈɑːlvz ɐ ɹˈiːdʒən, æktˈɪvᵻɾi ðɛɹ dʌznˌɑːt pɹˈuːv fˈɪɹ. ðə sˈeɪm ɹˈiːdʒən mˈeɪ pɑːɹtˈɪsᵻpˌeɪt ɪn ɐtˈɛnʃən, lˈɜːnɪŋ ænd ˈʌðɚ tˈæsks.   ɐ stɹˈɔŋɡɚɹ ɐkˈaʊnt jˈuːsᵻz kəmpˈæɹɪsən kəndˈɪʃənz, tˈæsk bᵻhˈeɪvjɚ ænd ˌɪnfɚmˈeɪʃən ɐbˌaʊt spˌɛsɪfˈɪsᵻɾi. nˈʊɹɹəl ˈɛvɪdəns ʃˌʊd nˈæɹoʊ ɔːltˈɜːnətˌɪvz ɹˈæðɚ ðɐn dˈɛkɚɹˌeɪt ɐ pɹɪfˈɜːd stˈɔːɹi.
+
+c01s05
+Functional imaging findings depend on comparisons, analysis choices and samples. Reverse inference is stronger when the observed pattern is selective and the prior alternatives are considered.
+
+The café image is fictional. It supplies no diagnostic or individual mental-state evidence.
+fˈʌŋkʃənəl ˈɪmɪdʒɪŋ fˈaɪndɪŋz dᵻpˈɛnd ˌɔn kəmpˈæɹɪsənz, ɐnˈæləsˌɪs tʃˈɔɪsᵻz ænd sˈæmpəlz. ɹᵻvˈɜːs ˈɪnfɚɹəns ɪz stɹˈɔŋɡɚ wɛn ðɪ əbzˈɜːvd pˈætɚn ɪz sᵻlˈɛktɪv ænd ðə pɹˈaɪɚɹ ɔːltˈɜːnətˌɪvz ɑːɹ kənsˈɪdɚd.   ðə kæfˈeɪ ˈɪmɪdʒ ɪz fˈɪkʃənəl. ɪt səplˈaɪz nˈoʊ dˌaɪəɡnˈɑːstɪk ɔːɹ ˌɪndᵻvˈɪdʒuːəl mˈɛntəlstˈeɪt ˈɛvɪdəns.
+
+c01s06
+Apply the idea to this new fictional case.
+
+A scalp recording differs while participants hear frequent and unexpected sounds.
+
+Which conclusion is best supported?
+
+A. The recording identifies the exact thought.
+
+B. The conditions differ in a measured signal; interpretation needs the task.
+
+C. Electrical activity is unrelated to mental processes.
+
+Choose an option and write your reasoning before checking the feedback.
+ɐplˈaɪ ðɪ aɪdˈiə tə ðɪs nˈuː fˈɪkʃənəl kˈeɪs.   ɐ skˈælp ɹᵻkˈɔːɹdɪŋ dˈɪfɚz wˌaɪl pɑːɹtˈɪsɪpənts hˈɪɹ fɹˈiːkwənt ænd ˌʌnɛkspˈɛktᵻd sˈaʊndz.   wˌɪtʃ kəŋklˈuːʒən ɪz bˈɛst səpˈɔːɹɾᵻd?   ˈeɪ. ðə ɹᵻkˈɔːɹdɪŋ aɪdˈɛntᵻfˌaɪz ðɪ ɛɡzˈækt θˈɔːt.   bˈiː. ðə kəndˈɪʃənz dˈɪfɚɹ ɪn ɐ mˈɛʒɚd sˈɪɡnəl; ɪntˌɜːpɹɪtˈeɪʃən nˈiːdz ðə tˈæsk.   sˈiː. ᵻlˈɛktɹɪkəl æktˈɪvᵻɾi ɪz ˌʌnɹᵻlˈeɪɾᵻd tə mˈɛntəl pɹˈɑːsɛsᵻz.   tʃˈuːz ɐn ˈɑːpʃən ænd ɹˈaɪt jʊɹ ɹˈiːzənɪŋ bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c01s06-feedback-0
+The signal is not a unique thought label.
+ðə sˈɪɡnəl ɪz nˌɑːɾə juːnˈiːk θˈɔːt lˈeɪbəl.
+
+c01s06-feedback-1
+This distinguishes an observation from a process inference.
+ðɪs dɪstˈɪŋɡwɪʃᵻz ɐn ɑːbzɚvˈeɪʃən fɹʌm ɐ pɹˈɑːsɛs ˈɪnfɚɹəns.
+
+c01s06-feedback-2
+The limitation does not make the measurement meaningless.
+ðə lˌɪmɪtˈeɪʃən dʌznˌɑːt mˌeɪk ðə mˈɛʒɚmənt mˈiːnɪŋləs.
+
+c01s07
+Try these questions without your notes.
+
+Why is functional imaging indirect?
+
+What is reverse inference?
+
+Reveal the suggested answers after trying.
+tɹˈaɪ ðiːz kwˈɛstʃənz wɪðˌaʊt jʊɹ nˈoʊts.   wˌaɪ ɪz fˈʌŋkʃənəl ˈɪmɪdʒɪŋ ˌɪndɚɹˈɛkt?   wˌʌt ɪz ɹᵻvˈɜːs ˈɪnfɚɹəns?   ɹᵻvˈiːl ðə sədʒˈɛstᵻd ˈænsɚz ˈæftɚ tɹˈaɪɪŋ.
+
+c01s07-answers
+It measures a physiological correlate, such as blood-oxygen changes, rather than a thought itself.
+
+It infers a psychological process from a brain pattern associated with that process.
+ɪt mˈɛʒɚz ɐ fˌɪzɪəlˈɑːdʒɪkəl kˈɔɹɪlˌeɪt, sˈʌtʃ ɐz blˈʌdˈɑːksɪdʒən tʃˈeɪndʒᵻz, ɹˈæðɚ ðˌænə θˈɔːt ɪtsˈɛlf.   ɪɾ ɪnfˈɜːz ɐ saɪkəlˈɑːdʒɪkəl pɹˈɑːsɛs fɹʌm ɐ bɹˈeɪn pˈætɚn ɐsˈoʊsɪˌeɪɾᵻd wɪð ðæt pɹˈɑːsɛs.
+
+c01s08
+Inspect a public brain-image headline. Name its measure, comparison and one alternative interpretation.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+ɪnspˈɛkt ɐ pˈʌblɪk bɹˈeɪnˈɪmɪdʒ hˈɛdlaɪn. nˈeɪm ɪts mˈɛʒɚ, kəmpˈæɹɪsən ænd wˈʌn ɔːltˈɜːnətˌɪv ɪntˌɜːpɹɪtˈeɪʃən.   ɹᵻtˈɜːn təmˈɑːɹoʊ ɔːɹ ɪn ɐ wˈiːk wɪð ɐn ʌnfəmˈɪlɪɹ ɛɡzˈæmpəl. kəmpˈɛɹ jʊɹ ɹˈiːzənɪŋ wɪððə nˈoʊts.
+
+c02s01
+A diagram at the café calls neurons tiny wires carrying thoughts. Sam asks what actually happens when a neural signal travels and reaches another cell.
+ɐ dˈaɪəɡɹˌæm æt ðə kæfˈeɪ kˈɔːlz nˈʊɹɹɑːnz tˈaɪni wˈaɪɚz kˈæɹiɪŋ θˈɔːts. sˈæm ˈæsks wʌt ˈæktʃuːəli hˈæpənz wɛn ɐ nˈʊɹɹəl sˈɪɡnəl tɹˈævəlz ænd ɹˈiːtʃᵻz ɐnˈʌðɚ sˈɛl.
+
+c02s02
+First, make a prediction about the café story.
+
+Which correction improves the wire metaphor?
+
+A. A neuron carries one fixed personality trait.
+
+B. All spikes have sizes proportional to happiness.
+
+C. Signals involve membrane processes and connections between cells.
+
+Choose an option before checking the feedback.
+fˈɜːst, mˌeɪk ɐ pɹɪdˈɪkʃən ɐbˌaʊt ðə kæfˈeɪ stˈɔːɹi.   wˌɪtʃ kɚɹˈɛkʃən ɪmpɹˈuːvz ðə wˈaɪɚ mˈɛɾəfˌɔːɹ?   ˈeɪ. ɐ nˈʊɹɹɑːn kˈæɹiz wˈʌn fˈɪkst pˌɜːsənˈælᵻɾi tɹˈeɪt.   bˈiː. ˈɔːl spˈaɪks hæv sˈaɪzᵻz pɹəpˈɔːɹʃənəl tə hˈæpɪnəs.   sˈiː. sˈɪɡnəlz ɪnvˈɑːlv mˈɛmbɹeɪn pɹˈɑːsɛsᵻz ænd kənˈɛkʃənz bᵻtwˌiːn sˈɛlz.   tʃˈuːz ɐn ˈɑːpʃən bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c02s02-feedback-0
+Traits are not carried as individual labelled packets.
+tɹˈeɪts ɑːɹ nˌɑːt kˈæɹid æz ˌɪndᵻvˈɪdʒuːəl lˈeɪbəld pˈækɪts.
+
+c02s02-feedback-1
+Spike amplitude is not a happiness scale.
+spˈaɪk ˈæmplɪtˌuːd ɪz nˌɑːɾə hˈæpɪnəs skˈeɪl.
+
+c02s02-feedback-2
+This retains the process without treating neurons as passive wires.
+ðɪs ɹᵻtˈeɪnz ðə pɹˈɑːsɛs wɪðˌaʊt tɹˈiːɾɪŋ nˈʊɹɹɑːnz æz pˈæsɪv wˈaɪɚz.
+
+c02s03
+Ion channel: a membrane pathway for specific ions.
+
+Neurons maintain differences in charged particles across a membrane. Inputs can change the membrane potential. Dendrites and the cell body receive many inputs, while an axon can carry a propagated signal.
+
+These are useful functional distinctions, with variation across neuron types. A single neuron is not a miniature thinking person.
+ˈaɪɑːn tʃˈænəl: ɐ mˈɛmbɹeɪn pˈæθweɪ fɔːɹ spəsˈɪfɪk ˈaɪɑːnz.   nˈʊɹɹɑːnz meɪntˈeɪn dˈɪfɹənsᵻz ɪn tʃˈɑːɹdʒd pˈɑːɹɾɪkəlz əkɹˌɑːs ɐ mˈɛmbɹeɪn. ˈɪnpʊts kæn tʃˈeɪndʒ ðə mˈɛmbɹeɪn pətˈɛnʃəl. dˈɛndɹaɪts ænd ðə sˈɛl bˈɑːdi ɹᵻsˈiːv mˈɛni ˈɪnpʊts, wˌaɪl ɐn ˈæksɑːn kæn kˈæɹi ɐ pɹˈɑːpɐɡˌeɪɾᵻd sˈɪɡnəl.   ðiːz ɑːɹ jˈuːsfəl fˈʌŋkʃənəl dɪstˈɪŋkʃənz, wɪð vˌɛɹɪˈeɪʃən əkɹˌɑːs nˈʊɹɹɑːn tˈaɪps. ɐ sˈɪŋɡəl nˈʊɹɹɑːn ɪz nˌɑːɾə mˈɪnɪtʃɚ θˈɪŋkɪŋ pˈɜːsən.
+
+c02s03b
+Action potential: a brief propagated membrane-voltage change. Refractory period: interval limiting immediate refiring.
+
+When conditions reach threshold, voltage-sensitive channels support a rapid change in membrane potential. The process regenerates along the axon.
+
+Individual spikes are broadly all-or-none. Information can depend on timing, firing rates and population patterns rather than a bigger spike meaning a stronger thought.
+ˈækʃən pətˈɛnʃəl: ɐ bɹˈiːf pɹˈɑːpɐɡˌeɪɾᵻd mˈɛmbɹeɪnvˈoʊltɪdʒ tʃˈeɪndʒ. ɹᵻfɹˈæktɚɹi pˈiəɹɪəd: ˈɪntɚvəl lˈɪmɪɾɪŋ ɪmˈiːdɪət ɹᵻfˈaɪɚɹɪŋ.   wˌɛn kəndˈɪʃənz ɹˈiːtʃ θɹˈɛʃoʊld, vˈoʊltɪdʒsˈɛnsᵻtˌɪv tʃˈænəlz səpˈɔːɹt ɐ ɹˈæpɪd tʃˈeɪndʒ ɪn mˈɛmbɹeɪn pətˈɛnʃəl. ðə pɹˈɑːsɛs ɹiːdʒˈɛnɚɹˌeɪts ɐlˈɔŋ ðɪ ˈæksɑːn.   ˌɪndᵻvˈɪdʒuːəl spˈaɪks ɑːɹ bɹˈɔːdli ˈɔːlɔːɹnˈʌn. ˌɪnfɚmˈeɪʃən kæn dᵻpˈɛnd ˌɔn tˈaɪmɪŋ, fˈaɪɚɹɪŋ ɹˈeɪts ænd pˌɑːpjʊlˈeɪʃən pˈætɚnz ɹˈæðɚ ðˌænə bˈɪɡɚ spˈaɪk mˈiːnɪŋ ɐ stɹˈɔŋɡɚ θˈɔːt.
+
+c02s04
+Synapse: a junction for signalling between cells. Neurotransmitter: chemical messenger released at a synapse. Receptor: molecular target responsive to a messenger.
+
+At many synapses, an arriving signal triggers chemical release. A transmitter binds receptors that affect the receiving cell. Other synapses transmit electrically.
+
+The effect depends on receptors, cell state and circuitry. A transmitter is not inherently a single emotion, and more of it does not imply more happiness.
+sˈɪnæps: ɐ dʒˈʌŋkʃən fɔːɹ sˈɪɡnəlɪŋ bᵻtwˌiːn sˈɛlz. nˈʊɹɹətɹˌænsmɪɾɚ: kˈɛmɪkəl mˈɛsɪndʒɚ ɹᵻlˈiːst æɾə sˈɪnæps. ɹᵻsˈɛptɚ: məlˈɛkjʊlɚ tˈɑːɹɡɪt ɹᵻspˈɑːnsɪv tʊ ɐ mˈɛsɪndʒɚ.   æt mˈɛni sˈɪnæpsᵻz, ɐn ɚɹˈaɪvɪŋ sˈɪɡnəl tɹˈɪɡɚz kˈɛmɪkəl ɹᵻlˈiːs. ɐ tɹænsmˈɪɾɚ bˈaɪndz ɹᵻsˈɛptɚz ðæt ɐfˈɛkt ðə ɹᵻsˈiːvɪŋ sˈɛl. ˈʌðɚ sˈɪnæpsᵻz tɹænsmˈɪt ᵻlˈɛktɹɪkli.   ðɪ ɪfˈɛkt dᵻpˈɛndz ˌɔn ɹᵻsˈɛptɚz, sˈɛl stˈeɪt ænd sˈɜːkɪtɹi. ɐ tɹænsmˈɪɾɚɹ ɪz nˌɑːt ɪnhˈiəɹəntli ɐ sˈɪŋɡəl ɪmˈoʊʃən, ænd mˈɔːɹ ʌv ɪt dʌznˌɑːt ɪmplˈaɪ mˈɔːɹ hˈæpɪnəs.
+
+c02s05
+Cellular physiology supports detailed mechanisms of signalling, while links from those mechanisms to complex behaviour require additional levels of evidence.
+
+Electrical and chemical descriptions are complementary. Neither identifies a personality trait or emotion from one cell.
+sˈɛljʊlɚ fˌɪzɪˈɑːlədʒi səpˈɔːɹts diːtˈeɪld mˈɛkənˌɪzəmz ʌv sˈɪɡnəlɪŋ, wˌaɪl lˈɪŋks fɹʌm ðoʊz mˈɛkənˌɪzəmz tə kˈɑːmplɛks bᵻhˈeɪvjɚ ɹᵻkwˈaɪɚɹ ɐdˈɪʃənəl lˈɛvəlz ʌv ˈɛvɪdəns.   ᵻlˈɛktɹɪkəl ænd kˈɛmɪkəl dᵻskɹˈɪpʃənz ɑːɹ kˌɑːmplɪmˈɛntɚɹi. nˈiːðɚɹ aɪdˈɛntᵻfˌaɪz ɐ pˌɜːsənˈælᵻɾi tɹˈeɪt ɔːɹ ɪmˈoʊʃən fɹʌm wˈʌn sˈɛl.
+
+c02s06
+Apply the idea to this new fictional case.
+
+The same neurotransmitter is found in pathways supporting different functions.
+
+What should the explanation include?
+
+A. The transmitter’s receptor and circuit context.
+
+B. A fixed emotional meaning for the chemical.
+
+C. The assumption that more transmitter is better.
+
+Choose an option and write your reasoning before checking the feedback.
+ɐplˈaɪ ðɪ aɪdˈiə tə ðɪs nˈuː fˈɪkʃənəl kˈeɪs.   ðə sˈeɪm nˈʊɹɹətɹˌænsmɪɾɚɹ ɪz fˈaʊnd ɪn pˈæθweɪz səpˈɔːɹɾɪŋ dˈɪfɹənt fˈʌŋkʃənz.   wˌʌt ʃˌʊd ðɪ ɛksplɐnˈeɪʃən ɪŋklˈuːd?   ˈeɪ. ðə tɹænsmˈɪɾɚz ɹᵻsˈɛptɚ ænd sˈɜːkɪt kˈɑːntɛkst.   bˈiː. ɐ fˈɪkst ɪmˈoʊʃənəl mˈiːnɪŋ fɚðə kˈɛmɪkəl.   sˈiː. ðɪ ɐsˈʌmpʃən ðæt mˈɔːɹ tɹænsmˈɪɾɚɹ ɪz bˈɛɾɚ.   tʃˈuːz ɐn ˈɑːpʃən ænd ɹˈaɪt jʊɹ ɹˈiːzənɪŋ bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c02s06-feedback-0
+The same messenger can have different effects through different targets.
+ðə sˈeɪm mˈɛsɪndʒɚ kæn hæv dˈɪfɹənt ɪfˈɛkts θɹuː dˈɪfɹənt tˈɑːɹɡɪts.
+
+c02s06-feedback-1
+That ignores receptor and network differences.
+ðæt ɪɡnˈɔːɹz ɹᵻsˈɛptɚ ænd nˈɛtwɜːk dˈɪfɹənsᵻz.
+
+c02s06-feedback-2
+Benefits and harms depend on system, dose and function.
+bˈɛnɪfˌɪts ænd hˈɑːɹmz dᵻpˈɛnd ˌɔn sˈɪstəm, dˈoʊs ænd fˈʌŋkʃən.
+
+c02s07
+Try these questions without your notes.
+
+What propagates in an action potential?
+
+Why does a transmitter need receptor context?
+
+Reveal the suggested answers after trying.
+tɹˈaɪ ðiːz kwˈɛstʃənz wɪðˌaʊt jʊɹ nˈoʊts.   wˌʌt pɹˈɑːpɐɡˌeɪts ɪn ɐn ˈækʃən pətˈɛnʃəl?   wˌaɪ dˈʌz ɐ tɹænsmˈɪɾɚ nˈiːd ɹᵻsˈɛptɚ kˈɑːntɛkst?   ɹᵻvˈiːl ðə sədʒˈɛstᵻd ˈænsɚz ˈæftɚ tɹˈaɪɪŋ.
+
+c02s07-answers
+A regenerated change in membrane voltage, driven by ion-channel processes.
+
+Its effect depends on the receiving receptor, cell and circuit rather than the chemical name alone.
+ɐ ɹiːdʒˈɛnɚɹˌeɪɾᵻd tʃˈeɪndʒ ɪn mˈɛmbɹeɪn vˈoʊltɪdʒ, dɹˈɪvən baɪ ˈaɪɑːntʃˈænəl pɹˈɑːsɛsᵻz.   ɪts ɪfˈɛkt dᵻpˈɛndz ɔnðə ɹᵻsˈiːvɪŋ ɹᵻsˈɛptɚ, sˈɛl ænd sˈɜːkɪt ɹˈæðɚ ðɐn ðə kˈɛmɪkəl nˈeɪm ɐlˈoʊn.
+
+c02s08
+Explain a neural signal in your own words using three stages. Identify where the wire metaphor stops being useful.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+ɛksplˈeɪn ɐ nˈʊɹɹəl sˈɪɡnəl ɪn jʊɹ ˈoʊn wˈɜːdz jˈuːzɪŋ θɹˈiː stˈeɪdʒᵻz. aɪdˈɛntᵻfˌaɪ wˌɛɹ ðə wˈaɪɚ mˈɛɾəfˌɔːɹ stˈɑːps bˌiːɪŋ jˈuːsfəl.   ɹᵻtˈɜːn təmˈɑːɹoʊ ɔːɹ ɪn ɐ wˈiːk wɪð ɐn ʌnfəmˈɪlɪɹ ɛɡzˈæmpəl. kəmpˈɛɹ jʊɹ ɹˈiːzənɪŋ wɪððə nˈoʊts.
+
+c03s01
+Leo says the left brain does logic and the right brain does creativity. Maya asks him to explain how Sam listens, remembers instructions and repairs a radio at the same time.
+lˈiːoʊ sˈɛz ðə lˈɛft bɹˈeɪn dˈʌz lˈɑːdʒɪk ænd ðə ɹˈaɪt bɹˈeɪn dˈʌz kɹiːˌeɪtˈɪvᵻɾi. mˈaɪə ˈæsks hˌɪm tʊ ɛksplˈeɪn hˌaʊ sˈæm lˈɪsənz, ɹᵻmˈɛmbɚz ɪnstɹˈʌkʃənz ænd ɹᵻpˈɛɹz ɐ ɹˈeɪdɪˌoʊ æt ðə sˈeɪm tˈaɪm.
+
+c03s02
+First, make a prediction about the café story.
+
+What best corrects Leo’s claim?
+
+A. Every function is equally distributed everywhere.
+
+B. Complex tasks recruit interacting systems in both hemispheres.
+
+C. Creativity is located entirely on the right.
+
+Choose an option before checking the feedback.
+fˈɜːst, mˌeɪk ɐ pɹɪdˈɪkʃən ɐbˌaʊt ðə kæfˈeɪ stˈɔːɹi.   wˌʌt bˈɛst kɚɹˈɛkts lˈiːoʊz klˈeɪm?   ˈeɪ. ˈɛvɹi fˈʌŋkʃən ɪz ˈiːkwəli dˈɪstɹɪbjˌuːɾᵻd ˈɛvɹɪwˌɛɹ.   bˈiː. kˈɑːmplɛks tˈæsks ɹᵻkɹˈuːt ˌɪntɚɹˈæktɪŋ sˈɪstəmz ɪn bˈoʊθ hˈɛmɪsfˌɪɹz.   sˈiː. kɹiːˌeɪtˈɪvᵻɾi ɪz loʊkˈeɪɾᵻd ɛntˈaɪɚli ɔnðə ɹˈaɪt.   tʃˈuːz ɐn ˈɑːpʃən bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c03s02-feedback-0
+Specialization still matters; total interchangeability is another overstatement.
+spˌɛʃəlᵻzˈeɪʃən stˈɪl mˈæɾɚz; tˈoʊɾəl ˌɪntɚtʃˌeɪndʒəbˈɪlᵻɾi ɪz ɐnˈʌðɚɹ ˌoʊvɚstˈeɪtmənt.
+
+c03s02-feedback-1
+This allows specialization without a one-sided personality classification.
+ðɪs ɐlˈaʊz spˌɛʃəlᵻzˈeɪʃən wɪðˌaʊt ɐ wˈʌnsˈaɪdᵻd pˌɜːsənˈælᵻɾi klˌæsɪfɪkˈeɪʃən.
+
+c03s02-feedback-2
+The task and networks are more complex than that label.
+ðə tˈæsk ænd nˈɛtwɜːks ɑːɹ mˈɔːɹ kˈɑːmplɛks ðɐn ðæt lˈeɪbəl.
+
+c03s03
+Cerebral cortex: outer neural tissue of the cerebrum. Subcortical structure: structure beneath the cortex. Network: interacting set of connected regions.
+
+Brain regions have different connections and contributions. Cortical and subcortical systems interact in perception, memory and action.
+
+A task can involve several networks, and a region can contribute to several tasks. A labelled anatomical map is a starting point for understanding these interactions.
+sɚɹˈiːbɹəl kˈɔːɹɾɛks: ˈaʊɾɚ nˈʊɹɹəl tˈɪʃuː ʌvðə sɚɹˈiːbɹəm. sʌbkˈɔːɹɾɪkəl stɹˈʌktʃɚ: stɹˈʌktʃɚ bᵻnˌiːθ ðə kˈɔːɹɾɛks. nˈɛtwɜːk: ˌɪntɚɹˈæktɪŋ sˈɛt ʌv kənˈɛktᵻd ɹˈiːdʒənz.   bɹˈeɪn ɹˈiːdʒənz hæv dˈɪfɹənt kənˈɛkʃənz ænd kˌɑːntɹɪbjˈuːʃənz. kˈɔːɹɾɪkəl ænd sʌbkˈɔːɹɾɪkəl sˈɪstəmz ˌɪntɚɹˈækt ɪn pɚsˈɛpʃən, mˈɛmɚɹi ænd ˈækʃən.   ɐ tˈæsk kæn ɪnvˈɑːlv sˈɛvɹəl nˈɛtwɜːks, ænd ɐ ɹˈiːdʒən kæn kəntɹˈɪbjuːt tə sˈɛvɹəl tˈæsks. ɐ lˈeɪbəld ˌænɐtˈɑːmɪkəl mˈæp ɪz ɐ stˈɑːɹɾɪŋ pˈɔɪnt fɔːɹ ˌʌndɚstˈændɪŋ ðiːz ˌɪntɚɹˈækʃənz.
+
+c03s03b
+Lateralization: unequal contribution across hemispheres. Corpus callosum: major connection between the hemispheres. Functional specialization: relative contribution to a function.
+
+Some functions show hemispheric asymmetries. Many aspects of language are often left-lateralized, but variation and bilateral contributions matter.
+
+Both hemispheres participate in complex reasoning and creative activity. Classifying a person as left-brained or right-brained is not supported by this anatomical distinction.
+lˌæɾɚɹəlᵻzˈeɪʃən: ʌnˈiːkwəl kˌɑːntɹɪbjˈuːʃən əkɹˌɑːs hˈɛmɪsfˌɪɹz. kˈɔːɹpəs kˈælɑːsəm: mˈeɪdʒɚ kənˈɛkʃən bᵻtwˌiːn ðə hˈɛmɪsfˌɪɹz. fˈʌŋkʃənəl spˌɛʃəlᵻzˈeɪʃən: ɹˈɛlətˌɪv kˌɑːntɹɪbjˈuːʃən tʊ ɐ fˈʌŋkʃən.   sˌʌm fˈʌŋkʃənz ʃˈoʊ hˌɛmɪsfˈɛɹɪk eɪsˈɪmətɹiz. mˈɛni ˈæspɛkts ʌv lˈæŋɡwɪdʒ ɑːɹ ˈɔfən lˈɛftlˈæɾɚɹəlˌaɪzd, bˌʌt vˌɛɹɪˈeɪʃən ænd baɪlˈæɾɚɹəl kˌɑːntɹɪbjˈuːʃənz mˈæɾɚ.   bˈoʊθ hˈɛmɪsfˌɪɹz pɑːɹtˈɪsᵻpˌeɪt ɪn kˈɑːmplɛks ɹˈiːzənɪŋ ænd kɹiːˈeɪɾɪv æktˈɪvᵻɾi. klˈæsᵻfˌaɪɪŋ ɐ pˈɜːsən æz lˈɛftbɹˈeɪnd ɔːɹ ɹˈaɪtbɹˈeɪnd ɪz nˌɑːt səpˈɔːɹɾᵻd baɪ ðɪs ˌænɐtˈɑːmɪkəl dɪstˈɪŋkʃən.
+
+c03s04
+Plasticity: experience-related change in a biological system. Distributed processing: a function depends on interacting components. Compensation: another route helps maintain performance.
+
+A lesion can disrupt local tissue and its connections. Changes in performance help investigate a system, but task demands and the extent of damage matter.
+
+Recovery can involve practice, support and reorganization. It is not evidence that all regions are interchangeable or that every injury has the same prognosis.
+plæstˈɪsᵻɾi: ɛkspˈiəɹɪənsɹᵻlˈeɪɾᵻd tʃˈeɪndʒ ɪn ɐ bˌaɪəlˈɑːdʒɪkəl sˈɪstəm. dˈɪstɹɪbjˌuːɾᵻd pɹˈɑːsɛsɪŋ: ɐ fˈʌŋkʃən dᵻpˈɛndz ˌɔn ˌɪntɚɹˈæktɪŋ kəmpˈoʊnənts. kˌɑːmpənsˈeɪʃən: ɐnˈʌðɚ ɹˈaʊt hˈɛlps meɪntˈeɪn pɚfˈɔːɹməns.   ɐ lˈiːʒən kæn dɪsɹˈʌpt lˈoʊkəl tˈɪʃuː ænd ɪts kənˈɛkʃənz. tʃˈeɪndʒᵻz ɪn pɚfˈɔːɹməns hˈɛlp ɪnvˈɛstᵻɡˌeɪt ɐ sˈɪstəm, bˌʌt tˈæsk dᵻmˈændz ænd ðɪ ɛkstˈɛnt ʌv dˈæmɪdʒ mˈæɾɚ.   ɹᵻkˈʌvɚɹi kæn ɪnvˈɑːlv pɹˈæktɪs, səpˈɔːɹt ænd ɹɪˌɔːɹɡɐnᵻzˈeɪʃən. ɪɾ ɪz nˌɑːt ˈɛvɪdəns ðæt ˈɔːl ɹˈiːdʒənz ɑːɹ ˌɪntɚtʃˈeɪndʒəbəl ɔːɹ ðæt ˈɛvɹi ˈɪndʒɚɹi hɐz ðə sˈeɪm pɹɑːɡnˈoʊsɪs.
+
+c03s05
+Neuroscience combines anatomy, task measures and interventions to examine functional organization. Region labels alone cannot establish a psychological explanation.
+
+The café repair is not a localization experiment. Brain-based personality quizzes need independent validation rather than anatomical metaphors.
+nˈʊɹɹəsˌaɪəns kəmbˈaɪnz ɐnˈæɾəmi, tˈæsk mˈɛʒɚz ænd ˌɪntɚvˈɛnʃənz tʊ ɛɡzˈæmɪn fˈʌŋkʃənəl ˌɔːɹɡɐnᵻzˈeɪʃən. ɹˈiːdʒən lˈeɪbəlz ɐlˈoʊn kænˈɑːt ɪstˈæblɪʃ ɐ saɪkəlˈɑːdʒɪkəl ɛksplɐnˈeɪʃən.   ðə kæfˈeɪ ɹᵻpˈɛɹ ɪz nˌɑːɾə lˌoʊkəlᵻzˈeɪʃən ɛkspˈɛɹɪmənt. bɹˈeɪnbˈeɪst pˌɜːsənˈælᵻɾi kwˈɪzᵻz nˈiːd ˌɪndᵻpˈɛndənt vˌælɪdˈeɪʃən ɹˈæðɚ ðɐn ˌænɐtˈɑːmɪkəl mˈɛɾəfˌɔːɹz.
+
+c03s06
+Apply the idea to this new fictional case.
+
+After a lesion, a person struggles with a particular task, but several connected pathways were affected.
+
+What inference is proportionate?
+
+A. The area is the sole store of that ability.
+
+B. No other methods are needed.
+
+C. The damaged system contributes to performance under these conditions.
+
+Choose an option and write your reasoning before checking the feedback.
+ɐplˈaɪ ðɪ aɪdˈiə tə ðɪs nˈuː fˈɪkʃənəl kˈeɪs.   ˈæftɚɹ ɐ lˈiːʒən, ɐ pˈɜːsən stɹˈʌɡəlz wɪð ɐ pɚtˈɪkjʊlɚ tˈæsk, bˌʌt sˈɛvɹəl kənˈɛktᵻd pˈæθweɪz wɜːɹ ɐfˈɛktᵻd.   wˌʌt ˈɪnfɚɹəns ɪz pɹəpˈɔːɹʃənət?   ˈeɪ. ðɪ ˈɛɹiə ɪz ðə sˈoʊl stˈɔːɹ ʌv ðæt ɐbˈɪləɾi.   bˈiː. nˈoʊ ˈʌðɚ mˈɛθədz ɑːɹ nˈiːdᵻd.   sˈiː. ðə dˈæmɪdʒd sˈɪstəm kəntɹˈɪbjuːts tə pɚfˈɔːɹməns ˌʌndɚ ðiːz kəndˈɪʃənz.   tʃˈuːz ɐn ˈɑːpʃən ænd ɹˈaɪt jʊɹ ɹˈiːzənɪŋ bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c03s06-feedback-0
+The lesion can disrupt a connected system rather than one isolated store.
+ðə lˈiːʒən kæn dɪsɹˈʌpt ɐ kənˈɛktᵻd sˈɪstəm ɹˈæðɚ ðɐn wˈʌn ˈaɪsəlˌeɪɾᵻd stˈɔːɹ.
+
+c03s06-feedback-1
+Converging evidence helps address alternative explanations.
+kənvˈɜːdʒɪŋ ˈɛvɪdəns hˈɛlps ɐdɹˈɛs ɔːltˈɜːnətˌɪv ɛksplɐnˈeɪʃənz.
+
+c03s06-feedback-2
+This recognizes a contribution without claiming exclusive localization.
+ðɪs ɹˈɛkəɡnˌaɪzᵻz ɐ kˌɑːntɹɪbjˈuːʃən wɪðˌaʊt klˈeɪmɪŋ ɛksklˈuːsɪv lˌoʊkəlᵻzˈeɪʃən.
+
+c03s07
+Try these questions without your notes.
+
+What does lateralization describe?
+
+Why does a lesion not imply a single isolated function?
+
+Reveal the suggested answers after trying.
+tɹˈaɪ ðiːz kwˈɛstʃənz wɪðˌaʊt jʊɹ nˈoʊts.   wˌʌt dˈʌz lˌæɾɚɹəlᵻzˈeɪʃən dᵻskɹˈaɪb?   wˌaɪ dˈʌz ɐ lˈiːʒən nˌɑːt ɪmplˈaɪ ɐ sˈɪŋɡəl ˈaɪsəlˌeɪɾᵻd fˈʌŋkʃən?   ɹᵻvˈiːl ðə sədʒˈɛstᵻd ˈænsɚz ˈæftɚ tɹˈaɪɪŋ.
+
+c03s07-answers
+A relative hemispheric difference in contribution to a specified function.
+
+Damage affects connections and multiple processes needed for the task.
+ɐ ɹˈɛlətˌɪv hˌɛmɪsfˈɛɹɪk dˈɪfɹəns ɪn kˌɑːntɹɪbjˈuːʃən tʊ ɐ spˈɛsᵻfˌaɪd fˈʌŋkʃən.   dˈæmɪdʒ ɐfˈɛkts kənˈɛkʃənz ænd mˌʌltɪpəl pɹˈɑːsɛsᵻz nˈiːdᵻd fɚðə tˈæsk.
+
+c03s08
+Rewrite a left-brain/right-brain headline as a testable statement about a specified task and measure.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+ɹᵻɹˈaɪt ɐ lˈɛftbɹˈeɪn slˈæʃ ɹˈaɪtbɹˈeɪn hˈɛdlaɪn æz ɐ tˈɛstəbəl stˈeɪtmənt ɐbˌaʊt ɐ spˈɛsᵻfˌaɪd tˈæsk ænd mˈɛʒɚ.   ɹᵻtˈɜːn təmˈɑːɹoʊ ɔːɹ ɪn ɐ wˈiːk wɪð ɐn ʌnfəmˈɪlɪɹ ɛɡzˈæmpəl. kəmpˈɛɹ jʊɹ ɹˈiːzənɪŋ wɪððə nˈoʊts.
+
+c04s01
+Sam and Pat hear the same café announcement differently in background noise. Leo says the sound either reached both ears or it did not. Maya asks what happens between sound and understanding.
+sˈæm ænd pˈæt hˈɪɹ ðə sˈeɪm kæfˈeɪ ɐnˈaʊnsmənt dˈɪfɹəntli ɪn bˈækɡɹaʊnd nˈɔɪz. lˈiːoʊ sˈɛz ðə sˈaʊnd ˈiːðɚ ɹˈiːtʃt bˈoʊθ ˈɪɹz ɔːɹ ɪt dɪdnˈɑːt. mˈaɪə ˈæsks wʌt hˈæpənz bᵻtwˌiːn sˈaʊnd ænd ˌʌndɚstˈændɪŋ.
+
+c04s02
+First, make a prediction about the café story.
+
+What is missing from Leo’s explanation?
+
+A. Transduction and processing under the actual listening conditions.
+
+B. The assumption that a missed word proves disinterest.
+
+C. A larger volume increase in every situation.
+
+Choose an option before checking the feedback.
+fˈɜːst, mˌeɪk ɐ pɹɪdˈɪkʃən ɐbˌaʊt ðə kæfˈeɪ stˈɔːɹi.   wˌʌt ɪz mˈɪsɪŋ fɹʌm lˈiːoʊz ɛksplɐnˈeɪʃən?   ˈeɪ. tɹænsdˈʌkʃən ænd pɹˈɑːsɛsɪŋ ˌʌndɚ ðɪ ˈæktʃuːəl lˈɪsənɪŋ kəndˈɪʃənz.   bˈiː. ðɪ ɐsˈʌmpʃən ðˌæɾə mˈɪst wˈɜːd pɹˈuːvz dˌɪsˈɪntɹɛst.   sˈiː. ɐ lˈɑːɹdʒɚ vˈɑːljuːm ˈɪŋkɹiːs ɪn ˈɛvɹi sˌɪtʃuːˈeɪʃən.   tʃˈuːz ɐn ˈɑːpʃən bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c04s02-feedback-0
+The signal must be detected and interpreted in context.
+ðə sˈɪɡnəl mˈʌst biː dɪtˈɛktᵻd ænd ɪntˈɜːpɹɪɾᵻd ɪn kˈɑːntɛkst.
+
+c04s02-feedback-1
+That adds an unsupported motive.
+ðæt ˈædz ɐn ʌnsəpˈɔːɹɾᵻd mˈoʊɾɪv.
+
+c04s02-feedback-2
+Volume alone does not address all noise, access or interpretation problems.
+vˈɑːljuːm ɐlˈoʊn dʌznˌɑːt ɐdɹˈɛs ˈɔːl nˈɔɪz, ˈæksɛs ɔːɹ ɪntˌɜːpɹɪtˈeɪʃən pɹˈɑːbləmz.
+
+c04s03
+Sensory transduction: conversion of stimulation into cellular signalling. Sensory receptor: cell or ending responsive to stimulation.
+
+Sound pressure, light and other physical events interact with specialized receptors. Transduction turns these interactions into biological signals.
+
+Detection depends on the stimulus, receptor system and conditions. The physical presence of a sound does not guarantee that a listener received a usable message.
+sˈɛnsɚɹi tɹænsdˈʌkʃən: kənvˈɜːʒən ʌv stˌɪmjʊlˈeɪʃən ˌɪntʊ sˈɛljʊlɚ sˈɪɡnəlɪŋ. sˈɛnsɚɹi ɹᵻsˈɛptɚ: sˈɛl ɔːɹ ˈɛndɪŋ ɹᵻspˈɑːnsɪv tə stˌɪmjʊlˈeɪʃən.   sˈaʊnd pɹˈɛʃɚ, lˈaɪt ænd ˈʌðɚ fˈɪzɪkəl ᵻvˈɛnts ˌɪntɚɹˈækt wɪð spˈɛʃəlˌaɪzd ɹᵻsˈɛptɚz. tɹænsdˈʌkʃən tˈɜːnz ðiːz ˌɪntɚɹˈækʃənz ˌɪntʊ bˌaɪəlˈɑːdʒɪkəl sˈɪɡnəlz.   dɪtˈɛkʃən dᵻpˈɛndz ɔnðə stˈɪmjʊləs, ɹᵻsˈɛptɚ sˈɪstəm ænd kəndˈɪʃənz. ðə fˈɪzɪkəl pɹˈɛzəns əvə sˈaʊnd dʌznˌɑːt ɡˌæɹəntˈiː ðˌæɾə lˈɪsənɚ ɹᵻsˈiːvd ɐ jˈuːzəbəl mˈɛsɪdʒ.
+
+c04s03b
+Sensory adaptation: changed responsiveness during sustained stimulation. Absolute threshold: stimulus level detected under defined conditions. Difference threshold: change detectable under defined conditions.
+
+Responsiveness can change with ongoing stimulation. Detection thresholds are measured probabilistically under specified conditions, not as an unchanging line for every person.
+
+Noise, fatigue, attention and sensory access affect performance. Compare the actual listening conditions before assigning a psychological motive to a missed message.
+sˈɛnsɚɹi ˌædæptˈeɪʃən: tʃˈeɪndʒd ɹᵻspˈɑːnsɪvnəs dˈʊɹɹɪŋ səstˈeɪnd stˌɪmjʊlˈeɪʃən. ˈæbsəlˌuːt θɹˈɛʃoʊld: stˈɪmjʊləs lˈɛvəl dɪtˈɛktᵻd ˌʌndɚ dᵻfˈaɪnd kəndˈɪʃənz. dˈɪfɹəns θɹˈɛʃoʊld: tʃˈeɪndʒ dɪtˈɛktəbəl ˌʌndɚ dᵻfˈaɪnd kəndˈɪʃənz.   ɹᵻspˈɑːnsɪvnəs kæn tʃˈeɪndʒ wɪð ˈɑːŋɡoʊɪŋ stˌɪmjʊlˈeɪʃən. dɪtˈɛkʃən θɹˈɛʃoʊldz ɑːɹ mˈɛʒɚd pɹˌɑːbəbɪlˈɪstɪkli ˌʌndɚ spˈɛsᵻfˌaɪd kəndˈɪʃənz, nˌɑːt æz ɐn ʌntʃˈeɪndʒɪŋ lˈaɪn fɔːɹ ˈɛvɹi pˈɜːsən.   nˈɔɪz, fɐtˈiːɡ, ɐtˈɛnʃən ænd sˈɛnsɚɹi ˈæksɛs ɐfˈɛkt pɚfˈɔːɹməns. kəmpˈɛɹ ðɪ ˈæktʃuːəl lˈɪsənɪŋ kəndˈɪʃənz bᵻfˌɔːɹ ɐsˈaɪnɪŋ ɐ saɪkəlˈɑːdʒɪkəl mˈoʊɾɪv tʊ ɐ mˈɪst mˈɛsɪdʒ.
+
+c04s04
+Perception: organization and interpretation of sensory information. Multisensory integration: combining information across senses. Top-down influence: effects of knowledge or expectation on processing.
+
+A visible speaker, clear context or written message can improve interpretation. Expectations can also favour a mistaken reading of an ambiguous signal.
+
+Biological pathways and cognitive interpretation work together. Provide accessible information and check understanding instead of assuming that a loud enough signal solves every difficulty.
+pɚsˈɛpʃən: ˌɔːɹɡɐnᵻzˈeɪʃən ænd ɪntˌɜːpɹɪtˈeɪʃən ʌv sˈɛnsɚɹi ˌɪnfɚmˈeɪʃən. mˌʌltɪsˈɛnsɚɹi ˌɪntᵻɡɹˈeɪʃən: kəmbˈaɪnɪŋ ˌɪnfɚmˈeɪʃən əkɹˌɑːs sˈɛnsᵻz. tˈɑːpdˌaʊn ˈɪnfluːəns: ɪfˈɛkts ʌv nˈɑːlɪdʒ ɔːɹ ɛkspɪktˈeɪʃən ˌɔn pɹˈɑːsɛsɪŋ.   ɐ vˈɪzᵻbəl spˈiːkɚ, klˈɪɹ kˈɑːntɛkst ɔːɹ ɹˈɪʔn mˈɛsɪdʒ kæn ɪmpɹˈuːv ɪntˌɜːpɹɪtˈeɪʃən. ɛkspɪktˈeɪʃənz kæn ˈɔːlsoʊ fˈeɪvɚɹ ɐ mɪstˈeɪkən ɹˈiːdɪŋ əvən æmbˈɪɡjuːəs sˈɪɡnəl.   bˌaɪəlˈɑːdʒɪkəl pˈæθweɪz ænd kˈɑːɡnᵻtˌɪv ɪntˌɜːpɹɪtˈeɪʃən wˈɜːk təɡˈɛðɚ. pɹəvˈaɪd æksˈɛsəbəl ˌɪnfɚmˈeɪʃən ænd tʃˈɛk ˌʌndɚstˈændɪŋ ɪnstˈɛd ʌv ɐsˈuːmɪŋ ðˌæɾə lˈaʊd ɪnˈʌf sˈɪɡnəl sˈɑːlvz ˈɛvɹi dˈɪfɪkˌʌlti.
+
+c04s05
+Sensory physiology identifies transduction and pathways; perceptual research investigates how information is selected and interpreted. A demonstration does not diagnose an individual sensory condition.
+
+Thresholds depend on measurement procedures and response criteria. Persistent sensory concerns warrant suitable professional assessment.
+sˈɛnsɚɹi fˌɪzɪˈɑːlədʒi aɪdˈɛntᵻfˌaɪz tɹænsdˈʌkʃən ænd pˈæθweɪz; pɚsˈɛptʃuːəl ɹᵻsˈɜːtʃ ɪnvˈɛstᵻɡˌeɪts hˌaʊ ˌɪnfɚmˈeɪʃən ɪz sᵻlˈɛktᵻd ænd ɪntˈɜːpɹɪɾᵻd. ɐ dˌɛmənstɹˈeɪʃən dʌznˌɑːt dˌaɪəɡnˈoʊz ɐn ˌɪndᵻvˈɪdʒuːəl sˈɛnsɚɹi kəndˈɪʃən.   θɹˈɛʃoʊldz dᵻpˈɛnd ˌɔn mˈɛʒɚmənt pɹəsˈiːdʒɚz ænd ɹᵻspˈɑːns kɹaɪtˈiəɹɪə. pɚsˈɪstənt sˈɛnsɚɹi kənsˈɜːnz wˈɔːɹənt sˈuːɾəbəl pɹəfˈɛʃənəl ɐsˈɛsmənt.
+
+c04s06
+Apply the idea to this new fictional case.
+
+A visitor follows instructions more accurately when a spoken announcement also appears as clear text.
+
+Which conclusion is reasonable?
+
+A. The listener’s hearing capacity permanently improved.
+
+B. Written support made the message more accessible in this task.
+
+C. Visual information is always superior to sound.
+
+Choose an option and write your reasoning before checking the feedback.
+ɐplˈaɪ ðɪ aɪdˈiə tə ðɪs nˈuː fˈɪkʃənəl kˈeɪs.   ɐ vˈɪzɪɾɚ fˈɑːloʊz ɪnstɹˈʌkʃənz mˈɔːɹ ˈækjʊɹətli wɛn ɐ spˈoʊkən ɐnˈaʊnsmənt ˈɔːlsoʊ ɐpˈɪɹz æz klˈɪɹ tˈɛkst.   wˌɪtʃ kəŋklˈuːʒən ɪz ɹˈiːzənəbəl?   ˈeɪ. ðə lˈɪsənɚz hˈɪɹɪŋ kəpˈæsᵻɾi pˈɜːmənəntli ɪmpɹˈuːvd.   bˈiː. ɹˈɪʔn səpˈɔːɹt mˌeɪd ðə mˈɛsɪdʒ mˈɔːɹ æksˈɛsəbəl ɪn ðɪs tˈæsk.   sˈiː. vˈɪʒuːəl ˌɪnfɚmˈeɪʃən ɪz ˈɔːlweɪz suːpˈiəɹɪɚ tə sˈaʊnd.   tʃˈuːz ɐn ˈɑːpʃən ænd ɹˈaɪt jʊɹ ɹˈiːzənɪŋ bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c04s06-feedback-0
+A task support does not establish a physiological change.
+ɐ tˈæsk səpˈɔːɹt dʌznˌɑːt ɪstˈæblɪʃ ɐ fˌɪzɪəlˈɑːdʒɪkəl tʃˈeɪndʒ.
+
+c04s06-feedback-1
+The claim fits the local outcome without broad overreach.
+ðə klˈeɪm fˈɪts ðə lˈoʊkəl ˈaʊtkʌm wɪðˌaʊt bɹˈɔːd ˌoʊvɚɹˈiːtʃ.
+
+c04s06-feedback-2
+Accessibility depends on the person, message and context.
+æksˌɛsəbˈɪlᵻɾi dᵻpˈɛndz ɔnðə pˈɜːsən, mˈɛsɪdʒ ænd kˈɑːntɛkst.
+
+c04s07
+Try these questions without your notes.
+
+What is transduction?
+
+Why distinguish detection from interpretation?
+
+Reveal the suggested answers after trying.
+tɹˈaɪ ðiːz kwˈɛstʃənz wɪðˌaʊt jʊɹ nˈoʊts.   wˌʌt ɪz tɹænsdˈʌkʃən?   wˌaɪ dɪstˈɪŋɡwɪʃ dɪtˈɛkʃən fɹʌm ɪntˌɜːpɹɪtˈeɪʃən?   ɹᵻvˈiːl ðə sədʒˈɛstᵻd ˈænsɚz ˈæftɚ tɹˈaɪɪŋ.
+
+c04s07-answers
+Conversion of physical stimulation into biological signalling.
+
+A signal can be present or detected without its intended meaning being correctly understood.
+kənvˈɜːʒən ʌv fˈɪzɪkəl stˌɪmjʊlˈeɪʃən ˌɪntʊ bˌaɪəlˈɑːdʒɪkəl sˈɪɡnəlɪŋ.   ɐ sˈɪɡnəl kæn biː pɹˈɛzənt ɔːɹ dɪtˈɛktᵻd wɪðˌaʊt ɪts ɪntˈɛndᵻd mˈiːnɪŋ bˌiːɪŋ kɚɹˈɛktli ˌʌndɚstˈʊd.
+
+c04s08
+Inspect your own low-stakes listening environment. Identify a signal, a source of competition and an accessibility support.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+ɪnspˈɛkt jʊɹ ˈoʊn lˈoʊstˈeɪks lˈɪsənɪŋ ɛnvˈaɪɹənmənt. aɪdˈɛntᵻfˌaɪ ɐ sˈɪɡnəl, ɐ sˈɔːɹs ʌv kˌɑːmpətˈɪʃən ænd ɐn æksˌɛsəbˈɪlᵻɾi səpˈɔːɹt.   ɹᵻtˈɜːn təmˈɑːɹoʊ ɔːɹ ɪn ɐ wˈiːk wɪð ɐn ʌnfəmˈɪlɪɹ ɛɡzˈæmpəl. kəmpˈɛɹ jʊɹ ɹˈiːzənɪŋ wɪððə nˈoʊts.
+
+c05s01
+Before a café presentation Sam notices a fast heartbeat. Leo calls it proof of fear. Sam says there is also excitement, and asks whether the body can distinguish the two from pulse alone.
+bᵻfˌɔːɹ ɐ kæfˈeɪ pɹˌɛzəntˈeɪʃən sˈæm nˈoʊɾɪsᵻz ɐ fˈæst hˈɑːɹtbiːt. lˈiːoʊ kˈɔːlz ɪt pɹˈuːf ʌv fˈɪɹ. sˈæm sˈɛz ðɛɹ ɪz ˈɔːlsoʊ ɛksˈaɪtmənt, ænd ˈæsks wˈɛðɚ ðə bˈɑːdi kæn dɪstˈɪŋɡwɪʃ ðə tˈuː fɹʌm pˈʌls ɐlˈoʊn.
+
+c05s02
+First, make a prediction about the café story.
+
+What can the pulse establish by itself?
+
+A. Sam is definitely afraid.
+
+B. A bodily rate changed; the psychological meaning needs context.
+
+C. Sam is definitely excited rather than afraid.
+
+Choose an option before checking the feedback.
+fˈɜːst, mˌeɪk ɐ pɹɪdˈɪkʃən ɐbˌaʊt ðə kæfˈeɪ stˈɔːɹi.   wˌʌt kæn ðə pˈʌls ɪstˈæblɪʃ baɪ ɪtsˈɛlf?   ˈeɪ. sˈæm ɪz dˈɛfɪnətli ɐfɹˈeɪd.   bˈiː. ɐ bˈɑːdili ɹˈeɪt tʃˈeɪndʒd; ðə saɪkəlˈɑːdʒɪkəl mˈiːnɪŋ nˈiːdz kˈɑːntɛkst.   sˈiː. sˈæm ɪz dˈɛfɪnətli ɛksˈaɪɾᵻd ɹˈæðɚ ðɐn ɐfɹˈeɪd.   tʃˈuːz ɐn ˈɑːpʃən bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c05s02-feedback-0
+Fear is one possible account, not a unique reading.
+fˈɪɹ ɪz wˈʌn pˈɑːsᵻbəl ɐkˈaʊnt, nˌɑːɾə juːnˈiːk ɹˈiːdɪŋ.
+
+c05s02-feedback-1
+This separates a measurement from the emotional interpretation.
+ðɪs sˈɛpɚɹˌeɪts ɐ mˈɛʒɚmənt fɹʌmðɪ ɪmˈoʊʃənəl ɪntˌɜːpɹɪtˈeɪʃən.
+
+c05s02-feedback-2
+Excitement also cannot be uniquely inferred from pulse alone.
+ɛksˈaɪtmənt ˈɔːlsoʊ kænˈɑːt biː juːnˈiːkli ɪnfˈɜːd fɹʌm pˈʌls ɐlˈoʊn.
+
+c05s03
+Autonomic nervous system: regulation of many internal bodily functions. Sympathetic division: supports mobilization in many conditions. Parasympathetic division: supports regulation including recovery and digestion.
+
+Autonomic pathways help regulate cardiovascular, digestive and other functions. Their effects are organ-specific and coordinated with central processes.
+
+The common mobilize-and-recover description is useful but simplified. The divisions are not two personality types or exact opposites in every organ and situation.
+ɔːtənˈɑːmɪk nˈɜːvəs sˈɪstəm: ɹˌɛɡjʊlˈeɪʃən ʌv mˈɛni ɪntˈɜːnəl bˈɑːdili fˈʌŋkʃənz. sˌɪmpəθˈɛɾɪk dᵻvˈɪʒən: səpˈɔːɹts mˌoʊbɪlᵻzˈeɪʃən ɪn mˈɛni kəndˈɪʃənz. pˌæɹəsˌɪmpəθˈɛɾɪk dᵻvˈɪʒən: səpˈɔːɹts ɹˌɛɡjʊlˈeɪʃən ɪŋklˈuːdɪŋ ɹᵻkˈʌvɚɹi ænd daɪdʒˈɛstʃən.   ɔːtənˈɑːmɪk pˈæθweɪz hˈɛlp ɹˈɛɡjʊlˌeɪt kˌɑːɹdɪoʊvˈæskjʊlɚ, daɪdʒˈɛstɪv ænd ˈʌðɚ fˈʌŋkʃənz. ðɛɹ ɪfˈɛkts ɑːɹ ˈɔːɹɡənspəsˈɪfɪk ænd koʊˈɔːɹdɪnˌeɪɾᵻd wɪð sˈɛntɹəl pɹˈɑːsɛsᵻz.   ðə kˈɑːmən mˈoʊbɪlˌaɪzændɹᵻkˈʌvɚ dᵻskɹˈɪpʃən ɪz jˈuːsfəl bˌʌt sˈɪmplᵻfˌaɪd. ðə dᵻvˈɪʒənz ɑːɹ nˌɑːt tˈuː pˌɜːsənˈælᵻɾi tˈaɪps ɔːɹ ɛɡzˈækt ˈɑːpəzˌɪts ɪn ˈɛvɹi ˈɔːɹɡən ænd sˌɪtʃuːˈeɪʃən.
+
+c05s03b
+Endocrine system: glands and signals regulating bodily functions. Feedback loop: system output influences subsequent regulation.
+
+Hormones reach target tissues through circulation. Effects depend on receptors, timing and the state of the system. Feedback helps regulate activity over time.
+
+A single hormone measurement can vary with time of day and sampling conditions. It is not a direct scale of personality, stress damage or moral character.
+ˈɛndoʊkɹˌaɪn sˈɪstəm: ɡlˈændz ænd sˈɪɡnəlz ɹˈɛɡjʊlˌeɪɾɪŋ bˈɑːdili fˈʌŋkʃənz. fˈiːdbæk lˈuːp: sˈɪstəm ˈaʊtpʊt ˈɪnfluːənsᵻz sˈʌbsᵻkwənt ɹˌɛɡjʊlˈeɪʃən.   hˈɔːɹmoʊnz ɹˈiːtʃ tˈɑːɹɡɪt tˈɪʃuːz θɹuː sˌɜːkjʊlˈeɪʃən. ɪfˈɛkts dᵻpˈɛnd ˌɔn ɹᵻsˈɛptɚz, tˈaɪmɪŋ ænd ðə stˈeɪt ʌvðə sˈɪstəm. fˈiːdbæk hˈɛlps ɹˈɛɡjʊlˌeɪt æktˈɪvᵻɾi ˌoʊvɚ tˈaɪm.   ɐ sˈɪŋɡəl hˈɔːɹmoʊn mˈɛʒɚmənt kæn vˈɛɹi wɪð tˈaɪm ʌv dˈeɪ ænd sˈæmplɪŋ kəndˈɪʃənz. ɪɾ ɪz nˌɑːɾə dᵻɹˈɛkt skˈeɪl ʌv pˌɜːsənˈælᵻɾi, stɹˈɛs dˈæmɪdʒ ɔːɹ mˈɔːɹəl kˈæɹɪktɚ.
+
+c05s04
+Physiological arousal: change in bodily activation. Interoception: sensing internal bodily states. Appraisal: evaluation of a situation’s significance.
+
+A fast heartbeat can accompany exertion, excitement, fear or other conditions. Interpretation also uses the situation, expectations and subjective experience.
+
+Do not infer another person’s emotion from one bodily cue. Ask what they report and consider other explanations; persistent or concerning symptoms need appropriate medical advice.
+fˌɪzɪəlˈɑːdʒɪkəl ɚɹˈaʊzəl: tʃˈeɪndʒ ɪn bˈɑːdili ˌæktɪvˈeɪʃən. ˌɪntɚɹəsˈɛpʃən : sˈɛnsɪŋ ɪntˈɜːnəl bˈɑːdili stˈeɪts. ɐpɹˈeɪzəl: ɪvˌæljuːˈeɪʃən əvə sˌɪtʃuːˈeɪʃənz sɪɡnˈɪfɪkəns.   ɐ fˈæst hˈɑːɹtbiːt kæn ɐkˈʌmpəni ɛɡzˈɜːʃən, ɛksˈaɪtmənt, fˈɪɹ ɔːɹ ˈʌðɚ kəndˈɪʃənz. ɪntˌɜːpɹɪtˈeɪʃən ˈɔːlsoʊ jˈuːsᵻz ðə sˌɪtʃuːˈeɪʃən, ɛkspɪktˈeɪʃənz ænd sʌbdʒˈɛktɪv ɛkspˈiəɹɪəns.   duːnˌɑːt ɪnfˈɜːɹ ɐnˈʌðɚ pˈɜːsənz ɪmˈoʊʃən fɹʌm wˈʌn bˈɑːdili kjˈuː. ˈæsk wʌt ðeɪ ɹᵻpˈɔːɹt ænd kənsˈɪdɚɹ ˈʌðɚɹ ɛksplɐnˈeɪʃənz; pɚsˈɪstənt ɔːɹ kənsˈɜːnɪŋ sˈɪmptəmz nˈiːd ɐpɹˈoʊpɹɪət mˈɛdɪkəl ɐdvˈaɪs.
+
+c05s05
+Autonomic and endocrine measures help investigate regulation when sampling, context and suitable comparisons are specified. Individual signals usually lack psychological specificity.
+
+A course explanation cannot diagnose a symptom or justify changing medication.
+ɔːtənˈɑːmɪk ænd ˈɛndoʊkɹˌaɪn mˈɛʒɚz hˈɛlp ɪnvˈɛstᵻɡˌeɪt ɹˌɛɡjʊlˈeɪʃən wɛn sˈæmplɪŋ, kˈɑːntɛkst ænd sˈuːɾəbəl kəmpˈæɹɪsənz ɑːɹ spˈɛsᵻfˌaɪd. ˌɪndᵻvˈɪdʒuːəl sˈɪɡnəlz jˈuːʒuːəli lˈæk saɪkəlˈɑːdʒɪkəl spˌɛsɪfˈɪsᵻɾi.   ɐ kˈɔːɹs ɛksplɐnˈeɪʃən kænˈɑːt dˌaɪəɡnˈoʊz ɐ sˈɪmptəm ɔːɹ dʒˈʌstᵻfˌaɪ tʃˈeɪndʒɪŋ mˌɛdɪkˈeɪʃən.
+
+c05s06
+Apply the idea to this new fictional case.
+
+A social-media post interprets one hormone measurement as a complete measure of chronic stress.
+
+What additional information matters?
+
+A. Sampling time and conditions, plus suitable clinical interpretation.
+
+B. Whether the result matches a personality stereotype.
+
+C. A single universal normal value for every circumstance.
+
+Choose an option and write your reasoning before checking the feedback.
+ɐplˈaɪ ðɪ aɪdˈiə tə ðɪs nˈuː fˈɪkʃənəl kˈeɪs.   ɐ sˈoʊʃəlmˈiːdiːə pˈoʊst ɪntˈɜːpɹɪts wˈʌn hˈɔːɹmoʊn mˈɛʒɚmənt æz ɐ kəmplˈiːt mˈɛʒɚɹ ʌv kɹˈɑːnɪk stɹˈɛs.   wˌʌt ɐdˈɪʃənəl ˌɪnfɚmˈeɪʃən mˈæɾɚz?   ˈeɪ. sˈæmplɪŋ tˈaɪm ænd kəndˈɪʃənz, plˈʌs sˈuːɾəbəl klˈɪnɪkəl ɪntˌɜːpɹɪtˈeɪʃən.   bˈiː. wˈɛðɚ ðə ɹɪzˈʌlt mˈætʃᵻz ɐ pˌɜːsənˈælᵻɾi stˈɛɹɪˌoʊtaɪp.   sˈiː. ɐ sˈɪŋɡəl jˌuːnɪvˈɜːsəl nˈɔːɹməl vˈæljuː fɔːɹ ˈɛvɹi sˈɜːkəmstˌæns.   tʃˈuːz ɐn ˈɑːpʃən ænd ɹˈaɪt jʊɹ ɹˈiːzənɪŋ bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c05s06-feedback-0
+Biological measures need context and appropriate interpretation.
+bˌaɪəlˈɑːdʒɪkəl mˈɛʒɚz nˈiːd kˈɑːntɛkst ænd ɐpɹˈoʊpɹɪət ɪntˌɜːpɹɪtˈeɪʃən.
+
+c05s06-feedback-1
+A stereotype is not a measurement model.
+ɐ stˈɛɹɪˌoʊtaɪp ɪz nˌɑːɾə mˈɛʒɚmənt mˈɑːdəl.
+
+c05s06-feedback-2
+Reference values and sampling conditions are more complex.
+ɹˈɛfɹəns vˈæljuːz ænd sˈæmplɪŋ kəndˈɪʃənz ɑːɹ mˈɔːɹ kˈɑːmplɛks.
+
+c05s07
+Try these questions without your notes.
+
+Why does hormone action depend on receptors?
+
+Why is arousal not an emotion label?
+
+Reveal the suggested answers after trying.
+tɹˈaɪ ðiːz kwˈɛstʃənz wɪðˌaʊt jʊɹ nˈoʊts.   wˌaɪ dˈʌz hˈɔːɹmoʊn ˈækʃən dᵻpˈɛnd ˌɔn ɹᵻsˈɛptɚz?   wˌaɪ ɪz ɚɹˈaʊzəl nˌɑːt ɐn ɪmˈoʊʃən lˈeɪbəl?   ɹᵻvˈiːl ðə sədʒˈɛstᵻd ˈænsɚz ˈæftɚ tɹˈaɪɪŋ.
+
+c05s07-answers
+Target tissues respond differently according to receptor and system context.
+
+Similar bodily changes can occur in several emotions and non-emotional conditions.
+tˈɑːɹɡɪt tˈɪʃuːz ɹᵻspˈɑːnd dˈɪfɹəntli ɐkˈɔːɹdɪŋ tə ɹᵻsˈɛptɚ ænd sˈɪstəm kˈɑːntɛkst.   sˈɪmɪlɚ bˈɑːdili tʃˈeɪndʒᵻz kæn əkˈɜːɹ ɪn sˈɛvɹəl ɪmˈoʊʃənz ænd nˈɑːnɪmˈoʊʃənəl kəndˈɪʃənz.
+
+c05s08
+For a fictional presentation scene, list one bodily observation, two possible explanations and a respectful question. Do not monitor or diagnose another person.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+fɚɹə fˈɪkʃənəl pɹˌɛzəntˈeɪʃən sˈiːn, lˈɪst wˈʌn bˈɑːdili ɑːbzɚvˈeɪʃən, tˈuː pˈɑːsᵻbəl ɛksplɐnˈeɪʃənz ænd ɐ ɹᵻspˈɛktfəl kwˈɛstʃən. duːnˌɑːt mˈɑːnɪɾɚ ɔːɹ dˌaɪəɡnˈoʊz ɐnˈʌðɚ pˈɜːsən.   ɹᵻtˈɜːn təmˈɑːɹoʊ ɔːɹ ɪn ɐ wˈiːk wɪð ɐn ʌnfəmˈɪlɪɹ ɛɡzˈæmpəl. kəmpˈɛɹ jʊɹ ɹˈiːzənɪŋ wɪððə nˈoʊts.
+
+c06s01
+A sudden alarm interrupts the café. Sam feels alert and reacts quickly. Later a headline says every stress response damages the brain. Maya asks whether brief mobilization and prolonged strain are the same claim.
+ɐ sˈʌdən ɐlˈɑːɹm ˈɪntɚɹˌʌpts ðə kæfˈeɪ. sˈæm fˈiːlz ɐlˈɜːt ænd ɹɪˈækts kwˈɪkli. lˈeɪɾɚɹ ɐ hˈɛdlaɪn sˈɛz ˈɛvɹi stɹˈɛs ɹᵻspˈɑːns dˈæmɪdʒᵻz ðə bɹˈeɪn. mˈaɪə ˈæsks wˈɛðɚ bɹˈiːf mˌoʊbɪlᵻzˈeɪʃən ænd pɹəlˈɔŋd stɹˈeɪn ɑːɹ ðə sˈeɪm klˈeɪm.
+
+c06s02
+First, make a prediction about the café story.
+
+How should the headline be qualified?
+
+A. Every stress response causes the same damage.
+
+B. Acute mobilization and prolonged strain need different evidence.
+
+C. A useful alarm response proves stress has no risks.
+
+Choose an option before checking the feedback.
+fˈɜːst, mˌeɪk ɐ pɹɪdˈɪkʃən ɐbˌaʊt ðə kæfˈeɪ stˈɔːɹi.   hˌaʊ ʃˌʊd ðə hˈɛdlaɪn biː kwˈɔlᵻfˌaɪd?   ˈeɪ. ˈɛvɹi stɹˈɛs ɹᵻspˈɑːns kˈɔːzᵻz ðə sˈeɪm dˈæmɪdʒ.   bˈiː. ɐkjˈuːt mˌoʊbɪlᵻzˈeɪʃən ænd pɹəlˈɔŋd stɹˈeɪn nˈiːd dˈɪfɹənt ˈɛvɪdəns.   sˈiː. ɐ jˈuːsfəl ɐlˈɑːɹm ɹᵻspˈɑːns pɹˈuːvz stɹˈɛs hɐz nˈoʊ ɹˈɪsks.   tʃˈuːz ɐn ˈɑːpʃən bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c06s02-feedback-0
+That erases duration, dose and individual context.
+ðæt ᵻɹˈeɪsᵻz dʊɹɹˈeɪʃən, dˈoʊs ænd ˌɪndᵻvˈɪdʒuːəl kˈɑːntɛkst.
+
+c06s02-feedback-1
+This separates a short-term function from long-term risk claims.
+ðɪs sˈɛpɚɹˌeɪts ɐ ʃˈɔːɹttˈɜːm fˈʌŋkʃən fɹʌm lˈɔŋtˈɜːm ɹˈɪsk klˈeɪmz.
+
+c06s02-feedback-2
+Short-term usefulness does not establish long-term harmlessness.
+ʃˈɔːɹttˈɜːm jˈuːsfəlnəs dʌznˌɑːt ɪstˈæblɪʃ lˈɔŋtˈɜːm hˈɑːɹmləsnəs.
+
+c06s03
+Stressor: a demand or threat capable of eliciting a response. Stress response: coordinated response to a perceived demand. Acute stress: a response over a relatively short period.
+
+Stress responses can mobilize attention and resources for immediate demands. Whether a response helps depends on the task, its intensity and the available resources.
+
+A useful short-term response is not evidence that prolonged strain is harmless. Likewise, a long-term risk association does not mean every alarm response causes damage.
+stɹˈɛsɚ: ɐ dᵻmˈænd ɔːɹ θɹˈɛt kˈeɪpəbəl ʌv ᵻlˈɪsᵻɾɪŋ ɐ ɹᵻspˈɑːns. stɹˈɛs ɹᵻspˈɑːns: koʊˈɔːɹdɪnˌeɪɾᵻd ɹᵻspˈɑːns tʊ ɐ pɚsˈiːvd dᵻmˈænd. ɐkjˈuːt stɹˈɛs: ɐ ɹᵻspˈɑːns ˌoʊvɚɹ ɐ ɹˈɛlətˌɪvli ʃˈɔːɹt pˈiəɹɪəd.   stɹˈɛs ɹᵻspˈɑːnsᵻz kæn mˈoʊbɪlˌaɪz ɐtˈɛnʃən ænd ɹᵻsˈɔːɹsᵻz fɔːɹ ɪmˈiːdɪət dᵻmˈændz. wˈɛðɚɹ ɐ ɹᵻspˈɑːns hˈɛlps dᵻpˈɛndz ɔnðə tˈæsk, ɪts ɪntˈɛnsᵻɾi ænd ðɪ ɐvˈeɪləbəl ɹᵻsˈɔːɹsᵻz.   ɐ jˈuːsfəl ʃˈɔːɹttˈɜːm ɹᵻspˈɑːns ɪz nˌɑːt ˈɛvɪdəns ðæt pɹəlˈɔŋd stɹˈeɪn ɪz hˈɑːɹmləs. lˈaɪkwaɪz, ɐ lˈɔŋtˈɜːm ɹˈɪsk ɐsˌoʊsɪˈeɪʃən dʌznˌɑːt mˈiːn ˈɛvɹi ɐlˈɑːɹm ɹᵻspˈɑːns kˈɔːzᵻz dˈæmɪdʒ.
+
+c06s03b
+Hypothalamic–pituitary–adrenal axis: linked hormonal stress-regulation pathway. Allostasis: stability supported through changing regulation.
+
+Stress regulation involves autonomic and hormonal systems, including the hypothalamic, pituitary and adrenal pathway. Cortisol has ordinary regulatory functions as well as changing with some stressors.
+
+Its level depends on time, health and measurement conditions. A single sample cannot reveal a person’s complete stress history.
+hˌaɪpoʊθælˈæmɪk pɪtˈuːətˌɛɹi ɐdɹˈiːnəl ˈæksɪs: lˈɪŋkt hɔːɹmˈoʊnəl stɹˈɛsɹˌɛɡjʊlˈeɪʃən pˈæθweɪ. ˌæləstˈɑːsiz: stəbˈɪlᵻɾi səpˈɔːɹɾᵻd θɹuː tʃˈeɪndʒɪŋ ɹˌɛɡjʊlˈeɪʃən.   stɹˈɛs ɹˌɛɡjʊlˈeɪʃən ɪnvˈɑːlvz ɔːtənˈɑːmɪk ænd hɔːɹmˈoʊnəl sˈɪstəmz, ɪŋklˈuːdɪŋ ðə hˌaɪpoʊθælˈæmɪk, pɪtˈuːətˌɛɹi ænd ɐdɹˈiːnəl pˈæθweɪ. kˈɔːɹɾɪsˌɑːl hɐz ˈɔːɹdɪnˌɛɹi ɹˈɛɡjʊlətˌɔːɹi fˈʌŋkʃənz æz wˈɛl æz tʃˈeɪndʒɪŋ wɪð sˌʌm stɹˈɛsɚz.   ɪts lˈɛvəl dᵻpˈɛndz ˌɔn tˈaɪm, hˈɛlθ ænd mˈɛʒɚmənt kəndˈɪʃənz. ɐ sˈɪŋɡəl sˈæmpəl kænˈɑːt ɹᵻvˈiːl ɐ pˈɜːsənz kəmplˈiːt stɹˈɛs hˈɪstɚɹi.
+
+c06s04
+Allostatic load: cumulative burden associated with repeated adaptation. Recovery: return or adjustment following demands. Confounding: other factors contributing to an association.
+
+Research relates prolonged adversity and physiological regulation to health, using multiple measures and long timescales. Causal interpretation must consider health, resources and other exposures.
+
+Workload, safety and material support matter. An individual relaxation exercise is not an adequate answer to every structural stressor.
+ˌæləstˈæɾɪk lˈoʊd: kjˈuːmjʊlətˌɪv bˈɜːdən ɐsˈoʊsɪˌeɪɾᵻd wɪð ɹᵻpˈiːɾᵻd ˌædæptˈeɪʃən. ɹᵻkˈʌvɚɹi: ɹᵻtˈɜːn ɔːɹ ɐdʒˈʌstmənt fˈɑːloʊɪŋ dᵻmˈændz. kənfˈaʊndɪŋ: ˈʌðɚ fˈæktɚz kəntɹˈɪbjuːɾɪŋ tʊ ɐn ɐsˌoʊsɪˈeɪʃən.   ɹᵻsˈɜːtʃ ɹᵻlˈeɪts pɹəlˈɔŋd ædvˈɚsᵻɾi ænd fˌɪzɪəlˈɑːdʒɪkəl ɹˌɛɡjʊlˈeɪʃən tə hˈɛlθ, jˈuːzɪŋ mˌʌltɪpəl mˈɛʒɚz ænd lˈɔŋ tˈaɪmskeɪlz. kˈɔːzəl ɪntˌɜːpɹɪtˈeɪʃən mˈʌst kənsˈɪdɚ hˈɛlθ, ɹᵻsˈɔːɹsᵻz ænd ˈʌðɚɹ ɛkspˈoʊʒɚz.   wˈɜːkloʊd, sˈeɪfti ænd mətˈɪɹiəl səpˈɔːɹt mˈæɾɚ. ɐn ˌɪndᵻvˈɪdʒuːəl ɹᵻlɐksˈeɪʃən ˈɛksɚsˌaɪz ɪz nˌɑːt ɐn ˈædɪkwət ˈænsɚ tʊ ˈɛvɹi stɹˈʌktʃɚɹəl stɹˈɛsɚ.
+
+c06s05
+Allostatic-load measures are composites, and studies differ in which indicators they include. Longitudinal associations do not turn one cortisol result into proof of damage.
+
+Persistent distress or physical concerns need appropriate care. The course does not prescribe a biological treatment.
+ˌæləstˈæɾɪklˈoʊd mˈɛʒɚz ɑːɹ kˈɑːmpəzˌɪts, ænd stˈʌdiz dˈɪfɚ ɪnwˌɪtʃ ˈɪndᵻkˌeɪɾɚz ðeɪ ɪŋklˈuːd. lˈɔndʒɪtˌuːdɪnəl ɐsˌoʊsɪˈeɪʃənz duːnˌɑːt tˈɜːn wˈʌn kˈɔːɹɾɪsˌɑːl ɹɪzˈʌlt ˌɪntʊ pɹˈuːf ʌv dˈæmɪdʒ.   pɚsˈɪstənt dɪstɹˈɛs ɔːɹ fˈɪzɪkəl kənsˈɜːnz nˈiːd ɐpɹˈoʊpɹɪət kˈɛɹ. ðə kˈɔːɹs dʌznˌɑːt pɹɪskɹˈaɪb ɐ bˌaɪəlˈɑːdʒɪkəl tɹˈiːtmənt.
+
+c06s06
+Apply the idea to this new fictional case.
+
+A volunteer reports repeated overload because staffing and break arrangements have changed.
+
+What response fits the situation best?
+
+A. Address recurring workload and support, then evaluate outcomes.
+
+B. Assign a fixed stress personality.
+
+C. Treat one breathing exercise as sufficient evidence of recovery.
+
+Choose an option and write your reasoning before checking the feedback.
+ɐplˈaɪ ðɪ aɪdˈiə tə ðɪs nˈuː fˈɪkʃənəl kˈeɪs.   ɐ vˌɑːləntˈɪɹ ɹᵻpˈɔːɹts ɹᵻpˈiːɾᵻd ˌoʊvɚlˈoʊd bɪkˈʌz stˈæfɪŋ ænd bɹˈeɪk ɚɹˈeɪndʒmənts hæv tʃˈeɪndʒd.   wˌʌt ɹᵻspˈɑːns fˈɪts ðə sˌɪtʃuːˈeɪʃən bˈɛst?   ˈeɪ. ɐdɹˈɛs ɹᵻkˈɜːɹɪŋ wˈɜːkloʊd ænd səpˈɔːɹt, ðˈɛn ɪvˈæljuːˌeɪt ˈaʊtkʌmz.   bˈiː. ɐsˈaɪn ɐ fˈɪkst stɹˈɛs pˌɜːsənˈælᵻɾi.   sˈiː. tɹˈiːt wˈʌn bɹˈiːðɪŋ ˈɛksɚsˌaɪz æz səfˈɪʃənt ˈɛvɪdəns ʌv ɹᵻkˈʌvɚɹi.   tʃˈuːz ɐn ˈɑːpʃən ænd ɹˈaɪt jʊɹ ɹˈiːzənɪŋ bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c06s06-feedback-0
+The persistent demand and available resources are relevant targets.
+ðə pɚsˈɪstənt dᵻmˈænd ænd ɐvˈeɪləbəl ɹᵻsˈɔːɹsᵻz ɑːɹ ɹˈɛlᵻvənt tˈɑːɹɡɪts.
+
+c06s06-feedback-1
+A personality label does not identify the cause or needed change.
+ɐ pˌɜːsənˈælᵻɾi lˈeɪbəl dʌznˌɑːt aɪdˈɛntᵻfˌaɪ ðə kˈɔːz ɔːɹ nˈiːdᵻd tʃˈeɪndʒ.
+
+c06s06-feedback-2
+A local exercise does not demonstrate resolution of ongoing strain.
+ɐ lˈoʊkəl ˈɛksɚsˌaɪz dʌznˌɑːt dˈɛmənstɹˌeɪt ɹˌɛzəlˈuːʃən ʌv ˈɑːŋɡoʊɪŋ stɹˈeɪn.
+
+c06s07
+Try these questions without your notes.
+
+Why is cortisol not simply a damage chemical?
+
+What is allostatic load intended to describe?
+
+Reveal the suggested answers after trying.
+tɹˈaɪ ðiːz kwˈɛstʃənz wɪðˌaʊt jʊɹ nˈoʊts.   wˌaɪ ɪz kˈɔːɹɾɪsˌɑːl nˌɑːt sˈɪmpli ɐ dˈæmɪdʒ kˈɛmɪkəl?   wˌʌt ɪz ˌæləstˈæɾɪk lˈoʊd ɪntˈɛndᵻd tə dᵻskɹˈaɪb?   ɹᵻvˈiːl ðə sədʒˈɛstᵻd ˈænsɚz ˈæftɚ tɹˈaɪɪŋ.
+
+c06s07-answers
+It has normal regulatory functions and varies with time and context.
+
+Cumulative physiological burden associated with repeated adaptation, estimated using specified measures.
+ɪt hɐz nˈɔːɹməl ɹˈɛɡjʊlətˌɔːɹi fˈʌŋkʃənz ænd vˈɛɹiz wɪð tˈaɪm ænd kˈɑːntɛkst.   kjˈuːmjʊlətˌɪv fˌɪzɪəlˈɑːdʒɪkəl bˈɜːdən ɐsˈoʊsɪˌeɪɾᵻd wɪð ɹᵻpˈiːɾᵻd ˌædæptˈeɪʃən, ˈɛstᵻmˌeɪɾᵻd jˈuːzɪŋ spˈɛsᵻfˌaɪd mˈɛʒɚz.
+
+c06s08
+Use a fictional recurring workload problem. Separate demand, response, recovery opportunity and a change in the environment.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+jˈuːs ɐ fˈɪkʃənəl ɹᵻkˈɜːɹɪŋ wˈɜːkloʊd pɹˈɑːbləm. sˈɛpɹət dᵻmˈænd, ɹᵻspˈɑːns, ɹᵻkˈʌvɚɹi ɑːpɚtˈuːnᵻɾi ænd ɐ tʃˈeɪndʒ ɪnðɪ ɛnvˈaɪɹənmənt.   ɹᵻtˈɜːn təmˈɑːɹoʊ ɔːɹ ɪn ɐ wˈiːk wɪð ɐn ʌnfəmˈɪlɪɹ ɛɡzˈæmpəl. kəmpˈɛɹ jʊɹ ɹˈiːzənɪŋ wɪððə nˈoʊts.
+
+c07s01
+Pat feels sleepy late at night after a long day. Jo, working a shifted schedule, feels alert then but sleepy in the morning. Leo says both should simply decide to sleep at the same time.
+pˈæt fˈiːlz slˈiːpi lˈeɪt æt nˈaɪt ˈæftɚɹ ɐ lˈɔŋ dˈeɪ. dʒˈoʊ, wˈɜːkɪŋ ɐ ʃˈɪftᵻd skˈɛdʒuːl, fˈiːlz ɐlˈɜːt ðˈɛn bˌʌt slˈiːpi ɪnðə mˈɔːɹnɪŋ. lˈiːoʊ sˈɛz bˈoʊθ ʃˌʊd sˈɪmpli dᵻsˈaɪd tə slˈiːp æt ðə sˈeɪm tˈaɪm.
+
+c07s02
+First, make a prediction about the café story.
+
+What is missing from Leo’s instruction?
+
+A. Circadian timing and accumulated wakefulness.
+
+B. The claim that sleep is only a choice.
+
+C. The assumption that feeling alert proves sufficient sleep.
+
+Choose an option before checking the feedback.
+fˈɜːst, mˌeɪk ɐ pɹɪdˈɪkʃən ɐbˌaʊt ðə kæfˈeɪ stˈɔːɹi.   wˌʌt ɪz mˈɪsɪŋ fɹʌm lˈiːoʊz ɪnstɹˈʌkʃən?   ˈeɪ. sɜːkˈeɪdiən tˈaɪmɪŋ ænd ɐkjˈuːmjʊlˌeɪɾᵻd wˈeɪkfəlnəs.   bˈiː. ðə klˈeɪm ðæt slˈiːp ɪz ˈoʊnli ɐ tʃˈɔɪs.   sˈiː. ðɪ ɐsˈʌmpʃən ðæt fˈiːlɪŋ ɐlˈɜːt pɹˈuːvz səfˈɪʃənt slˈiːp.   tʃˈuːz ɐn ˈɑːpʃən bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c07s02-feedback-0
+Both processes and the available sleep opportunity matter.
+bˈoʊθ pɹˈɑːsɛsᵻz ænd ðɪ ɐvˈeɪləbəl slˈiːp ɑːpɚtˈuːnᵻɾi mˈæɾɚ.
+
+c07s02-feedback-1
+That is the oversimplification, not the missing mechanism.
+ðæt ɪz ðɪ ˌoʊvɚsˌɪmplɪfɪkˈeɪʃən, nˌɑːt ðə mˈɪsɪŋ mˈɛkənˌɪzəm.
+
+c07s02-feedback-2
+Subjective alertness does not uniquely establish adequate sleep.
+sʌbdʒˈɛktɪv ɐlˈɜːtnəs dʌznˌɑːt juːnˈiːkli ɪstˈæblɪʃ ˈædɪkwət slˈiːp.
+
+c07s03
+Circadian rhythm: approximately daily biological cycle. Sleep pressure: need for sleep increasing with sustained wakefulness. Entrainment: alignment of a rhythm to external timing cues.
+
+Sleep timing reflects both accumulated wakefulness and circadian regulation. Light is an important timing cue, alongside behaviour and social schedules.
+
+Feeling alert does not necessarily mean a person is fully rested. Shift schedules can place biological timing and required activity in conflict.
+sɜːkˈeɪdiən ɹˈɪðəm: ɐpɹˈɑːksɪmətli dˈeɪli bˌaɪəlˈɑːdʒɪkəl sˈaɪkəl. slˈiːp pɹˈɛʃɚ: nˈiːd fɔːɹ slˈiːp ɪŋkɹˈiːsɪŋ wɪð səstˈeɪnd wˈeɪkfəlnəs. ɛntɹˈeɪnmənt: ɐlˈaɪnmənt əvɚ ɹˈɪðəm tʊ ɛkstˈɜːnəl tˈaɪmɪŋ kjˈuːz.   slˈiːp tˈaɪmɪŋ ɹᵻflˈɛkts bˈoʊθ ɐkjˈuːmjʊlˌeɪɾᵻd wˈeɪkfəlnəs ænd sɜːkˈeɪdiən ɹˌɛɡjʊlˈeɪʃən. lˈaɪt ɪz ɐn ɪmpˈɔːɹtənt tˈaɪmɪŋ kjˈuː, ɐlˈɔŋsaɪd bᵻhˈeɪvjɚ ænd sˈoʊʃəl skˈɛdʒuːlz.   fˈiːlɪŋ ɐlˈɜːt dʌznˌɑːt nˌɛsɪsˈɛɹᵻli mˈiːn ɐ pˈɜːsən ɪz fˈʊli ɹˈɛstᵻd. ʃˈɪft skˈɛdʒuːlz kæn plˈeɪs bˌaɪəlˈɑːdʒɪkəl tˈaɪmɪŋ ænd ɹᵻkwˈaɪɚd æktˈɪvᵻɾi ɪn kˈɑːnflɪkt.
+
+c07s03b
+Non-rapid-eye-movement sleep: sleep stages without rapid eye movements. Rapid-eye-movement sleep: sleep stage with characteristic eye movements. Sleep architecture: organization of sleep stages across time.
+
+Sleep cycles through stages identified using physiological measures. Stages differ in features such as brain activity, muscle tone and eye movements.
+
+Sleep supports several functions, including aspects of memory and regulation. Dreams are not restricted to one simple function, and a stage label is not a unique psychological meaning.
+nˈɑːnɹˈæpɪdˈaɪmˈuːvmənt slˈiːp: slˈiːp stˈeɪdʒᵻz wɪðˌaʊt ɹˈæpɪd ˈaɪ mˈuːvmənts. ɹˈæpɪdˈaɪmˈuːvmənt slˈiːp: slˈiːp stˈeɪdʒ wɪð kˌæɹɪktɚɹˈɪstɪk ˈaɪ mˈuːvmənts. slˈiːp ˈɑːɹkɪtˌɛktʃɚ: ˌɔːɹɡɐnᵻzˈeɪʃən ʌv slˈiːp stˈeɪdʒᵻz əkɹˌɑːs tˈaɪm.   slˈiːp sˈaɪkəlz θɹuː stˈeɪdʒᵻz aɪdˈɛntᵻfˌaɪd jˈuːzɪŋ fˌɪzɪəlˈɑːdʒɪkəl mˈɛʒɚz. stˈeɪdʒᵻz dˈɪfɚɹ ɪn fˈiːtʃɚz sˈʌtʃ ɐz bɹˈeɪn æktˈɪvᵻɾi, mˈʌsəl tˈoʊn ænd ˈaɪ mˈuːvmənts.   slˈiːp səpˈɔːɹts sˈɛvɹəl fˈʌŋkʃənz, ɪŋklˈuːdɪŋ ˈæspɛkts ʌv mˈɛmɚɹi ænd ɹˌɛɡjʊlˈeɪʃən. dɹˈiːmz ɑːɹ nˌɑːt ɹᵻstɹˈɪktᵻd tə wˈʌn sˈɪmpəl fˈʌŋkʃən, ænd ɐ stˈeɪdʒ lˈeɪbəl ɪz nˌɑːɾə juːnˈiːk saɪkəlˈɑːdʒɪkəl mˈiːnɪŋ.
+
+c07s04
+Sleep opportunity: time and conditions available for sleeping. Measurement validity: whether a measure supports its intended use.
+
+Consumer devices infer sleep from limited signals; their estimates are not equivalent to a complete clinical sleep study. Judge a device against validation for its claimed use.
+
+Persistent sleep difficulties, breathing concerns or excessive sleepiness warrant appropriate care. Do not alter medication or undertake sleep deprivation as course practice.
+slˈiːp ɑːpɚtˈuːnᵻɾi: tˈaɪm ænd kəndˈɪʃənz ɐvˈeɪləbəl fɔːɹ slˈiːpɪŋ. mˈɛʒɚmənt vælˈɪdᵻɾi: wˈɛðɚɹ ɐ mˈɛʒɚ səpˈɔːɹts ɪts ɪntˈɛndᵻd jˈuːs.   kənsˈuːmɚ dɪvˈaɪsᵻz ɪnfˈɜː slˈiːp fɹʌm lˈɪmɪɾᵻd sˈɪɡnəlz; ðɛɹ ˈɛstᵻməts ɑːɹ nˌɑːt ɪkwˈɪvələnt tʊ ɐ kəmplˈiːt klˈɪnɪkəl slˈiːp stˈʌdi. dʒˈʌdʒ ɐ dɪvˈaɪs ɐɡˈɛnst vˌælɪdˈeɪʃən fɔːɹ ɪts klˈeɪmd jˈuːs.   pɚsˈɪstənt slˈiːp dˈɪfɪkˌʌltiz, bɹˈiːðɪŋ kənsˈɜːnz ɔːɹ ɛksˈɛsɪv slˈiːpinəs wˈɔːɹənt ɐpɹˈoʊpɹɪət kˈɛɹ. duːnˌɑːt ˈɔltɚ mˌɛdɪkˈeɪʃən ɔːɹ ˌʌndɚtˈeɪk slˈiːp dˌɛpɹɪvˈeɪʃən æz kˈɔːɹs pɹˈæktɪs.
+
+c07s05
+Sleep findings depend on duration, timing, task and measurement. Laboratory deprivation studies inform specific outcomes without establishing every real-world effect.
+
+Sleep needs and clinical problems vary. The course provides concepts rather than individualized sleep treatment.
+slˈiːp fˈaɪndɪŋz dᵻpˈɛnd ˌɔn dʊɹɹˈeɪʃən, tˈaɪmɪŋ, tˈæsk ænd mˈɛʒɚmənt. lˈæbɹətˌɔːɹi dˌɛpɹɪvˈeɪʃən stˈʌdiz ɪnfˈɔːɹm spəsˈɪfɪk ˈaʊtkʌmz wɪðˌaʊt ɪstˈæblɪʃɪŋ ˈɛvɹi ɹˈiːəlwˈɜːld ɪfˈɛkt.   slˈiːp nˈiːdz ænd klˈɪnɪkəl pɹˈɑːbləmz vˈɛɹi. ðə kˈɔːɹs pɹəvˈaɪdz kˈɑːnsɛpts ɹˈæðɚ ðɐn ˌɪndᵻvˈɪdʒuːəlˌaɪzd slˈiːp tɹˈiːtmənt.
+
+c07s06
+Apply the idea to this new fictional case.
+
+A wrist device labels several minutes as a specific sleep stage using movement and pulse data.
+
+Which conclusion fits the evidence?
+
+A. The device can diagnose every sleep disorder.
+
+B. The estimate needs validation for that particular use.
+
+C. Any estimate with uncertainty is useless.
+
+Choose an option and write your reasoning before checking the feedback.
+ɐplˈaɪ ðɪ aɪdˈiə tə ðɪs nˈuː fˈɪkʃənəl kˈeɪs.   ɐ ɹˈɪst dɪvˈaɪs lˈeɪbəlz sˈɛvɹəl mˈɪnɪts æz ɐ spəsˈɪfɪk slˈiːp stˈeɪdʒ jˈuːzɪŋ mˈuːvmənt ænd pˈʌls dˈeɪɾə.   wˌɪtʃ kəŋklˈuːʒən fˈɪts ðɪ ˈɛvɪdəns?   ˈeɪ. ðə dɪvˈaɪs kæn dˌaɪəɡnˈoʊz ˈɛvɹi slˈiːp dɪsˈɔːɹdɚ.   bˈiː. ðɪ ˈɛstᵻmət nˈiːdz vˌælɪdˈeɪʃən fɔːɹ ðæt pɚtˈɪkjʊlɚ jˈuːs.   sˈiː. ˌɛni ˈɛstᵻmət wɪð ʌnsˈɜːtənti ɪz jˈuːsləs.   tʃˈuːz ɐn ˈɑːpʃən ænd ɹˈaɪt jʊɹ ɹˈiːzənɪŋ bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c07s06-feedback-0
+The available signals do not support such an unrestricted diagnostic claim.
+ðɪ ɐvˈeɪləbəl sˈɪɡnəlz duːnˌɑːt səpˈɔːɹt sˈʌtʃ ɐn ˌʌnɹᵻstɹˈɪktᵻd dˌaɪəɡnˈɑːstɪk klˈeɪm.
+
+c07s06-feedback-1
+Validation should match the claimed stage or clinical inference.
+vˌælɪdˈeɪʃən ʃˌʊd mˈætʃ ðə klˈeɪmd stˈeɪdʒ ɔːɹ klˈɪnɪkəl ˈɪnfɚɹəns.
+
+c07s06-feedback-2
+Estimates can be useful while retaining defined limits.
+ˈɛstᵻməts kæn biː jˈuːsfəl wˌaɪl ɹᵻtˈeɪnɪŋ dᵻfˈaɪnd lˈɪmɪts.
+
+c07s07
+Try these questions without your notes.
+
+How do circadian timing and sleep pressure differ?
+
+Why distinguish a tracker from clinical assessment?
+
+Reveal the suggested answers after trying.
+tɹˈaɪ ðiːz kwˈɛstʃənz wɪðˌaʊt jʊɹ nˈoʊts.   hˌaʊ dˈuː sɜːkˈeɪdiən tˈaɪmɪŋ ænd slˈiːp pɹˈɛʃɚ dˈɪfɚ?   wˌaɪ dɪstˈɪŋɡwɪʃ ɐ tɹˈækɚ fɹʌm klˈɪnɪkəl ɐsˈɛsmənt?   ɹᵻvˈiːl ðə sədʒˈɛstᵻd ˈænsɚz ˈæftɚ tɹˈaɪɪŋ.
+
+c07s07-answers
+One modulates timing over the day; the other reflects accumulated wakefulness.
+
+Signals, validation and intended uses differ, and clinical interpretation requires more context.
+wˈʌn mˈɑːdʒuːlˌeɪts tˈaɪmɪŋ ˌoʊvɚ ðə dˈeɪ; ðɪ ˈʌðɚ ɹᵻflˈɛkts ɐkjˈuːmjʊlˌeɪɾᵻd wˈeɪkfəlnəs.   sˈɪɡnəlz, vˌælɪdˈeɪʃən ænd ɪntˈɛndᵻd jˈuːsᵻz dˈɪfɚ, ænd klˈɪnɪkəl ɪntˌɜːpɹɪtˈeɪʃən ɹᵻkwˈaɪɚz mˈɔːɹ kˈɑːntɛkst.
+
+c07s08
+Evaluate a public sleep-device claim using its measured signals and intended use. Do not change your sleep duration to run an experiment.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+ɪvˈæljuːˌeɪt ɐ pˈʌblɪk slˈiːpdɪvˈaɪs klˈeɪm jˈuːzɪŋ ɪts mˈɛʒɚd sˈɪɡnəlz ænd ɪntˈɛndᵻd jˈuːs. duːnˌɑːt tʃˈeɪndʒ jʊɹ slˈiːp dʊɹɹˈeɪʃən tə ɹˈʌn ɐn ɛkspˈɛɹɪmənt.   ɹᵻtˈɜːn təmˈɑːɹoʊ ɔːɹ ɪn ɐ wˈiːk wɪð ɐn ʌnfəmˈɪlɪɹ ɛɡzˈæmpəl. kəmpˈɛɹ jʊɹ ɹˈiːzənɪŋ wɪððə nˈoʊts.
+
+c08s01
+A visitor advertises a gene test for motivation. Leo says a high heritability estimate means a trait cannot change. Sam asks what the estimate describes and whether it explains an individual.
+ɐ vˈɪzɪɾɚɹ ˈædvɚtˌaɪzᵻz ɐ dʒˈiːn tˈɛst fɔːɹ mˌoʊɾɪvˈeɪʃən. lˈiːoʊ sˈɛz ɐ hˈaɪ hˌɛɹɪɾəbˈɪlᵻɾi ˈɛstᵻmət mˈiːnz ɐ tɹˈeɪt kænˈɑːt tʃˈeɪndʒ. sˈæm ˈæsks wʌt ðɪ ˈɛstᵻmət dᵻskɹˈaɪbz ænd wˈɛðɚɹ ɪɾ ɛksplˈeɪnz ɐn ˌɪndᵻvˈɪdʒuːəl.
+
+c08s02
+First, make a prediction about the café story.
+
+What does a heritability estimate describe?
+
+A. A fixed percentage of one person’s trait.
+
+B. Variation in a population under specified conditions.
+
+C. How much a trait can never change.
+
+Choose an option before checking the feedback.
+fˈɜːst, mˌeɪk ɐ pɹɪdˈɪkʃən ɐbˌaʊt ðə kæfˈeɪ stˈɔːɹi.   wˌʌt dˈʌz ɐ hˌɛɹɪɾəbˈɪlᵻɾi ˈɛstᵻmət dᵻskɹˈaɪb?   ˈeɪ. ɐ fˈɪkst pɚsˈɛntɪdʒ ʌv wˈʌn pˈɜːsənz tɹˈeɪt.   bˈiː. vˌɛɹɪˈeɪʃən ɪn ɐ pˌɑːpjʊlˈeɪʃən ˌʌndɚ spˈɛsᵻfˌaɪd kəndˈɪʃənz.   sˈiː. hˌaʊ mˈʌtʃ ɐ tɹˈeɪt kæn nˈɛvɚ tʃˈeɪndʒ.   tʃˈuːz ɐn ˈɑːpʃən bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c08s02-feedback-0
+The estimate is about population variation, not a personal decomposition.
+ðɪ ˈɛstᵻmət ɪz ɐbˌaʊt pˌɑːpjʊlˈeɪʃən vˌɛɹɪˈeɪʃən, nˌɑːɾə pˈɜːsənəl dˌiːkɑːmpəzˈɪʃən.
+
+c08s02-feedback-1
+Population, environment range, measure and model define its interpretation.
+pˌɑːpjʊlˈeɪʃən, ɛnvˈaɪɹənmənt ɹˈeɪndʒ, mˈɛʒɚɹ ænd mˈɑːdəl dᵻfˈaɪn ɪts ɪntˌɜːpɹɪtˈeɪʃən.
+
+c08s02-feedback-2
+Heritability and modifiability are different questions.
+hˌɛɹɪɾəbˈɪlᵻɾi ænd mˌɑːdɪfˌaɪəbˈɪlᵻɾi ɑːɹ dˈɪfɹənt kwˈɛstʃənz.
+
+c08s03
+Gene: a DNA sequence involved in biological function. Genotype: genetic constitution at relevant sites.
+
+Genes contribute through biological processes in developing environments. Complex psychological traits usually involve many variants with small, context-dependent associations.
+
+A genetic association is not a single-purpose instruction for a behaviour. The phenotype depends on development, measurement and circumstances.
+dʒˈiːn: ɐ dˌiːˌɛnˈeɪ sˈiːkwəns ɪnvˈɑːlvd ɪn bˌaɪəlˈɑːdʒɪkəl fˈʌŋkʃən. dʒˈɛnətˌaɪp: dʒɪnˈɛɾɪk kˌɑːnstɪtˈuːʃən æt ɹˈɛlᵻvənt sˈaɪts.   dʒˈiːnz kəntɹˈɪbjuːt θɹuː bˌaɪəlˈɑːdʒɪkəl pɹˈɑːsɛsᵻz ɪn dɪvˈɛləpɪŋ ɛnvˈaɪɹənmənts. kˈɑːmplɛks saɪkəlˈɑːdʒɪkəl tɹˈeɪts jˈuːʒuːəli ɪnvˈɑːlv mˈɛni vˈɛɹiənts wɪð smˈɔːl, kˈɑːntɛkstdᵻpˈɛndənt ɐsˌoʊsɪˈeɪʃənz.   ɐ dʒɪnˈɛɾɪk ɐsˌoʊsɪˈeɪʃən ɪz nˌɑːɾə sˈɪŋɡəlpˈɜːpəs ɪnstɹˈʌkʃən fɚɹə bᵻhˈeɪvjɚ. ðə fˈɛnətˌaɪp dᵻpˈɛndz ˌɔn dɪvˈɛləpmənt, mˈɛʒɚmənt ænd sˈɜːkəmstˌænsᵻz.
+
+c08s03b
+Gene–environment interaction: genetic effects vary across environments. Gene–environment correlation: genetic differences associated with environmental exposure.
+
+Heritability concerns differences within a specified population and range of environments. It does not state what percentage of one person’s trait is genetic.
+
+A high estimate does not imply that environmental changes are ineffective. Estimates can change when conditions or measurement change.
+dʒˈiːn ɛnvˈaɪɹənmənt ˌɪntɚɹˈækʃən: dʒɪnˈɛɾɪk ɪfˈɛkts vˈɛɹi əkɹˌɑːs ɛnvˈaɪɹənmənts. dʒˈiːn ɛnvˈaɪɹənmənt kˌɔɹɪlˈeɪʃən: dʒɪnˈɛɾɪk dˈɪfɹənsᵻz ɐsˈoʊsɪˌeɪɾᵻd wɪð ɛnvˌaɪɹənmˈɛntəl ɛkspˈoʊʒɚ.   hˌɛɹɪɾəbˈɪlᵻɾi kənsˈɜːnz dˈɪfɹənsᵻz wɪðˌɪn ɐ spˈɛsᵻfˌaɪd pˌɑːpjʊlˈeɪʃən ænd ɹˈeɪndʒ ʌv ɛnvˈaɪɹənmənts. ɪt dʌznˌɑːt stˈeɪt wʌt pɚsˈɛntɪdʒ ʌv wˈʌn pˈɜːsənz tɹˈeɪt ɪz dʒɪnˈɛɾɪk.   ɐ hˈaɪ ˈɛstᵻmət dʌznˌɑːt ɪmplˈaɪ ðæt ɛnvˌaɪɹənmˈɛntəl tʃˈeɪndʒᵻz ɑːɹ ɪnɪfˈɛktɪv. ˈɛstᵻməts kæn tʃˈeɪndʒ wɛn kəndˈɪʃənz ɔːɹ mˈɛʒɚmənt tʃˈeɪndʒ.
+
+c08s04
+Polygenic score: weighted summary of many genetic associations. Population transfer: performance in a different population. Association: statistical relationship without automatic causation.
+
+A genetic score’s predictive value depends on the outcome, sample and reference data. Performance can fall in populations unlike the study group.
+
+Prediction does not identify a modifiable mechanism or justify ranking someone’s worth. Privacy and informed consent matter for genetic information.
+pˌɑːlɪdʒˈɛnɪk skˈɔːɹ: wˈeɪɾᵻd sˈʌmɚɹi ʌv mˈɛni dʒɪnˈɛɾɪk ɐsˌoʊsɪˈeɪʃənz. pˌɑːpjʊlˈeɪʃən tɹˈænsfɜː: pɚfˈɔːɹməns ɪn ɐ dˈɪfɹənt pˌɑːpjʊlˈeɪʃən. ɐsˌoʊsɪˈeɪʃən: stɐtˈɪstɪkəl ɹᵻlˈeɪʃənʃˌɪp wɪðˌaʊt ˌɔːɾəmˈæɾɪk kɔːsˈeɪʃən.   ɐ dʒɪnˈɛɾɪk skˈɔːɹz pɹɪdˈɪktɪv vˈæljuː dᵻpˈɛndz ɔnðɪ ˈaʊtkʌm, sˈæmpəl ænd ɹˈɛfɹəns dˈeɪɾə. pɚfˈɔːɹməns kæn fˈɔːl ɪn pˌɑːpjʊlˈeɪʃənz ʌnlˈaɪk ðə stˈʌdi ɡɹˈuːp.   pɹɪdˈɪkʃən dʌznˌɑːt aɪdˈɛntᵻfˌaɪ ɐ mˈɑːdɪfˌaɪəbəl mˈɛkənˌɪzəm ɔːɹ dʒˈʌstᵻfˌaɪ ɹˈæŋkɪŋ sˈʌmwʌnz wˈɜːθ. pɹˈaɪvəsi ænd ɪnfˈɔːɹmd kənsˈɛnt mˈæɾɚ fɔːɹ dʒɪnˈɛɾɪk ˌɪnfɚmˈeɪʃən.
+
+c08s05
+Genetically informative studies rely on design assumptions and measured environments. Association studies need replication and careful attention to population structure.
+
+An introductory example cannot validate a genetic product or establish an individual prognosis.
+dʒɪnˈɛɾɪkli ɪnfˈɔːɹmətˌɪv stˈʌdiz ɹᵻlˈaɪ ˌɔn dɪzˈaɪn ɐsˈʌmpʃənz ænd mˈɛʒɚd ɛnvˈaɪɹənmənts. ɐsˌoʊsɪˈeɪʃən stˈʌdiz nˈiːd ɹˌɛplɪkˈeɪʃən ænd kˈɛɹfəl ɐtˈɛnʃən tə pˌɑːpjʊlˈeɪʃən stɹˈʌktʃɚ.   ɐn ˌɪntɹədˈʌktɚɹi ɛɡzˈæmpəl kænˈɑːt vˈælᵻdˌeɪt ɐ dʒɪnˈɛɾɪk pɹˈɑːdʌkt ɔːɹ ɪstˈæblɪʃ ɐn ˌɪndᵻvˈɪdʒuːəl pɹɑːɡnˈoʊsɪs.
+
+c08s06
+Apply the idea to this new fictional case.
+
+A company offers a DNA-based score to decide who should lead a volunteer team.
+
+What should be checked before using the score?
+
+A. Whether the label sounds biologically precise.
+
+B. Whether any gene association exists at all.
+
+C. Independent validation for the population and intended decision.
+
+Choose an option and write your reasoning before checking the feedback.
+ɐplˈaɪ ðɪ aɪdˈiə tə ðɪs nˈuː fˈɪkʃənəl kˈeɪs.   ɐ kˈʌmpəni ˈɔfɚz ɐ dˌiːˌɛnˈeɪbˈeɪst skˈɔːɹ tə dᵻsˈaɪd hˌuː ʃˌʊd lˈiːd ɐ vˌɑːləntˈɪɹ tˈiːm.   wˌʌt ʃˌʊd biː tʃˈɛkt bᵻfˌɔːɹ jˈuːzɪŋ ðə skˈɔːɹ?   ˈeɪ. wˈɛðɚ ðə lˈeɪbəl sˈaʊndz bˌaɪəlˈɑːdʒɪkli pɹɪsˈaɪs.   bˈiː. wˈɛðɚɹ ˌɛni dʒˈiːn ɐsˌoʊsɪˈeɪʃən ɛɡzˈɪsts æɾ ˈɔːl.   sˈiː. ˌɪndᵻpˈɛndənt vˌælɪdˈeɪʃən fɚðə pˌɑːpjʊlˈeɪʃən ænd ɪntˈɛndᵻd dᵻsˈɪʒən.   tʃˈuːz ɐn ˈɑːpʃən ænd ɹˈaɪt jʊɹ ɹˈiːzənɪŋ bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c08s06-feedback-0
+A precise-sounding label does not establish useful prediction.
+ɐ pɹɪsˈaɪssˈaʊndɪŋ lˈeɪbəl dʌznˌɑːt ɪstˈæblɪʃ jˈuːsfəl pɹɪdˈɪkʃən.
+
+c08s06-feedback-1
+Some association is insufficient to justify a practical individual decision.
+sˌʌm ɐsˌoʊsɪˈeɪʃən ɪz ɪnsəfˈɪʃənt tə dʒˈʌstᵻfˌaɪ ɐ pɹˈæktɪkəl ˌɪndᵻvˈɪdʒuːəl dᵻsˈɪʒən.
+
+c08s06-feedback-2
+Validation must address actual predictive value, uncertainty and population transfer.
+vˌælɪdˈeɪʃən mˈʌst ɐdɹˈɛs ˈæktʃuːəl pɹɪdˈɪktɪv vˈæljuː, ʌnsˈɜːtənti ænd pˌɑːpjʊlˈeɪʃən tɹˈænsfɜː.
+
+c08s07
+Try these questions without your notes.
+
+Why is heritability not immutability?
+
+Why may a polygenic score transfer poorly?
+
+Reveal the suggested answers after trying.
+tɹˈaɪ ðiːz kwˈɛstʃənz wɪðˌaʊt jʊɹ nˈoʊts.   wˌaɪ ɪz hˌɛɹɪɾəbˈɪlᵻɾi nˌɑːt ɪmjˌuːɾəbˈɪlᵻɾi?   wˌaɪ mˈeɪ ɐ pˌɑːlɪdʒˈɛnɪk skˈɔːɹ tɹˈænsfɜː pˈʊɹli?   ɹᵻvˈiːl ðə sədʒˈɛstᵻd ˈænsɚz ˈæftɚ tɹˈaɪɪŋ.
+
+c08s07-answers
+A population variance estimate does not show how outcomes respond to changed conditions.
+
+Its associations and reference data may not match the new population or environment.
+ɐ pˌɑːpjʊlˈeɪʃən vˈɛɹiəns ˈɛstᵻmət dʌznˌɑːt ʃˈoʊ hˌaʊ ˈaʊtkʌmz ɹᵻspˈɑːnd tə tʃˈeɪndʒd kəndˈɪʃənz.   ɪts ɐsˌoʊsɪˈeɪʃənz ænd ɹˈɛfɹəns dˈeɪɾə mˈeɪ nˌɑːt mˈætʃ ðə nˈuː pˌɑːpjʊlˈeɪʃən ɔːɹ ɛnvˈaɪɹənmənt.
+
+c08s08
+Rewrite a public genes-for-behaviour headline with the population, measured outcome and uncertainty made explicit.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+ɹᵻɹˈaɪt ɐ pˈʌblɪk dʒˈiːnzfɔːɹbᵻhˈeɪvjɚ hˈɛdlaɪn wɪððə pˌɑːpjʊlˈeɪʃən, mˈɛʒɚd ˈaʊtkʌm ænd ʌnsˈɜːtənti mˌeɪd ɛksplˈɪsɪt.   ɹᵻtˈɜːn təmˈɑːɹoʊ ɔːɹ ɪn ɐ wˈiːk wɪð ɐn ʌnfəmˈɪlɪɹ ɛɡzˈæmpəl. kəmpˈɛɹ jʊɹ ɹˈiːzənɪŋ wɪððə nˈoʊts.
+
+c09s01
+After weeks of practice, Sam identifies familiar radio faults faster. A training app calls this proof of a stronger brain. Maya asks whether the improvement transfers to an unfamiliar task.
+ˈæftɚ wˈiːks ʌv pɹˈæktɪs, sˈæm aɪdˈɛntᵻfˌaɪz fəmˈɪlɪɹ ɹˈeɪdɪˌoʊ fˈɔlts fˈæstɚ. ɐ tɹˈeɪnɪŋ ˈæp kˈɔːlz ðɪs pɹˈuːf əvə stɹˈɔŋɡɚ bɹˈeɪn. mˈaɪə ˈæsks wˈɛðɚ ðɪ ɪmpɹˈuːvmənt tɹˈænsfɜːz tʊ ɐn ʌnfəmˈɪlɪɹ tˈæsk.
+
+c09s02
+First, make a prediction about the café story.
+
+What does Sam’s improvement support most directly?
+
+A. Better performance on the practiced repair task.
+
+B. A permanent increase in all mental abilities.
+
+C. Proof that any training app works.
+
+Choose an option before checking the feedback.
+fˈɜːst, mˌeɪk ɐ pɹɪdˈɪkʃən ɐbˌaʊt ðə kæfˈeɪ stˈɔːɹi.   wˌʌt dˈʌz sˈæmz ɪmpɹˈuːvmənt səpˈɔːɹt mˈoʊst dᵻɹˈɛktli?   ˈeɪ. bˈɛɾɚ pɚfˈɔːɹməns ɔnðə pɹˈæktɪst ɹᵻpˈɛɹ tˈæsk.   bˈiː. ɐ pˈɜːmənənt ˈɪŋkɹiːs ɪn ˈɔːl mˈɛntəl ɐbˈɪləɾiz.   sˈiː. pɹˈuːf ðæt ˌɛni tɹˈeɪnɪŋ ˈæp wˈɜːks.   tʃˈuːz ɐn ˈɑːpʃən bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c09s02-feedback-0
+The improvement is meaningful but task-specific until further tested.
+ðɪ ɪmpɹˈuːvmənt ɪz mˈiːnɪŋfəl bˌʌt tˈæskspəsˈɪfɪk ʌntˈɪl fˈɜːðɚ tˈɛstᵻd.
+
+c09s02-feedback-1
+The observed task does not establish broad or permanent change.
+ðɪ əbzˈɜːvd tˈæsk dʌznˌɑːt ɪstˈæblɪʃ bɹˈɔːd ɔːɹ pˈɜːmənənt tʃˈeɪndʒ.
+
+c09s02-feedback-2
+This says nothing about an unrelated product.
+ðɪs sˈɛz nˈʌθɪŋ ɐbˌaʊt ɐn ˌʌnɹᵻlˈeɪɾᵻd pɹˈɑːdʌkt.
+
+c09s03
+Neuroplasticity: change in neural organization or function. Experience-dependent change: change associated with particular experience. Synaptic plasticity: change in the effectiveness of connections.
+
+Nervous systems change with development, experience, injury and learning. Plasticity includes several mechanisms and timescales.
+
+Calling an activity plasticity does not tell us whether a change is beneficial or durable. The effect must be measured against a specific outcome.
+nˌʊɹɹəplɐstˈɪsᵻɾi: tʃˈeɪndʒ ɪn nˈʊɹɹəl ˌɔːɹɡɐnᵻzˈeɪʃən ɔːɹ fˈʌŋkʃən. ɛkspˈiəɹɪənsdᵻpˈɛndənt tʃˈeɪndʒ: tʃˈeɪndʒ ɐsˈoʊsɪˌeɪɾᵻd wɪð pɚtˈɪkjʊlɚɹ ɛkspˈiəɹɪəns. sɪnˈæptɪk plæstˈɪsᵻɾi: tʃˈeɪndʒ ɪnðɪ ɪfˈɛktɪvnəs ʌv kənˈɛkʃənz.   nˈɜːvəs sˈɪstəmz tʃˈeɪndʒ wɪð dɪvˈɛləpmənt, ɛkspˈiəɹɪəns, ˈɪndʒɚɹi ænd lˈɜːnɪŋ. plæstˈɪsᵻɾi ɪŋklˈuːdz sˈɛvɹəl mˈɛkənˌɪzəmz ænd tˈaɪmskeɪlz.   kˈɔːlɪŋ ɐn æktˈɪvᵻɾi plæstˈɪsᵻɾi dʌznˌɑːt tˈɛl ˌʌs wˈɛðɚɹ ɐ tʃˈeɪndʒ ɪz bˌɛnɪfˈɪʃəl ɔːɹ dˈʊɹɹəbəl. ðɪ ɪfˈɛkt mˈʌst biː mˈɛʒɚd ɐɡˈɛnst ɐ spəsˈɪfɪk ˈaʊtkʌm.
+
+c09s03b
+Near transfer: benefit on a closely related task. Far transfer: benefit on a substantially different task. Active control: comparison with a credible alternative activity.
+
+Sam may learn the regularities of familiar repairs. That is useful even if general memory does not change.
+
+To test a broader benefit, compare suitable groups on untrained outcomes, account for expectations and assess persistence. A pre-to-post improvement without a comparison leaves practice and other explanations open.
+nˌɪɹ tɹˈænsfɜː: bˈɛnɪfˌɪt ˌɔn ɐ klˈoʊsli ɹᵻlˈeɪɾᵻd tˈæsk. fˈɑːɹ tɹˈænsfɜː: bˈɛnɪfˌɪt ˌɔn ɐ səbstˈænʃəli dˈɪfɹənt tˈæsk. ˈæktɪv kəntɹˈoʊl: kəmpˈæɹɪsən wɪð ɐ kɹˈɛdɪbəl ɔːltˈɜːnətˌɪv æktˈɪvᵻɾi.   sˈæm mˈeɪ lˈɜːn ðə ɹˌɛɡjʊlˈæɹᵻɾiz ʌv fəmˈɪlɪɹ ɹᵻpˈɛɹz. ðæt ɪz jˈuːsfəl ˈiːvən ɪf dʒˈɛnɚɹəl mˈɛmɚɹi dʌznˌɑːt tʃˈeɪndʒ.   tə tˈɛst ɐ bɹˈɔːdɚ bˈɛnɪfˌɪt, kəmpˈɛɹ sˈuːɾəbəl ɡɹˈuːps ˌɔn ʌntɹˈeɪnd ˈaʊtkʌmz, ɐkˈaʊnt fɔːɹ ɛkspɪktˈeɪʃənz ænd ɐsˈɛs pɚsˈɪstəns. ɐ pɹˈiːɾəpˈoʊst ɪmpɹˈuːvmənt wɪðˌaʊt ɐ kəmpˈæɹɪsən lˈiːvz pɹˈæktɪs ænd ˈʌðɚɹ ɛksplɐnˈeɪʃənz ˈoʊpən.
+
+c09s04
+Functional outcome: performance relevant to daily life. Prognosis: anticipated course with uncertainty.
+
+Recovery and rehabilitation depend on the injury, health, time, goals and available care. Neural changes may support recovery without restoring every previous function.
+
+Do not promise cures from a general plasticity claim. Professional plans should connect meaningful outcomes with suitable evidence and the person’s priorities.
+fˈʌŋkʃənəl ˈaʊtkʌm: pɚfˈɔːɹməns ɹˈɛlᵻvənt tə dˈeɪli lˈaɪf. pɹɑːɡnˈoʊsɪs: æntˈɪsᵻpˌeɪɾᵻd kˈɔːɹs wɪð ʌnsˈɜːtənti.   ɹᵻkˈʌvɚɹi ænd ɹᵻhˌæbɪlɪtˈeɪʃən dᵻpˈɛnd ɔnðɪ ˈɪndʒɚɹi, hˈɛlθ, tˈaɪm, ɡˈoʊlz ænd ɐvˈeɪləbəl kˈɛɹ. nˈʊɹɹəl tʃˈeɪndʒᵻz mˈeɪ səpˈɔːɹt ɹᵻkˈʌvɚɹi wɪðˌaʊt ɹᵻstˈɔːɹɪŋ ˈɛvɹi pɹˈiːviəs fˈʌŋkʃən.   duːnˌɑːt pɹˈɑːmɪs kjˈʊɹz fɹʌm ɐ dʒˈɛnɚɹəl plæstˈɪsᵻɾi klˈeɪm. pɹəfˈɛʃənəl plˈænz ʃˌʊd kənˈɛkt mˈiːnɪŋfəl ˈaʊtkʌmz wɪð sˈuːɾəbəl ˈɛvɪdəns ænd ðə pˈɜːsənz pɹaɪˈɔːɹᵻɾiz.
+
+c09s05
+Plasticity research shows that neural systems can change, but evidence for a particular training product requires its own controlled studies and meaningful outcomes.
+
+Changes in an image or trained score do not automatically show durable far transfer or clinical recovery.
+plæstˈɪsᵻɾi ɹᵻsˈɜːtʃ ʃˈoʊz ðæt nˈʊɹɹəl sˈɪstəmz kæn tʃˈeɪndʒ, bˌʌt ˈɛvɪdəns fɚɹə pɚtˈɪkjʊlɚ tɹˈeɪnɪŋ pɹˈɑːdʌkt ɹᵻkwˈaɪɚz ɪts ˈoʊn kəntɹˈoʊld stˈʌdiz ænd mˈiːnɪŋfəl ˈaʊtkʌmz.   tʃˈeɪndʒᵻz ɪn ɐn ˈɪmɪdʒ ɔːɹ tɹˈeɪnd skˈɔːɹ duːnˌɑːt ˌɔːɾəmˈæɾɪkli ʃˈoʊ dˈʊɹɹəbəl fˈɑːɹ tɹˈænsfɜː ɔːɹ klˈɪnɪkəl ɹᵻkˈʌvɚɹi.
+
+c09s06
+Apply the idea to this new fictional case.
+
+A training programme claims better everyday reasoning after practice on one game.
+
+What would best test the broader claim?
+
+A. Repeat only the trained task immediately.
+
+B. Use credible controls and delayed untrained outcomes.
+
+C. Display a colourful brain image after training.
+
+Choose an option and write your reasoning before checking the feedback.
+ɐplˈaɪ ðɪ aɪdˈiə tə ðɪs nˈuː fˈɪkʃənəl kˈeɪs.   ɐ tɹˈeɪnɪŋ pɹˈoʊɡɹæm klˈeɪmz bˈɛɾɚɹ ˈɛvɹɪdˌeɪ ɹˈiːzənɪŋ ˈæftɚ pɹˈæktɪs ˌɔn wˈʌn ɡˈeɪm.   wˌʌt wʊd bˈɛst tˈɛst ðə bɹˈɔːdɚ klˈeɪm?   ˈeɪ. ɹᵻpˈiːt ˈoʊnli ðə tɹˈeɪnd tˈæsk ɪmˈiːdɪətli.   bˈiː. jˈuːs kɹˈɛdɪbəl kəntɹˈoʊlz ænd dᵻlˈeɪd ʌntɹˈeɪnd ˈaʊtkʌmz.   sˈiː. dɪsplˈeɪ ɐ kˈʌlɚfəl bɹˈeɪn ˈɪmɪdʒ ˈæftɚ tɹˈeɪnɪŋ.   tʃˈuːz ɐn ˈɑːpʃən ænd ɹˈaɪt jʊɹ ɹˈiːzənɪŋ bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c09s06-feedback-0
+That checks practice gains rather than broader transfer.
+ðæt tʃˈɛks pɹˈæktɪs ɡˈeɪnz ɹˈæðɚ ðɐn bɹˈɔːdɚ tɹˈænsfɜː.
+
+c09s06-feedback-1
+The design addresses expectations, transfer and persistence.
+ðə dɪzˈaɪn ɐdɹˈɛsᵻz ɛkspɪktˈeɪʃənz, tɹˈænsfɜːɹ ænd pɚsˈɪstəns.
+
+c09s06-feedback-2
+An image change is not equivalent to the claimed functional benefit.
+ɐn ˈɪmɪdʒ tʃˈeɪndʒ ɪz nˌɑːt ɪkwˈɪvələnt tə ðə klˈeɪmd fˈʌŋkʃənəl bˈɛnɪfˌɪt.
+
+c09s07
+Try these questions without your notes.
+
+Why does plasticity not necessarily mean improvement?
+
+What distinguishes far transfer from practice?
+
+Reveal the suggested answers after trying.
+tɹˈaɪ ðiːz kwˈɛstʃənz wɪðˌaʊt jʊɹ nˈoʊts.   wˌaɪ dˈʌz plæstˈɪsᵻɾi nˌɑːt nˌɛsɪsˈɛɹᵻli mˈiːn ɪmpɹˈuːvmənt?   wˌʌt dɪstˈɪŋɡwɪʃᵻz fˈɑːɹ tɹˈænsfɜː fɹʌm pɹˈæktɪs?   ɹᵻvˈiːl ðə sədʒˈɛstᵻd ˈænsɚz ˈæftɚ tɹˈaɪɪŋ.
+
+c09s07-answers
+Biological change can have different consequences; benefit needs a specified outcome.
+
+Far transfer concerns substantially different untrained tasks rather than improvement on the practiced activity.
+bˌaɪəlˈɑːdʒɪkəl tʃˈeɪndʒ kæn hæv dˈɪfɹənt kˈɑːnsɪkwənsᵻz; bˈɛnɪfˌɪt nˈiːdz ɐ spˈɛsᵻfˌaɪd ˈaʊtkʌm.   fˈɑːɹ tɹˈænsfɜː kənsˈɜːnz səbstˈænʃəli dˈɪfɹənt ʌntɹˈeɪnd tˈæsks ɹˈæðɚ ðɐn ɪmpɹˈuːvmənt ɔnðə pɹˈæktɪst æktˈɪvᵻɾi.
+
+c09s08
+Choose a skill you practise. State one trained outcome and one untrained outcome needed to support a broader claim.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+tʃˈuːz ɐ skˈɪl juː pɹˈæktɪs. stˈeɪt wˈʌn tɹˈeɪnd ˈaʊtkʌm ænd wˈʌn ʌntɹˈeɪnd ˈaʊtkʌm nˈiːdᵻd tə səpˈɔːɹt ɐ bɹˈɔːdɚ klˈeɪm.   ɹᵻtˈɜːn təmˈɑːɹoʊ ɔːɹ ɪn ɐ wˈiːk wɪð ɐn ʌnfəmˈɪlɪɹ ɛɡzˈæmpəl. kəmpˈɛɹ jʊɹ ɹˈiːzənɪŋ wɪððə nˈoʊts.
+
+c10s01
+The café considers a brain-based wellbeing workshop. Its advert combines genetic scores, hormone checks and a short training game. The team wants to distinguish credible concepts from unsupported product claims.
+ðə kæfˈeɪ kənsˈɪdɚz ɐ bɹˈeɪnbˈeɪst wˈɛlbiːɪŋ wˈɜːkʃɑːp. ɪts ˈædvɜːt kəmbˈaɪnz dʒɪnˈɛɾɪk skˈɔːɹz, hˈɔːɹmoʊn tʃˈɛks ænd ɐ ʃˈɔːɹt tɹˈeɪnɪŋ ɡˈeɪm. ðə tˈiːm wˈɔnts tə dɪstˈɪŋɡwɪʃ kɹˈɛdɪbəl kˈɑːnsɛpts fɹʌm ʌnsəpˈɔːɹɾᵻd pɹˈɑːdʌkt klˈeɪmz.
+
+c10s02
+First, make a prediction about the café story.
+
+What should the café ask first?
+
+A. Which brain terms make the advert sound convincing.
+
+B. Which benefit was tested, against what comparison, in whom.
+
+C. Whether all biological research should be dismissed.
+
+Choose an option before checking the feedback.
+fˈɜːst, mˌeɪk ɐ pɹɪdˈɪkʃən ɐbˌaʊt ðə kæfˈeɪ stˈɔːɹi.   wˌʌt ʃˌʊd ðə kæfˈeɪ ˈæsk fˈɜːst?   ˈeɪ. wˌɪtʃ bɹˈeɪn tˈɜːmz mˌeɪk ðɪ ˈædvɜːt sˈaʊnd kənvˈɪnsɪŋ.   bˈiː. wˌɪtʃ bˈɛnɪfˌɪt wʌz tˈɛstᵻd, ɐɡˈɛnst wʌt kəmpˈæɹɪsən, ɪn hˈuːm.   sˈiː. wˈɛðɚɹ ˈɔːl bˌaɪəlˈɑːdʒɪkəl ɹᵻsˈɜːtʃ ʃˌʊd biː dɪsmˈɪst.   tʃˈuːz ɐn ˈɑːpʃən bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c10s02-feedback-0
+Terminology cannot establish a product’s efficacy.
+tˌɜːmɪnˈɑːlədʒi kænˈɑːt ɪstˈæblɪʃ ɐ pɹˈɑːdʌkts ˈɛfɪkəsi.
+
+c10s02-feedback-1
+The practical claim needs a relevant design and outcome.
+ðə pɹˈæktɪkəl klˈeɪm nˈiːdz ɐ ɹˈɛlᵻvənt dɪzˈaɪn ænd ˈaʊtkʌm.
+
+c10s02-feedback-2
+Unsupported advertising does not invalidate the underlying science.
+ʌnsəpˈɔːɹɾᵻd ˈædvɚtˌaɪzɪŋ dʌznˌɑːt ɪnvˈælᵻdˌeɪt ðɪ ˌʌndɚlˈaɪɪŋ sˈaɪəns.
+
+c10s03
+Reductionism: explaining a complex phenomenon only at a narrower level. Multilevel explanation: linking relevant levels of analysis. Causal chain: specified sequence of influences.
+
+A biological explanation can connect cells, circuits, behaviour and environment. Each link needs evidence rather than an attractive metaphor.
+
+A brain correlate does not identify the only cause, and a social context is not biologically irrelevant. Ask how the proposed levels interact in the actual task.
+ɹᵻdˈʌkʃənˌɪzəm: ɛksplˈeɪnɪŋ ɐ kˈɑːmplɛks fɪnˈɑːmɪnən ˈoʊnli æɾə nˈæɹoʊɚ lˈɛvəl. mˌʌltɪlˈɛvəl ɛksplɐnˈeɪʃən: lˈɪŋkɪŋ ɹˈɛlᵻvənt lˈɛvəlz ʌv ɐnˈæləsˌɪs. kˈɔːzəl tʃˈeɪn: spˈɛsᵻfˌaɪd sˈiːkwəns ʌv ˈɪnfluːənsᵻz.   ɐ bˌaɪəlˈɑːdʒɪkəl ɛksplɐnˈeɪʃən kæn kənˈɛkt sˈɛlz, sˈɜːkɪts, bᵻhˈeɪvjɚɹ ænd ɛnvˈaɪɹənmənt. ˈiːtʃ lˈɪŋk nˈiːdz ˈɛvɪdəns ɹˈæðɚ ðˌænən ɐtɹˈæktɪv mˈɛɾəfˌɔːɹ.   ɐ bɹˈeɪn kˈɔɹɪlˌeɪt dʌznˌɑːt aɪdˈɛntᵻfˌaɪ ðɪ ˈoʊnli kˈɔːz, ænd ɐ sˈoʊʃəl kˈɑːntɛkst ɪz nˌɑːt bˌaɪəlˈɑːdʒɪkli ɪɹˈɛlᵻvənt. ˈæsk hˌaʊ ðə pɹəpˈoʊzd lˈɛvəlz ˌɪntɚɹˈækt ɪnðɪ ˈæktʃuːəl tˈæsk.
+
+c10s03b
+Generalizability: applicability to other settings or populations. Adverse effect: an unwanted consequence of an intervention.
+
+A product can use accurate neuroscience terms while making an untested practical claim. Check the comparison group, sample, outcome, follow-up and unwanted effects.
+
+Ask whether the benefit matters in everyday life and whether the study tested the actual product. Biological plausibility is not a substitute for efficacy evidence.
+dʒˌɛnɚɹəlˌaɪzəbˈɪlᵻɾi: ɐplˌɪkəbˈɪlᵻɾi tʊ ˈʌðɚ sˈɛɾɪŋz ɔːɹ pˌɑːpjʊlˈeɪʃənz. ædvˈɜːs ɪfˈɛkt: ɐn ʌnwˈɔntᵻd kˈɑːnsɪkwəns əvən ˌɪntɚvˈɛnʃən.   ɐ pɹˈɑːdʌkt kæn jˈuːz ˈækjʊɹət nˈʊɹɹəsˌaɪəns tˈɜːmz wˌaɪl mˌeɪkɪŋ ɐn ʌntˈɛstᵻd pɹˈæktɪkəl klˈeɪm. tʃˈɛk ðə kəmpˈæɹɪsən ɡɹˈuːp, sˈæmpəl, ˈaʊtkʌm, fˈɑːloʊˌʌp ænd ʌnwˈɔntᵻd ɪfˈɛkts.   ˈæsk wˈɛðɚ ðə bˈɛnɪfˌɪt mˈæɾɚz ɪn ˈɛvɹɪdˌeɪ lˈaɪf ænd wˈɛðɚ ðə stˈʌdi tˈɛstᵻd ðɪ ˈæktʃuːəl pɹˈɑːdʌkt. bˌaɪəlˈɑːdʒɪkəl plˌɔːzᵻbˈɪlᵻɾi ɪz nˌɑːɾə sˈʌbstɪtˌuːt fɔːɹ ˈɛfɪkəsi ˈɛvɪdəns.
+
+c10s04
+Informed consent: agreement based on relevant information. Biological determinism: treating biology as a fixed inevitable cause. Uncertainty: limits in what evidence establishes.
+
+Use the evidence to ask better questions and improve accessible conditions. Avoid diagnosing, prescribing or interpreting another person’s private biological data.
+
+Health decisions need qualified care and informed choice. If a claim exceeds the evidence, narrow it rather than replacing it with another certainty.
+ɪnfˈɔːɹmd kənsˈɛnt: ɐɡɹˈiːmənt bˈeɪst ˌɔn ɹˈɛlᵻvənt ˌɪnfɚmˈeɪʃən. bˌaɪəlˈɑːdʒɪkəl dɪtˈɜːmɪnˌɪzəm: tɹˈiːɾɪŋ baɪˈɑːlədʒi æz ɐ fˈɪkst ɪnˈɛvᵻɾəbəl kˈɔːz. ʌnsˈɜːtənti: lˈɪmɪts ɪn wʌt ˈɛvɪdəns ɪstˈæblɪʃᵻz.   jˈuːs ðɪ ˈɛvɪdəns tʊ ˈæsk bˈɛɾɚ kwˈɛstʃənz ænd ɪmpɹˈuːv æksˈɛsəbəl kəndˈɪʃənz. ɐvˈɔɪd dˌaɪəɡnˈoʊzɪŋ, pɹɪskɹˈaɪbɪŋ ɔːɹ ɪntˈɜːpɹɪɾɪŋ ɐnˈʌðɚ pˈɜːsənz pɹˈaɪvət bˌaɪəlˈɑːdʒɪkəl dˈeɪɾə.   hˈɛlθ dᵻsˈɪʒənz nˈiːd kwˈɔlᵻfˌaɪd kˈɛɹ ænd ɪnfˈɔːɹmd tʃˈɔɪs. ɪf ɐ klˈeɪm ɛksˈiːdz ðɪ ˈɛvɪdəns, nˈæɹoʊ ɪt ɹˈæðɚ ðɐn ɹᵻplˈeɪsɪŋ ɪt wɪð ɐnˈʌðɚ sˈɜːtənti.
+
+c10s05
+A strong biological account uses suitable measurements, competing explanations and converging methods. Translation to individual care or products requires additional evidence.
+
+This course is not medical training. Completing it does not establish competence to interpret scans, genetic tests or treatment choices.
+ɐ stɹˈɔŋ bˌaɪəlˈɑːdʒɪkəl ɐkˈaʊnt jˈuːsᵻz sˈuːɾəbəl mˈɛʒɚmənts, kəmpˈiːɾɪŋ ɛksplɐnˈeɪʃənz ænd kənvˈɜːdʒɪŋ mˈɛθədz. tɹænslˈeɪʃən tʊ ˌɪndᵻvˈɪdʒuːəl kˈɛɹ ɔːɹ pɹˈɑːdʌkts ɹᵻkwˈaɪɚz ɐdˈɪʃənəl ˈɛvɪdəns.   ðɪs kˈɔːɹs ɪz nˌɑːt mˈɛdɪkəl tɹˈeɪnɪŋ. kəmplˈiːɾɪŋ ɪt dʌznˌɑːt ɪstˈæblɪʃ kˈɑːmpɪtəns tʊ ɪntˈɜːpɹɪt skˈænz, dʒɪnˈɛɾɪk tˈɛsts ɔːɹ tɹˈiːtmənt tʃˈɔɪsᵻz.
+
+c10s06
+Apply the idea to this new fictional case.
+
+A small uncontrolled study finds a brain-signal difference after a workshop but measures no daily-life benefit.
+
+Which conclusion is proportionate?
+
+A. The environment cannot matter because the signal is biological.
+
+B. The image proves the workshop treats a disorder.
+
+C. A signal changed, but clinical benefit and transfer remain untested.
+
+Choose an option and write your reasoning before checking the feedback.
+ɐplˈaɪ ðɪ aɪdˈiə tə ðɪs nˈuː fˈɪkʃənəl kˈeɪs.   ɐ smˈɔːl ʌŋkəntɹˈoʊld stˈʌdi fˈaɪndz ɐ bɹˈeɪnsˈɪɡnəl dˈɪfɹəns ˈæftɚɹ ɐ wˈɜːkʃɑːp bˌʌt mˈɛʒɚz nˈoʊ dˈeɪlilˈaɪf bˈɛnɪfˌɪt.   wˌɪtʃ kəŋklˈuːʒən ɪz pɹəpˈɔːɹʃənət?   ˈeɪ. ðɪ ɛnvˈaɪɹənmənt kænˈɑːt mˈæɾɚ bɪkˈʌz ðə sˈɪɡnəl ɪz bˌaɪəlˈɑːdʒɪkəl.   bˈiː. ðɪ ˈɪmɪdʒ pɹˈuːvz ðə wˈɜːkʃɑːp tɹˈiːts ɐ dɪsˈɔːɹdɚ.   sˈiː. ɐ sˈɪɡnəl tʃˈeɪndʒd, bˌʌt klˈɪnɪkəl bˈɛnɪfˌɪt ænd tɹˈænsfɜː ɹᵻmˈeɪn ʌntˈɛstᵻd.   tʃˈuːz ɐn ˈɑːpʃən ænd ɹˈaɪt jʊɹ ɹˈiːzənɪŋ bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c10s06-feedback-0
+Environmental conditions can influence biological responses and behaviour.
+ɛnvˌaɪɹənmˈɛntəl kəndˈɪʃənz kæn ˈɪnfluːəns bˌaɪəlˈɑːdʒɪkəl ɹᵻspˈɑːnsᵻz ænd bᵻhˈeɪvjɚ.
+
+c10s06-feedback-1
+The measurement is not evidence of clinical efficacy by itself.
+ðə mˈɛʒɚmənt ɪz nˌɑːt ˈɛvɪdəns ʌv klˈɪnɪkəl ˈɛfɪkəsi baɪ ɪtsˈɛlf.
+
+c10s06-feedback-2
+This separates the measured change from the untested practical claim.
+ðɪs sˈɛpɚɹˌeɪts ðə mˈɛʒɚd tʃˈeɪndʒ fɹʌmðɪ ʌntˈɛstᵻd pɹˈæktɪkəl klˈeɪm.
+
+c10s07
+Try these questions without your notes.
+
+Why separate mechanism from efficacy?
+
+What does a multilevel explanation add?
+
+Reveal the suggested answers after trying.
+tɹˈaɪ ðiːz kwˈɛstʃənz wɪðˌaʊt jʊɹ nˈoʊts.   wˌaɪ sˈɛpɹət mˈɛkənˌɪzəm fɹʌm ˈɛfɪkəsi?   wˌʌt dˈʌz ɐ mˌʌltɪlˈɛvəl ɛksplɐnˈeɪʃən ˈæd?   ɹᵻvˈiːl ðə sədʒˈɛstᵻd ˈænsɚz ˈæftɚ tɹˈaɪɪŋ.
+
+c10s07-answers
+A plausible mechanism does not show that an intervention produces meaningful benefit.
+
+It specifies and tests interactions between biological processes, behaviour and context.
+ɐ plˈɔːzᵻbəl mˈɛkənˌɪzəm dʌznˌɑːt ʃˈoʊ ðæt ɐn ˌɪntɚvˈɛnʃən pɹədˈuːsᵻz mˈiːnɪŋfəl bˈɛnɪfˌɪt.   ɪt spˈɛsᵻfˌaɪz ænd tˈɛsts ˌɪntɚɹˈækʃənz bᵻtwˌiːn bˌaɪəlˈɑːdʒɪkəl pɹˈɑːsɛsᵻz, bᵻhˈeɪvjɚɹ ænd kˈɑːntɛkst.
+
+c10s08
+Write a brief review of a fictional brain-based product: claimed outcome, actual measure, missing comparison and a proportionate conclusion.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+ɹˈaɪt ɐ bɹˈiːf ɹᵻvjˈuː əvə fˈɪkʃənəl bɹˈeɪnbˈeɪst pɹˈɑːdʌkt: klˈeɪmd ˈaʊtkʌm, ˈæktʃuːəl mˈɛʒɚ, mˈɪsɪŋ kəmpˈæɹɪsən ænd ɐ pɹəpˈɔːɹʃənət kəŋklˈuːʒən.   ɹᵻtˈɜːn təmˈɑːɹoʊ ɔːɹ ɪn ɐ wˈiːk wɪð ɐn ʌnfəmˈɪlɪɹ ɛɡzˈæmpəl. kəmpˈɛɹ jʊɹ ɹˈiːzənɪŋ wɪððə nˈoʊts.

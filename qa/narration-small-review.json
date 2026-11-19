@@ -1,0 +1,395 @@
+{
+  "method": "Additional independent transcription of flagged clips and chapter explanation samples; not listening approval.",
+  "clips": [
+    {
+      "id": "c01s03",
+      "expected": "Biological psychology: study of biological contributions to behaviour. Neural correlate: brain measure associated with a process. Mechanism: a process proposed to produce an effect.\n\nBehaviour involves interacting biological, psychological and social processes. A biological description adds a level of explanation; it does not remove the need to understand the task.\n\nAn association between a brain signal and an event is a starting point. It does not uniquely identify what one person thought.",
+      "heard": "Biological psychology, study of biological contributions to behavior, neural correlate, brain measure associated with a process, mechanism, a process proposed to produce an effect. Behavior involves interacting biological, psychological, and social processes. A biological description adds a level of explanation. It does not remove the need to understand the task. An association between a brain signal and an event is a starting point. It does not uniquely identify what one person thought.",
+      "ratio": 0.9722,
+      "model": "small.en",
+      "raw_sha256": "d2907c8dc4f3357df996e8bf0c22296d8907ae49e5f53c3f7ce906f5991e0552"
+    },
+    {
+      "id": "c01s03b",
+      "expected": "Electroencephalography: recording electrical activity at the scalp. Functional imaging: estimating activity-related physiological changes. Lesion evidence: studying consequences of tissue damage.\n\nScalp electrical recordings have useful temporal resolution but limited source localization. Functional magnetic resonance imaging measures blood-oxygen-related changes rather than thoughts directly.\n\nLesions and carefully designed interventions can add causal evidence, but damage or stimulation can affect connected systems. Each method has practical and inferential limits.",
+      "heard": "electroencephalography, recording electrical activity at the scalp, functional imaging, estimating activity-related physiological changes, lesion evidence, studying consequences of tissue damage. Scalp electrical recordings have useful temporal resolution but limited source localization. Functional magnetic resonance imaging measures blood oxygen-related changes rather than thoughts directly. Lesions and carefully designed interventions can add causal evidence, but damage or stimulation can affect connected systems. Each method has practical and inferential limits.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "0ff8fc95d4cfa2cb711c93022875c610627de1a0511dc450ac8dab3332a3096c"
+    },
+    {
+      "id": "c01s06-feedback-0",
+      "expected": "The signal is not a unique thought label.",
+      "heard": "The signal is not a unique thought label.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "0efbac7ae113128cc34cc85e9ed9c24199ddf6a4adfad466fda33c0d68d20281"
+    },
+    {
+      "id": "c02s02-feedback-0",
+      "expected": "Traits are not carried as individual labelled packets.",
+      "heard": "Traits are not carried as individual labeled packets.",
+      "ratio": 0.875,
+      "model": "small.en",
+      "raw_sha256": "7fbf6116863d579591b90c1c08302e380d7709b7b20d24034c77f2d742fc905f"
+    },
+    {
+      "id": "c02s03",
+      "expected": "Ion channel: a membrane pathway for specific ions.\n\nNeurons maintain differences in charged particles across a membrane. Inputs can change the membrane potential. Dendrites and the cell body receive many inputs, while an axon can carry a propagated signal.\n\nThese are useful functional distinctions, with variation across neuron types. A single neuron is not a miniature thinking person.",
+      "heard": "Ion channel, a membrane pathway for specific ions. Neurons maintain differences in charged particles across a membrane. Inputs can change the membrane potential. Dendrites and the cell body receive many inputs, while an axon can carry a propagated signal. These are useful functional distinctions, with variation across neuron types. A single neuron is not a miniature thinking person.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "ed5b8a9d4eec5e2e10eba7b970d41edae8789dcc9b4a13816a129c8fe50d47f3"
+    },
+    {
+      "id": "c02s05",
+      "expected": "Cellular physiology supports detailed mechanisms of signalling, while links from those mechanisms to complex behaviour require additional levels of evidence.\n\nElectrical and chemical descriptions are complementary. Neither identifies a personality trait or emotion from one cell.",
+      "heard": "Cellular physiology supports detailed mechanisms of signaling, while links from those mechanisms to complex behavior require additional levels of evidence. Electrical and chemical descriptions are complementary. Neither identifies a personality trait or emotion from one cell.",
+      "ratio": 0.9444,
+      "model": "small.en",
+      "raw_sha256": "7b82c18da5a34b8f1d04da11b5e2086bfa80a329e5f1420eb4119f10cfe40df2"
+    },
+    {
+      "id": "c03s02-feedback-0",
+      "expected": "Specialization still matters; total interchangeability is another overstatement.",
+      "heard": "Specialization still matters. Total interchangeability is another overstatement.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "8f3c8be0b71157b790e61b5f2bdab6159ae02391eca490ddc7d4d21fecd28273"
+    },
+    {
+      "id": "c03s02-feedback-1",
+      "expected": "This allows specialization without a one-sided personality classification.",
+      "heard": "This allows specialization without a one-sided personality classification.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "060b7a3438d5bb69f37b85ef6f945d7fb7a9b576ca62b657a37aa94f1346a685"
+    },
+    {
+      "id": "c03s02-feedback-2",
+      "expected": "The task and networks are more complex than that label.",
+      "heard": "The task and networks are more complex than that label.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "e8f4d7e1628a52a550aa9c6de75195e1764ed2545b214c3e17a6d3c836594be8"
+    },
+    {
+      "id": "c03s03",
+      "expected": "Cerebral cortex: outer neural tissue of the cerebrum. Subcortical structure: structure beneath the cortex. Network: interacting set of connected regions.\n\nBrain regions have different connections and contributions. Cortical and subcortical systems interact in perception, memory and action.\n\nA task can involve several networks, and a region can contribute to several tasks. A labelled anatomical map is a starting point for understanding these interactions.",
+      "heard": "cerebral cortex, outer neural tissue of the cerebrum, subcortical structure, structure beneath the cortex, network, interacting set of connected regions. Brain regions have different connections and contributions. Cortical and subcortical systems interact in perception, memory, and action. A task can involve several networks, and a region can contribute to several tasks. A labeled anatomical map is a starting point for understanding these interactions.",
+      "ratio": 0.9841,
+      "model": "small.en",
+      "raw_sha256": "492ab55a3c1dd6769c9139739d9cb59f82311f90a705f0bb46e6fe33a0a17e44"
+    },
+    {
+      "id": "c03s03b",
+      "expected": "Lateralization: unequal contribution across hemispheres. Corpus callosum: major connection between the hemispheres. Functional specialization: relative contribution to a function.\n\nSome functions show hemispheric asymmetries. Many aspects of language are often left-lateralized, but variation and bilateral contributions matter.\n\nBoth hemispheres participate in complex reasoning and creative activity. Classifying a person as left-brained or right-brained is not supported by this anatomical distinction.",
+      "heard": "lateralization, unequal contribution across hemispheres, corpus callosum, major connection between the hemispheres, functional specialization, relative contribution to a function. Some functions show hemispheric asymmetries. Many aspects of language are often left lateralized, but variation and bilateral contributions matter. Both hemispheres participate in complex reasoning and creative activity. Classifying a person as left-brained or right-brained is not supported by this anatomical distinction.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "ad35f360eda272a4f7eb8ac8130b2828dfd4634101f759bccc17dcd9705b016b"
+    },
+    {
+      "id": "c03s05",
+      "expected": "Neuroscience combines anatomy, task measures and interventions to examine functional organization. Region labels alone cannot establish a psychological explanation.\n\nThe café repair is not a localization experiment. Brain-based personality quizzes need independent validation rather than anatomical metaphors.",
+      "heard": "Neuroscience combines anatomy, task measures, and interventions to examine functional organization. Region labels alone cannot establish a psychological explanation. The CAFE repair is not a localization experiment. Brain-based personality quizzes need independent validation rather than anatomical metaphors.",
+      "ratio": 0.9737,
+      "model": "small.en",
+      "raw_sha256": "5dc83448ae5292a50f2d2eba996eedad1a3b49f6a0b8dd25d871af36eecd3aa7"
+    },
+    {
+      "id": "c03s06-feedback-1",
+      "expected": "Converging evidence helps address alternative explanations.",
+      "heard": "Converging evidence helps address alternative explanations.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "d14261851e00ca85c11bb60f6b1ef2fdef9a8b8a2288db6c46e8b712471708d4"
+    },
+    {
+      "id": "c03s06-feedback-2",
+      "expected": "This recognizes a contribution without claiming exclusive localization.",
+      "heard": "This recognizes a contribution without claiming exclusive localization.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "77b7dbe7daacbfb2f8169187270520a2ca1a4f70594c7bacff5a1252cf66e5a0"
+    },
+    {
+      "id": "c04s03",
+      "expected": "Sensory transduction: conversion of stimulation into cellular signalling. Sensory receptor: cell or ending responsive to stimulation.\n\nSound pressure, light and other physical events interact with specialized receptors. Transduction turns these interactions into biological signals.\n\nDetection depends on the stimulus, receptor system and conditions. The physical presence of a sound does not guarantee that a listener received a usable message.",
+      "heard": "Sensory transduction, conversion of stimulation into cellular signaling. Sensory receptor, cell or ending responsive to stimulation. Sound pressure, light and other physical events interact with specialized receptors. Transduction turns these interactions into biological signals. Detection depends on the stimulus, receptor system and conditions. The physical presence of a sound does not guarantee that a listener received a usable message.",
+      "ratio": 0.9831,
+      "model": "small.en",
+      "raw_sha256": "79939ddb2a21a1cf95003025cab00c147372a4e536619c5640aa44531b961e5a"
+    },
+    {
+      "id": "c04s03b",
+      "expected": "Sensory adaptation: changed responsiveness during sustained stimulation. Absolute threshold: stimulus level detected under defined conditions. Difference threshold: change detectable under defined conditions.\n\nResponsiveness can change with ongoing stimulation. Detection thresholds are measured probabilistically under specified conditions, not as an unchanging line for every person.\n\nNoise, fatigue, attention and sensory access affect performance. Compare the actual listening conditions before assigning a psychological motive to a missed message.",
+      "heard": "Sensory adaptation changed responsiveness during sustained stimulation. Absolute threshold, stimulus level detected under defined conditions. Difference threshold, change detectable under defined conditions. Responsiveness can change with ongoing stimulation. Detection thresholds are measured probabilistically under specified conditions, not as an unchanging line for every person. Noise, fatigue, attention, and sensory access affect performance. Compare the actual listening conditions before assigning a psychological motive to a missed message.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "341fbe0ccd16953f1a4c39e341bb04e101e33da64c9f86e84dafb3475c0ec855"
+    },
+    {
+      "id": "c04s04",
+      "expected": "Perception: organization and interpretation of sensory information. Multisensory integration: combining information across senses. Top-down influence: effects of knowledge or expectation on processing.\n\nA visible speaker, clear context or written message can improve interpretation. Expectations can also favour a mistaken reading of an ambiguous signal.\n\nBiological pathways and cognitive interpretation work together. Provide accessible information and check understanding instead of assuming that a loud enough signal solves every difficulty.",
+      "heard": "Perception, organization and interpretation of sensory information. Multisensory integration, combining information across senses. Top-down influence, effects of knowledge or expectation on processing. A visible speaker, clear context or written message can improve interpretation. Expectations can also favor a mistaken reading of an ambiguous signal. Biological pathways and cognitive interpretation work together. Provide accessible information and check understanding instead of assuming that a loud enough signal solves every difficulty.",
+      "ratio": 0.9855,
+      "model": "small.en",
+      "raw_sha256": "b4b0740dbf350727370797cfcacdab30242a939afbd3e088c0d65222337d0752"
+    },
+    {
+      "id": "c04s05",
+      "expected": "Sensory physiology identifies transduction and pathways; perceptual research investigates how information is selected and interpreted. A demonstration does not diagnose an individual sensory condition.\n\nThresholds depend on measurement procedures and response criteria. Persistent sensory concerns warrant suitable professional assessment.",
+      "heard": "Sensory physiology identifies transduction and pathways. Perceptual research investigates how information is selected and interpreted. A demonstration does not diagnose an individual sensory condition. Thresholds depend on measurement procedures and response criteria. Persistent sensory concerns warrant suitable professional assessment.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "448a4097e1b3bbf4b9d33f7b287715e0096eefc67ac7265a0f44f09d2369066a"
+    },
+    {
+      "id": "c05s03",
+      "expected": "Autonomic nervous system: regulation of many internal bodily functions. Sympathetic division: supports mobilization in many conditions. Parasympathetic division: supports regulation including recovery and digestion.\n\nAutonomic pathways help regulate cardiovascular, digestive and other functions. Their effects are organ-specific and coordinated with central processes.\n\nThe common mobilize-and-recover description is useful but simplified. The divisions are not two personality types or exact opposites in every organ and situation.",
+      "heard": "Autonomic Nervous System, regulation of many internal bodily functions Sympathetic Division, supports mobilization in many conditions Parasympathetic Division, supports regulation including recovery and digestion Autonomic Pathways help regulate cardiovascular, digestive, and other functions Their effects are organ-specific and coordinated with central processes The common mobilize and recover description is useful but simplified. The divisions are not two personality types or exact opposites in every organ and situation.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "3480836076001195547487e2ab92618e5b72b629bd36df12e87d9040c65cecd9"
+    },
+    {
+      "id": "c05s04",
+      "expected": "Physiological arousal: change in bodily activation. Interoception: sensing internal bodily states. Appraisal: evaluation of a situation’s significance.\n\nA fast heartbeat can accompany exertion, excitement, fear or other conditions. Interpretation also uses the situation, expectations and subjective experience.\n\nDo not infer another person’s emotion from one bodily cue. Ask what they report and consider other explanations; persistent or concerning symptoms need appropriate medical advice.",
+      "heard": "Physiological arousal, change in bodily activation. Interreception, sensing internal bodily states. Appraisal, evaluation of a situation's significance. A fast heartbeat can accompany exertion, excitement, fear, or other conditions. Interpretation also uses the situation, expectations, and subjective experience. Do not infer another person's emotion from one bodily cue. Ask what they report and consider other explanations. Persistent or concerning symptoms need appropriate medical advice.",
+      "ratio": 0.9841,
+      "model": "small.en",
+      "duration": 36.095,
+      "wpm": 108.6,
+      "peak": 0.5252685546875,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "9fae814717538778fd802ccd0683cc9b4b31cf2b6eeca72440321d3257164d36"
+    },
+    {
+      "id": "c05s05",
+      "expected": "Autonomic and endocrine measures help investigate regulation when sampling, context and suitable comparisons are specified. Individual signals usually lack psychological specificity.\n\nA course explanation cannot diagnose a symptom or justify changing medication.",
+      "heard": "Autonomic and endocrine measures help investigate regulation when sampling, context, and suitable comparisons are specified. Individual signals usually lack psychological specificity. A course explanation cannot diagnose a symptom or justify changing medication.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "5972496bc1ef9c234f6f78ddf17343392e163db4a2627370890d91f0d6d8f31f"
+    },
+    {
+      "id": "c05s06-feedback-0",
+      "expected": "Biological measures need context and appropriate interpretation.",
+      "heard": "Biological measures need context and appropriate interpretation.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "0922895a500d8aaf600ac0267da2f96c96d946ddfbc984807345a42f0bb75c8d"
+    },
+    {
+      "id": "c06s02-feedback-0",
+      "expected": "That erases duration, dose and individual context.",
+      "heard": "That erases duration, dose, and individual context.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "cc58063111f3e6ac1dadc60eee75ba678d18bdc3ac4df36cf2200c15d6687f3b"
+    },
+    {
+      "id": "c06s03",
+      "expected": "Stressor: a demand or threat capable of eliciting a response. Stress response: coordinated response to a perceived demand. Acute stress: a response over a relatively short period.\n\nStress responses can mobilize attention and resources for immediate demands. Whether a response helps depends on the task, its intensity and the available resources.\n\nA useful short-term response is not evidence that prolonged strain is harmless. Likewise, a long-term risk association does not mean every alarm response causes damage.",
+      "heard": "Stressor, a demand or threat capable of eliciting a response. Stress response, coordinated response to a perceived demand. Acute stress, a response over a relatively short period. Stress responses can mobilize attention and resources for immediate demands. Whether a response helps depends on the task, its intensity, and the available resources. A useful short-term response is not evidence that prolonged strain is harmless. Likewise, a long-term risk association does not mean every alarm response causes damage.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "e9b3e7efbff894852b7f7b282e72a9f1eef2a90fb1b900be1866c9379cd6f6c2"
+    },
+    {
+      "id": "c06s03b",
+      "expected": "Hypothalamic–pituitary–adrenal axis: linked hormonal stress-regulation pathway. Allostasis: stability supported through changing regulation.\n\nStress regulation involves autonomic and hormonal systems, including the hypothalamic, pituitary and adrenal pathway. Cortisol has ordinary regulatory functions as well as changing with some stressors.\n\nIts level depends on time, health and measurement conditions. A single sample cannot reveal a person’s complete stress history.",
+      "heard": "hypothalamic-pituitary-adrenal axis, linked hormonal stress regulation pathway, allostasis, stability supported through changing regulation. Stress regulation involves autonomic and hormonal systems, including the hypothalamic, pituitary, and adrenal pathway. Cortisol has ordinary regulatory functions as well as changing with some stressors. Its level depends on time, health, and measurement conditions. A single sample cannot reveal a person's complete stress history.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "ded7f6f123216b83f181507be1e30beafd09dba058e7e6d54867ebf71ce4062c"
+    },
+    {
+      "id": "c06s04",
+      "expected": "Allostatic load: cumulative burden associated with repeated adaptation. Recovery: return or adjustment following demands. Confounding: other factors contributing to an association.\n\nResearch relates prolonged adversity and physiological regulation to health, using multiple measures and long timescales. Causal interpretation must consider health, resources and other exposures.\n\nWorkload, safety and material support matter. An individual relaxation exercise is not an adequate answer to every structural stressor.",
+      "heard": "Allostatic load, cumulative burden associated with repeated adaptation. Recovery, return, or adjustment following demands. Confounding, other factors contributing to an association. Research relates prolonged adversity and physiological regulation to health, using multiple measures and long time scales. Causal interpretation must consider health, resources, and other exposures. Workload, safety, and material support matter. An individual relaxation exercise is not an adequate answer to every structural stressor.",
+      "ratio": 0.9767,
+      "model": "small.en",
+      "raw_sha256": "ef994980196c98ac48bd8524bbcb09e9f4a4c3e9e1d4a3077e33e89548636978"
+    },
+    {
+      "id": "c06s07-answers",
+      "expected": "It has normal regulatory functions and varies with time and context.\n\nCumulative physiological burden associated with repeated adaptation, estimated using specified measures.",
+      "heard": "It has normal regulatory functions and varies with time and context. Cumulative physiological burden associated with repeated adaptation, estimated using specified measures.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "ba5e01b173a7a7f6ebdf894808a77517ccb4a4ed79fae9df1eceb092ceb5f691"
+    },
+    {
+      "id": "c07s03",
+      "expected": "Circadian rhythm: approximately daily biological cycle. Sleep pressure: need for sleep increasing with sustained wakefulness. Entrainment: alignment of a rhythm to external timing cues.\n\nSleep timing reflects both accumulated wakefulness and circadian regulation. Light is an important timing cue, alongside behaviour and social schedules.\n\nFeeling alert does not necessarily mean a person is fully rested. Shift schedules can place biological timing and required activity in conflict.",
+      "heard": "Circadian rhythm, approximately daily biological cycle. Sleep pressure, need for sleep increasing with sustained wakefulness. Entrainment, alignment of a rhythm to external timing cues. Sleep timing reflects both accumulated wakefulness and circadian regulation. Light is an important timing cue alongside behavior and social schedules. Feeling alert does not necessarily mean a person is fully rested. Shift schedules can place biological timing and required activity in conflict.",
+      "ratio": 0.9848,
+      "model": "small.en",
+      "raw_sha256": "375a9fd9feaa1ce0c28cfb779f89aa1498c7d6a70ad91b3b11f1dd65665b9318"
+    },
+    {
+      "id": "c07s05",
+      "expected": "Sleep findings depend on duration, timing, task and measurement. Laboratory deprivation studies inform specific outcomes without establishing every real-world effect.\n\nSleep needs and clinical problems vary. The course provides concepts rather than individualized sleep treatment.",
+      "heard": "Sleep findings depend on duration, timing, task, and measurement. Laboratory deprivation studies inform specific outcomes without establishing every real-world effect. Sleep needs and clinical problems vary. The course provides concepts rather than individualized sleep treatment.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "1d8b83cb285a5da9bb7cd08a423b1e59a26823ccbb29904ea8bf8cb2a927fb99"
+    },
+    {
+      "id": "c07s06-feedback-1",
+      "expected": "Validation should match the claimed stage or clinical inference.",
+      "heard": "Validation should match the claimed stage or clinical inference.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "3ede304e26ae1059a15948e7bfc8e47f60b7eea9820a1c10158e764efca89961"
+    },
+    {
+      "id": "c07s07-answers",
+      "expected": "One modulates timing over the day; the other reflects accumulated wakefulness.\n\nSignals, validation and intended uses differ, and clinical interpretation requires more context.",
+      "heard": "One modulates timing over the day. The other reflects accumulated wakefulness. Signals, validation, and intended uses differ, and clinical interpretation requires more context.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "4323b56627dd82db214b3b5b5494835eb761acbab7bbabed4c5515a07b1e7866"
+    },
+    {
+      "id": "c08s02-feedback-1",
+      "expected": "Population, environment range, measure and model define its interpretation.",
+      "heard": "population, environment range, measure and model define its interpretation.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "e997f6f03c32b8b91dbb011c8664324c536264168591fbb19b65dce16525abce"
+    },
+    {
+      "id": "c08s02-feedback-2",
+      "expected": "Heritability and modifiability are different questions.",
+      "heard": "Heritability and modifiability are different questions.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "62f50cfde4abd7b7274ec4d3e8eb35b093540ee7c618ef2ee0324ec589e6cf5a"
+    },
+    {
+      "id": "c08s03",
+      "expected": "Gene: a DNA sequence involved in biological function. Genotype: genetic constitution at relevant sites.\n\nGenes contribute through biological processes in developing environments. Complex psychological traits usually involve many variants with small, context-dependent associations.\n\nA genetic association is not a single-purpose instruction for a behaviour. The phenotype depends on development, measurement and circumstances.",
+      "heard": "Gene, a DNA sequence involved in biological function. Genotype, genetic constitution at relevant sites. Genes contribute through biological processes in developing environments. Complex psychological traits usually involve many variants with small, context-dependent associations. A genetic association is not a single purpose instruction for a behavior. The phenotype depends on development, measurement, and circumstances.",
+      "ratio": 0.9815,
+      "model": "small.en",
+      "raw_sha256": "3a2a83f59bfd0ac979005d7104d7fa0d1765f4226d82321c210747fab5015dbc"
+    },
+    {
+      "id": "c08s03b",
+      "expected": "Gene–environment interaction: genetic effects vary across environments. Gene–environment correlation: genetic differences associated with environmental exposure.\n\nHeritability concerns differences within a specified population and range of environments. It does not state what percentage of one person’s trait is genetic.\n\nA high estimate does not imply that environmental changes are ineffective. Estimates can change when conditions or measurement change.",
+      "heard": "Gene-environment interaction. Genetic effects vary across environments. Gene-environment correlation. Genetic differences associated with environmental exposure. Heritability concerns differences within a specified population and range of environments. It does not state what percentage of one person's trait is genetic. A high estimate does not imply that environmental changes are ineffective. Estimates can change when conditions or measurement change.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "b6757cc4f87ca4e86c55a52894ec06f351ba6cbb3724007019db7d33bc06d08f"
+    },
+    {
+      "id": "c08s04",
+      "expected": "Polygenic score: weighted summary of many genetic associations. Population transfer: performance in a different population. Association: statistical relationship without automatic causation.\n\nA genetic score’s predictive value depends on the outcome, sample and reference data. Performance can fall in populations unlike the study group.\n\nPrediction does not identify a modifiable mechanism or justify ranking someone’s worth. Privacy and informed consent matter for genetic information.",
+      "heard": "Polygenic score, weighted summary of many genetic associations, population transfer, performance in a different population, association, statistical relationship without automatic causation. A genetic score's predictive value depends on the outcome, sample, and reference data. Performance can fall in populations unlike the study group. Prediction does not identify a modifiable mechanism or justify ranking someone's worth. Privacy and informed consent matter for genetic information.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "9e71ca73d14416d0a28902684bd3447adfedd4420e6e74d7c1eeba93b2264eaa"
+    },
+    {
+      "id": "c08s05",
+      "expected": "Genetically informative studies rely on design assumptions and measured environments. Association studies need replication and careful attention to population structure.\n\nAn introductory example cannot validate a genetic product or establish an individual prognosis.",
+      "heard": "Genetically informative studies rely on design assumptions and measured environments. Association studies need replication and careful attention to population structure. An introductory example cannot validate a genetic product or establish an individual prognosis.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "0270030b51a469b2f268e430271714bd6c2b51559947a0ba567b63b0a5313ff6"
+    },
+    {
+      "id": "c08s06-feedback-1",
+      "expected": "Some association is insufficient to justify a practical individual decision.",
+      "heard": "Some association is insufficient to justify a practical individual decision.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "cbf1fedb357d87d04d903d938a3833314396bcaaac65fa4609247bb8067bd155"
+    },
+    {
+      "id": "c08s06-feedback-2",
+      "expected": "Validation must address actual predictive value, uncertainty and population transfer.",
+      "heard": "Validation must address actual predictive value, uncertainty, and population transfer.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "a9ea1bdc528a13796ff8b98e048976a6168c9c3bcb3d150bf08158c9c352f090"
+    },
+    {
+      "id": "c09s03",
+      "expected": "Neuroplasticity: change in neural organization or function. Experience-dependent change: change associated with particular experience. Synaptic plasticity: change in the effectiveness of connections.\n\nNervous systems change with development, experience, injury and learning. Plasticity includes several mechanisms and timescales.\n\nCalling an activity plasticity does not tell us whether a change is beneficial or durable. The effect must be measured against a specific outcome.",
+      "heard": "Neuroplasticity, change in neural organization or function, experience dependent change, change associated with particular experience, synaptic plasticity, change in the effectiveness of connections, nervous systems change with development, experience, injury, and learning. Plasticity includes several mechanisms and timescales. Calling an activity plasticity does not tell us whether a change is beneficial or durable. The effect must be measured against a specific outcome.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "417cfb07cb2cf3a3cbe167a6fbe1bfd6619c399c496272e027894cc773c85919"
+    },
+    {
+      "id": "c09s06-feedback-1",
+      "expected": "The design addresses expectations, transfer and persistence.",
+      "heard": "The design addresses expectations, transfer, and persistence.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "6a70e5e80680ea3c5011ef4e345c3df2fc14f7a830c8121efdd1a4e4c04c69d0"
+    },
+    {
+      "id": "c09s07-answers",
+      "expected": "Biological change can have different consequences; benefit needs a specified outcome.\n\nFar transfer concerns substantially different untrained tasks rather than improvement on the practiced activity.",
+      "heard": "Biological change can have different consequences. Benefit needs a specified outcome. FAR transfer concerns substantially different untrained tasks, rather than improvement on the practiced activity.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "1b6f021f544681e677b69b301316d7c0f6bbe94256f2341c9badd233644b36dd"
+    },
+    {
+      "id": "c10s02-feedback-0",
+      "expected": "Terminology cannot establish a product’s efficacy.",
+      "heard": "Terminology cannot establish a product's efficacy.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "1157dbee22aadfe2f79cdfaab1443ba04400ba551159dcbfd4613d4bb423ebeb"
+    },
+    {
+      "id": "c10s02-feedback-2",
+      "expected": "Unsupported advertising does not invalidate the underlying science.",
+      "heard": "unsupported advertising does not invalidate the underlying science.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "8182b80e6bf51cafbd6e69e1ef45db8aa15da26a828c862ea5d64f6414e22edf"
+    },
+    {
+      "id": "c10s03",
+      "expected": "Reductionism: explaining a complex phenomenon only at a narrower level. Multilevel explanation: linking relevant levels of analysis. Causal chain: specified sequence of influences.\n\nA biological explanation can connect cells, circuits, behaviour and environment. Each link needs evidence rather than an attractive metaphor.\n\nA brain correlate does not identify the only cause, and a social context is not biologically irrelevant. Ask how the proposed levels interact in the actual task.",
+      "heard": "Reductionism, explaining a complex phenomenon only at a narrower level. Multi-level explanation, linking relevant levels of analysis. Causal chain, specified sequence of influences. A biological explanation can connect cells, circuits, behavior, and environment. Each link needs evidence rather than an attractive metaphor. A brain correlate does not identify the only cause, and a social context is not biologically irrelevant. Ask how the proposed levels interact in the actual task.",
+      "ratio": 0.964,
+      "model": "small.en",
+      "raw_sha256": "9d019fb95bfe85815af92ddf636edaced7aa002185618ddb998612196cbc18c9"
+    },
+    {
+      "id": "c10s04",
+      "expected": "Informed consent: agreement based on relevant information. Biological determinism: treating biology as a fixed inevitable cause. Uncertainty: limits in what evidence establishes.\n\nUse the evidence to ask better questions and improve accessible conditions. Avoid diagnosing, prescribing or interpreting another person’s private biological data.\n\nHealth decisions need qualified care and informed choice. If a claim exceeds the evidence, narrow it rather than replacing it with another certainty.",
+      "heard": "informed consent, agreement based on relevant information, biological determinism, treating biology as a fixed inevitable cause, uncertainty, limits in what evidence establishes, use the evidence to ask better questions and improve accessible conditions, avoid diagnosing, prescribing, or interpreting another person's private biological data. Health decisions need qualified care and informed choice. If a claim exceeds the evidence, narrow it rather than replacing it with another certainty.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "ddf902f90224b81c3204ad590e5d2f18f4cdf651f82b190eabd5fb18f0115183"
+    },
+    {
+      "id": "c10s05",
+      "expected": "A strong biological account uses suitable measurements, competing explanations and converging methods. Translation to individual care or products requires additional evidence.\n\nThis course is not medical training. Completing it does not establish competence to interpret scans, genetic tests or treatment choices.",
+      "heard": "A strong biological account uses suitable measurements, competing explanations, and converging methods. Translation to individual care or products requires additional evidence. This course is not medical training. Completing it does not establish competence to interpret scans, genetic tests, or treatment choices.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "aff4ecb7e02964fc413aa580a73d829532c75bf34b68fe82f087c65a4025f700"
+    },
+    {
+      "id": "c10s06-feedback-0",
+      "expected": "Environmental conditions can influence biological responses and behaviour.",
+      "heard": "Environmental conditions can influence biological responses and behavior.",
+      "ratio": 0.875,
+      "model": "small.en",
+      "raw_sha256": "4f3222ae680575fffc45a3e003e98c452714501e6692394d9704779e629f651f"
+    }
+  ]
+}
