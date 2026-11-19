@@ -1,0 +1,714 @@
+{
+  "c01s03": {
+    "type": "compare",
+    "title": "Two different claims",
+    "left": [
+      "Association",
+      "Signals vary together",
+      "Several possible accounts"
+    ],
+    "right": [
+      "Mechanism",
+      "A specified process",
+      "Test its predictions"
+    ],
+    "caption": "A neural association does not automatically establish a causal mechanism."
+  },
+  "c01s03b": {
+    "type": "compare",
+    "title": "Complementary measurements",
+    "left": [
+      "Electrical recording",
+      "Fine timing",
+      "Localization limits"
+    ],
+    "right": [
+      "Functional imaging",
+      "Spatial patterns",
+      "Indirect slow signal"
+    ],
+    "caption": "Different measures offer different kinds of resolution."
+  },
+  "c01s04": {
+    "type": "flow",
+    "title": "Evaluate the image claim",
+    "items": [
+      [
+        "Identify",
+        "What was measured?"
+      ],
+      [
+        "Compare",
+        "Which conditions differed?"
+      ],
+      [
+        "Bound",
+        "Which processes remain possible?"
+      ]
+    ],
+    "caption": "A colourful image is a measurement, not a complete mental-state label."
+  },
+  "c01s05": {
+    "type": "rows",
+    "title": "A brain claim needs three checks",
+    "items": [
+      [
+        "Measure",
+        "Signal and resolution"
+      ],
+      [
+        "Comparison",
+        "What changed between conditions?"
+      ],
+      [
+        "Inference",
+        "Which alternatives remain?"
+      ]
+    ],
+    "caption": "Method limits qualify the claim rather than invalidate neuroscience."
+  },
+  "c02s03": {
+    "type": "flow",
+    "title": "A simplified neuron",
+    "items": [
+      [
+        "Inputs",
+        "Dendrites and cell body"
+      ],
+      [
+        "Integration",
+        "Membrane changes"
+      ],
+      [
+        "Output",
+        "Signal along an axon"
+      ]
+    ],
+    "caption": "The diagram simplifies a diverse class of cells."
+  },
+  "c02s03b": {
+    "type": "flow",
+    "title": "A propagated event",
+    "items": [
+      [
+        "Threshold",
+        "Sufficient local change"
+      ],
+      [
+        "Spike",
+        "Channel-driven voltage change"
+      ],
+      [
+        "Recovery",
+        "Refractory processes"
+      ]
+    ],
+    "caption": "A simplified action-potential sequence is not a psychological codebook."
+  },
+  "c02s04": {
+    "type": "flow",
+    "title": "A chemical synapse",
+    "items": [
+      [
+        "Release",
+        "Messenger enters the gap"
+      ],
+      [
+        "Binding",
+        "Receptors respond"
+      ],
+      [
+        "Effect",
+        "Receiving cell changes"
+      ]
+    ],
+    "caption": "Receptor and circuit context determine the effect."
+  },
+  "c02s05": {
+    "type": "compare",
+    "title": "Different levels of signalling",
+    "left": [
+      "Within an axon",
+      "Membrane voltage",
+      "A propagated event"
+    ],
+    "right": [
+      "Across many synapses",
+      "Chemical release",
+      "Receptor-dependent effects"
+    ],
+    "caption": "The two mechanisms are connected but distinct."
+  },
+  "c03s03": {
+    "type": "rows",
+    "title": "Several contributions to a repair",
+    "items": [
+      [
+        "Perception",
+        "Receive and interpret cues"
+      ],
+      [
+        "Memory",
+        "Use prior knowledge"
+      ],
+      [
+        "Action",
+        "Coordinate a response"
+      ]
+    ],
+    "caption": "The functions interact across connected systems."
+  },
+  "c03s03b": {
+    "type": "compare",
+    "title": "A real distinction and an overreach",
+    "left": [
+      "Lateralization",
+      "Task-related asymmetry",
+      "Measure the function"
+    ],
+    "right": [
+      "Personality label",
+      "One-sided identity",
+      "Not established by anatomy"
+    ],
+    "caption": "Hemispheric specialization does not divide people into thinking types."
+  },
+  "c03s04": {
+    "type": "flow",
+    "title": "Interpret a lesion finding",
+    "items": [
+      [
+        "Locate",
+        "Damage and connections"
+      ],
+      [
+        "Measure",
+        "Specific task changes"
+      ],
+      [
+        "Compare",
+        "Other evidence and recovery"
+      ]
+    ],
+    "caption": "A lesion supports a bounded system-level inference."
+  },
+  "c03s05": {
+    "type": "rows",
+    "title": "From region to system",
+    "items": [
+      [
+        "Anatomy",
+        "Which structures and connections?"
+      ],
+      [
+        "Task",
+        "Which demands changed?"
+      ],
+      [
+        "Evidence",
+        "Which methods converge?"
+      ]
+    ],
+    "caption": "Brain organization includes specialization and interaction."
+  },
+  "c04s03": {
+    "type": "flow",
+    "title": "From event to response",
+    "items": [
+      [
+        "Physical event",
+        "Sound pressure changes"
+      ],
+      [
+        "Transduction",
+        "Receptors generate signals"
+      ],
+      [
+        "Processing",
+        "Signals enter connected systems"
+      ]
+    ],
+    "caption": "Receiving a physical stimulus differs from understanding a message."
+  },
+  "c04s03b": {
+    "type": "compare",
+    "title": "Detection needs conditions",
+    "left": [
+      "Quiet setting",
+      "Clear signal",
+      "Lower competing input"
+    ],
+    "right": [
+      "Noisy setting",
+      "Same words",
+      "More competing input"
+    ],
+    "caption": "The example illustrates a change in task conditions, not measured hearing thresholds."
+  },
+  "c04s04": {
+    "type": "flow",
+    "title": "Improve the actual message",
+    "items": [
+      [
+        "Clarify",
+        "Reduce background competition"
+      ],
+      [
+        "Support",
+        "Use an accessible second channel"
+      ],
+      [
+        "Check",
+        "Ask what was understood"
+      ]
+    ],
+    "caption": "Communication needs usable information rather than assumed reception."
+  },
+  "c04s05": {
+    "type": "rows",
+    "title": "A sensory claim has levels",
+    "items": [
+      [
+        "Stimulus",
+        "Physical input"
+      ],
+      [
+        "Transduction",
+        "Cellular response"
+      ],
+      [
+        "Perception",
+        "Organized interpretation"
+      ]
+    ],
+    "caption": "An everyday miss does not uniquely identify which level contributed."
+  },
+  "c05s03": {
+    "type": "compare",
+    "title": "Useful simplification",
+    "left": [
+      "Mobilization",
+      "Prepare resources",
+      "Context-dependent pattern"
+    ],
+    "right": [
+      "Regulation and recovery",
+      "Maintain functions",
+      "Organ-specific control"
+    ],
+    "caption": "Autonomic divisions interact rather than operate as a single on/off switch."
+  },
+  "c05s03b": {
+    "type": "flow",
+    "title": "A simplified endocrine loop",
+    "items": [
+      [
+        "Signal",
+        "Release into circulation"
+      ],
+      [
+        "Target",
+        "Receptor-dependent effect"
+      ],
+      [
+        "Feedback",
+        "Regulation changes further release"
+      ]
+    ],
+    "caption": "The same circulating signal can have different tissue-specific effects."
+  },
+  "c05s04": {
+    "type": "compare",
+    "title": "One cue, several possibilities",
+    "left": [
+      "Observed",
+      "Fast heartbeat",
+      "A bodily measurement"
+    ],
+    "right": [
+      "Possible accounts",
+      "Exertion or emotion",
+      "Need context and report"
+    ],
+    "caption": "A physiological cue does not uniquely identify an emotion."
+  },
+  "c05s05": {
+    "type": "rows",
+    "title": "Interpret a body measure",
+    "items": [
+      [
+        "Sample",
+        "When and how measured?"
+      ],
+      [
+        "Context",
+        "What else was happening?"
+      ],
+      [
+        "Meaning",
+        "Which explanations remain?"
+      ]
+    ],
+    "caption": "A physiological signal needs a bounded interpretation."
+  },
+  "c06s03": {
+    "type": "compare",
+    "title": "Distinguish the time course",
+    "left": [
+      "Acute demand",
+      "Immediate mobilization",
+      "Potential short-term value"
+    ],
+    "right": [
+      "Prolonged demands",
+      "Repeated activation",
+      "Recovery may be limited"
+    ],
+    "caption": "Timing and context qualify claims about stress."
+  },
+  "c06s03b": {
+    "type": "flow",
+    "title": "A simplified hormonal pathway",
+    "items": [
+      [
+        "Hypothalamus",
+        "Signals to pituitary"
+      ],
+      [
+        "Pituitary",
+        "Signals to adrenal glands"
+      ],
+      [
+        "Feedback",
+        "Hormones influence regulation"
+      ]
+    ],
+    "caption": "This pathway is one component of a broader stress response."
+  },
+  "c06s04": {
+    "type": "rows",
+    "title": "Respond at the relevant level",
+    "items": [
+      [
+        "Demand",
+        "What keeps recurring?"
+      ],
+      [
+        "Resources",
+        "Which support is missing?"
+      ],
+      [
+        "Evaluation",
+        "What outcome will be checked?"
+      ]
+    ],
+    "caption": "Stress is shaped by conditions as well as individual responses."
+  },
+  "c06s05": {
+    "type": "rows",
+    "title": "Bound the stress inference",
+    "items": [
+      [
+        "Time course",
+        "Acute or repeated?"
+      ],
+      [
+        "Measurement",
+        "One marker or several?"
+      ],
+      [
+        "Alternative",
+        "Health and social conditions?"
+      ]
+    ],
+    "caption": "A stress explanation needs timescale, context and appropriate measures."
+  },
+  "c07s03": {
+    "type": "compare",
+    "title": "Different processes",
+    "left": [
+      "Sleep pressure",
+      "Builds with wakefulness",
+      "Reduced by sleep"
+    ],
+    "right": [
+      "Circadian timing",
+      "Daily modulation",
+      "Aligned by cues"
+    ],
+    "caption": "The processes interact; this is a conceptual model, not a personal sleep score."
+  },
+  "c07s03b": {
+    "type": "flow",
+    "title": "Structure over the night",
+    "items": [
+      [
+        "Measure",
+        "Brain, muscle and eye signals"
+      ],
+      [
+        "Classify",
+        "Stages under defined criteria"
+      ],
+      [
+        "Interpret",
+        "Patterns across the sleep period"
+      ]
+    ],
+    "caption": "A sleep-stage estimate depends on how it is measured."
+  },
+  "c07s04": {
+    "type": "rows",
+    "title": "Read a sleep claim",
+    "items": [
+      [
+        "Signal",
+        "What does the device record?"
+      ],
+      [
+        "Validation",
+        "Compared with which reference?"
+      ],
+      [
+        "Use",
+        "Wellbeing aid or diagnosis?"
+      ]
+    ],
+    "caption": "A convenient estimate is not automatically a clinical assessment."
+  },
+  "c07s05": {
+    "type": "rows",
+    "title": "A practical sleep question",
+    "items": [
+      [
+        "Timing",
+        "Biological and social schedule"
+      ],
+      [
+        "Opportunity",
+        "Time and conditions to sleep"
+      ],
+      [
+        "Assessment",
+        "Validated measure and symptoms"
+      ]
+    ],
+    "caption": "Sleep is shaped by interacting processes and circumstances."
+  },
+  "c08s03": {
+    "type": "flow",
+    "title": "Several levels between DNA and behaviour",
+    "items": [
+      [
+        "Variation",
+        "Genetic differences"
+      ],
+      [
+        "Development",
+        "Biological and environmental processes"
+      ],
+      [
+        "Outcome",
+        "A measured phenotype"
+      ]
+    ],
+    "caption": "A complex behaviour is not directly encoded as a single fixed instruction."
+  },
+  "c08s03b": {
+    "type": "compare",
+    "title": "Population and individual",
+    "left": [
+      "Heritability",
+      "Variation across people",
+      "Specified population"
+    ],
+    "right": [
+      "One person",
+      "Developmental history",
+      "No percentage decomposition"
+    ],
+    "caption": "A variance estimate does not divide an individual into genetic and environmental parts."
+  },
+  "c08s04": {
+    "type": "rows",
+    "title": "Evaluate a genetic product",
+    "items": [
+      [
+        "Target",
+        "Which outcome and measure?"
+      ],
+      [
+        "Validation",
+        "Which population and uncertainty?"
+      ],
+      [
+        "Use",
+        "What decision is justified?"
+      ]
+    ],
+    "caption": "A marketed score needs evidence for its intended practical use."
+  },
+  "c08s05": {
+    "type": "rows",
+    "title": "A genetic claim needs boundaries",
+    "items": [
+      [
+        "Population",
+        "Who was studied?"
+      ],
+      [
+        "Measure",
+        "What phenotype was recorded?"
+      ],
+      [
+        "Inference",
+        "Prediction, cause or intervention?"
+      ]
+    ],
+    "caption": "Genetic influence does not imply a fixed individual outcome."
+  },
+  "c09s03": {
+    "type": "flow",
+    "title": "A plasticity claim needs an outcome",
+    "items": [
+      [
+        "Experience",
+        "What changed?"
+      ],
+      [
+        "System",
+        "Which measure changed?"
+      ],
+      [
+        "Function",
+        "What outcome improved?"
+      ]
+    ],
+    "caption": "Change alone does not demonstrate a benefit."
+  },
+  "c09s03b": {
+    "type": "compare",
+    "title": "Two different benefit claims",
+    "left": [
+      "Trained task",
+      "Familiar repairs",
+      "Specific learning"
+    ],
+    "right": [
+      "Untrained outcome",
+      "New task or setting",
+      "Requires transfer evidence"
+    ],
+    "caption": "A local improvement does not establish a general cognitive upgrade."
+  },
+  "c09s04": {
+    "type": "rows",
+    "title": "Match support to a goal",
+    "items": [
+      [
+        "Goal",
+        "Meaningful daily function"
+      ],
+      [
+        "Evidence",
+        "Appropriate comparison"
+      ],
+      [
+        "Review",
+        "Benefit, burden and limits"
+      ]
+    ],
+    "caption": "A broad brain claim is less useful than a tested functional outcome."
+  },
+  "c09s05": {
+    "type": "compare",
+    "title": "Change and useful change",
+    "left": [
+      "Neural change",
+      "A biological observation",
+      "Several interpretations"
+    ],
+    "right": [
+      "Practical benefit",
+      "Meaningful outcome",
+      "Needs suitable testing"
+    ],
+    "caption": "Plasticity is a mechanism category, not a universal endorsement."
+  },
+  "c10s03": {
+    "type": "flow",
+    "title": "Link the explanation",
+    "items": [
+      [
+        "Biology",
+        "What system is proposed?"
+      ],
+      [
+        "Behaviour",
+        "What task is measured?"
+      ],
+      [
+        "Context",
+        "What conditions change the result?"
+      ]
+    ],
+    "caption": "A multilevel explanation tests links rather than merely listing levels."
+  },
+  "c10s03b": {
+    "type": "rows",
+    "title": "Read beyond the biological label",
+    "items": [
+      [
+        "Design",
+        "Appropriate comparison"
+      ],
+      [
+        "Outcome",
+        "Meaningful benefit and harms"
+      ],
+      [
+        "Transfer",
+        "Relevant people and settings"
+      ]
+    ],
+    "caption": "A plausible mechanism and an effective intervention are distinct claims."
+  },
+  "c10s04": {
+    "type": "rows",
+    "title": "A responsible conclusion",
+    "items": [
+      [
+        "Supported",
+        "What the evidence permits"
+      ],
+      [
+        "Uncertain",
+        "Which links remain untested"
+      ],
+      [
+        "Next step",
+        "A proportionate test or care route"
+      ]
+    ],
+    "caption": "Biological understanding should improve decisions without creating false certainty."
+  },
+  "c10s05": {
+    "type": "rows",
+    "title": "A final biological check",
+    "items": [
+      [
+        "Claim",
+        "Which outcome is promised?"
+      ],
+      [
+        "Evidence",
+        "What was actually measured?"
+      ],
+      [
+        "Decision",
+        "What follows within the limits?"
+      ]
+    ],
+    "caption": "Use neuroscience as evidence rather than a decorative authority."
+  }
+}

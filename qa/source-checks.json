@@ -1,0 +1,108 @@
+{
+  "method": "HTTP availability checks of linked open references; DOI identity checked against Crossref. Availability is not independent academic review.",
+  "open_references": [
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/14-1-what-is-stress",
+      "status": 200,
+      "final": "https://openstax.org/books/psychology-2e/pages/14-1-what-is-stress",
+      "title": "14.1 What Is Stress? - Psychology 2e | OpenStax"
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/3-1-human-genetics",
+      "status": 200,
+      "final": "https://openstax.org/books/psychology-2e/pages/3-1-human-genetics",
+      "title": "3.1 Human Genetics - Psychology 2e | OpenStax"
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/3-2-cells-of-the-nervous-system",
+      "status": 200,
+      "final": "https://openstax.org/books/psychology-2e/pages/3-2-cells-of-the-nervous-system",
+      "title": "3.2 Cells of the Nervous System - Psychology 2e | OpenStax"
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/3-3-parts-of-the-nervous-system",
+      "status": 200,
+      "final": "https://openstax.org/books/psychology-2e/pages/3-3-parts-of-the-nervous-system",
+      "title": "3.3 Parts of the Nervous System - Psychology 2e | OpenStax"
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/3-4-the-brain-and-spinal-cord",
+      "status": 200,
+      "final": "https://openstax.org/books/psychology-2e/pages/3-4-the-brain-and-spinal-cord",
+      "title": "3.4 The Brain and Spinal Cord - Psychology 2e | OpenStax"
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/3-5-the-endocrine-system",
+      "status": 200,
+      "final": "https://openstax.org/books/psychology-2e/pages/3-5-the-endocrine-system",
+      "title": "3.5 The Endocrine System - Psychology 2e | OpenStax"
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/3-introduction",
+      "status": 200,
+      "final": "https://openstax.org/books/psychology-2e/pages/3-introduction",
+      "title": "Ch. 3 Introduction - Psychology 2e | OpenStax"
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/4-2-sleep-and-why-we-sleep",
+      "status": 200,
+      "final": "https://openstax.org/books/psychology-2e/pages/4-2-sleep-and-why-we-sleep",
+      "title": "4.2 Sleep and Why We Sleep - Psychology 2e | OpenStax"
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/4-3-stages-of-sleep",
+      "status": 200,
+      "final": "https://openstax.org/books/psychology-2e/pages/4-3-stages-of-sleep",
+      "title": "4.3 Stages of Sleep - Psychology 2e | OpenStax"
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/5-1-sensation-versus-perception",
+      "status": 200,
+      "final": "https://openstax.org/books/psychology-2e/pages/5-1-sensation-versus-perception",
+      "title": "5.1 Sensation versus Perception - Psychology 2e | OpenStax"
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/5-4-hearing",
+      "status": 200,
+      "final": "https://openstax.org/books/psychology-2e/pages/5-4-hearing",
+      "title": "5.4 Hearing - Psychology 2e | OpenStax"
+    }
+  ],
+  "doi_sources": [
+    {
+      "title": "POLDRACK (2006): Can cognitive processes be inferred from neuroimaging data?",
+      "url": "https://doi.org/10.1016/j.tics.2005.12.004",
+      "kind": "Scholarly source; publisher access may vary."
+    },
+    {
+      "title": "POLDRACK (2006): Can cognitive processes be inferred from neuroimaging data?",
+      "url": "https://doi.org/10.1016/j.tics.2005.12.004",
+      "kind": "Scholarly source; publisher access may vary."
+    },
+    {
+      "title": "McEwen (1998): Protective and Damaging Effects of Stress Mediators",
+      "url": "https://doi.org/10.1056/NEJM199801153380307",
+      "kind": "Scholarly source; publisher access may vary."
+    },
+    {
+      "title": "Polderman, Benyamin, de Leeuw (2015): Meta-analysis of the heritability of human traits based on fifty years of twin studies",
+      "url": "https://doi.org/10.1038/ng.3285",
+      "kind": "Scholarly source; publisher access may vary."
+    },
+    {
+      "title": "Draganski, Gaser, Busch (2004): Changes in grey matter induced by training",
+      "url": "https://doi.org/10.1038/427311a",
+      "kind": "Scholarly source; publisher access may vary."
+    },
+    {
+      "title": "POLDRACK (2006): Can cognitive processes be inferred from neuroimaging data?",
+      "url": "https://doi.org/10.1016/j.tics.2005.12.004",
+      "kind": "Scholarly source; publisher access may vary."
+    },
+    {
+      "title": "Draganski, Gaser, Busch (2004): Changes in grey matter induced by training",
+      "url": "https://doi.org/10.1038/427311a",
+      "kind": "Scholarly source; publisher access may vary."
+    }
+  ]
+}

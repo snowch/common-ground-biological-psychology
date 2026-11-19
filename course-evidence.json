@@ -1,0 +1,187 @@
+{
+  "1": {
+    "claims": [
+      "Distinguish neural association, intervention and reverse inference in a claim about behaviour."
+    ],
+    "note": "Functional imaging findings depend on comparisons, analysis choices and samples. Reverse inference is stronger when the observed pattern is selective and the prior alternatives are considered.\n\nThe café image is fictional. It supplies no diagnostic or individual mental-state evidence.",
+    "sources": [
+      {
+        "title": "OpenStax Psychology 2e: The brain and spinal cord",
+        "url": "https://openstax.org/books/psychology-2e/pages/3-4-the-brain-and-spinal-cord",
+        "kind": "Open introductory textbook; further context and references."
+      },
+      {
+        "title": "POLDRACK (2006): Can cognitive processes be inferred from neuroimaging data?",
+        "url": "https://doi.org/10.1016/j.tics.2005.12.004",
+        "kind": "Scholarly source; publisher access may vary."
+      }
+    ]
+  },
+  "2": {
+    "claims": [
+      "Explain an action potential and distinguish electrical propagation from synaptic transmission."
+    ],
+    "note": "Cellular physiology supports detailed mechanisms of signalling, while links from those mechanisms to complex behaviour require additional levels of evidence.\n\nElectrical and chemical descriptions are complementary. Neither identifies a personality trait or emotion from one cell.",
+    "sources": [
+      {
+        "title": "OpenStax Psychology 2e: Cells of the nervous system",
+        "url": "https://openstax.org/books/psychology-2e/pages/3-2-cells-of-the-nervous-system",
+        "kind": "Open introductory textbook; further context and references."
+      },
+      {
+        "title": "OpenStax Psychology 2e: Parts of the nervous system",
+        "url": "https://openstax.org/books/psychology-2e/pages/3-3-parts-of-the-nervous-system",
+        "kind": "Open introductory textbook; further context and references."
+      }
+    ]
+  },
+  "3": {
+    "claims": [
+      "Explain a brain function using interacting networks rather than a single-region personality label."
+    ],
+    "note": "Neuroscience combines anatomy, task measures and interventions to examine functional organization. Region labels alone cannot establish a psychological explanation.\n\nThe café repair is not a localization experiment. Brain-based personality quizzes need independent validation rather than anatomical metaphors.",
+    "sources": [
+      {
+        "title": "OpenStax Psychology 2e: The brain and spinal cord",
+        "url": "https://openstax.org/books/psychology-2e/pages/3-4-the-brain-and-spinal-cord",
+        "kind": "Open introductory textbook; further context and references."
+      },
+      {
+        "title": "POLDRACK (2006): Can cognitive processes be inferred from neuroimaging data?",
+        "url": "https://doi.org/10.1016/j.tics.2005.12.004",
+        "kind": "Scholarly source; publisher access may vary."
+      }
+    ]
+  },
+  "4": {
+    "claims": [
+      "Distinguish physical stimulation, transduction and perceptual interpretation."
+    ],
+    "note": "Sensory physiology identifies transduction and pathways; perceptual research investigates how information is selected and interpreted. A demonstration does not diagnose an individual sensory condition.\n\nThresholds depend on measurement procedures and response criteria. Persistent sensory concerns warrant suitable professional assessment.",
+    "sources": [
+      {
+        "title": "OpenStax Psychology 2e: Sensation versus perception",
+        "url": "https://openstax.org/books/psychology-2e/pages/5-1-sensation-versus-perception",
+        "kind": "Open introductory textbook; further context and references."
+      },
+      {
+        "title": "OpenStax Psychology 2e: Hearing",
+        "url": "https://openstax.org/books/psychology-2e/pages/5-4-hearing",
+        "kind": "Open introductory textbook; further context and references."
+      }
+    ]
+  },
+  "5": {
+    "claims": [
+      "Explain autonomic and hormonal responses without treating one physiological signal as a unique emotion."
+    ],
+    "note": "Autonomic and endocrine measures help investigate regulation when sampling, context and suitable comparisons are specified. Individual signals usually lack psychological specificity.\n\nA course explanation cannot diagnose a symptom or justify changing medication.",
+    "sources": [
+      {
+        "title": "OpenStax Psychology 2e: Parts of the nervous system",
+        "url": "https://openstax.org/books/psychology-2e/pages/3-3-parts-of-the-nervous-system",
+        "kind": "Open introductory textbook; further context and references."
+      },
+      {
+        "title": "OpenStax Psychology 2e: The endocrine system",
+        "url": "https://openstax.org/books/psychology-2e/pages/3-5-the-endocrine-system",
+        "kind": "Open introductory textbook; further context and references."
+      }
+    ]
+  },
+  "6": {
+    "claims": [
+      "Differentiate an acute adaptive response from claims about chronic stress and allostatic load."
+    ],
+    "note": "Allostatic-load measures are composites, and studies differ in which indicators they include. Longitudinal associations do not turn one cortisol result into proof of damage.\n\nPersistent distress or physical concerns need appropriate care. The course does not prescribe a biological treatment.",
+    "sources": [
+      {
+        "title": "OpenStax Psychology 2e: What is stress",
+        "url": "https://openstax.org/books/psychology-2e/pages/14-1-what-is-stress",
+        "kind": "Open introductory textbook; further context and references."
+      },
+      {
+        "title": "McEwen (1998): Protective and Damaging Effects of Stress Mediators",
+        "url": "https://doi.org/10.1056/NEJM199801153380307",
+        "kind": "Scholarly source; publisher access may vary."
+      }
+    ]
+  },
+  "7": {
+    "claims": [
+      "Distinguish circadian timing, sleep pressure and sleep stages in a practical sleep claim."
+    ],
+    "note": "Sleep findings depend on duration, timing, task and measurement. Laboratory deprivation studies inform specific outcomes without establishing every real-world effect.\n\nSleep needs and clinical problems vary. The course provides concepts rather than individualized sleep treatment.",
+    "sources": [
+      {
+        "title": "OpenStax Psychology 2e: Sleep and why we sleep",
+        "url": "https://openstax.org/books/psychology-2e/pages/4-2-sleep-and-why-we-sleep",
+        "kind": "Open introductory textbook; further context and references."
+      },
+      {
+        "title": "OpenStax Psychology 2e: Stages of sleep",
+        "url": "https://openstax.org/books/psychology-2e/pages/4-3-stages-of-sleep",
+        "kind": "Open introductory textbook; further context and references."
+      }
+    ]
+  },
+  "8": {
+    "claims": [
+      "Interpret heritability without treating a genetic association as individual destiny."
+    ],
+    "note": "Genetically informative studies rely on design assumptions and measured environments. Association studies need replication and careful attention to population structure.\n\nAn introductory example cannot validate a genetic product or establish an individual prognosis.",
+    "sources": [
+      {
+        "title": "OpenStax Psychology 2e: Human genetics",
+        "url": "https://openstax.org/books/psychology-2e/pages/3-1-human-genetics",
+        "kind": "Open introductory textbook; further context and references."
+      },
+      {
+        "title": "Polderman, Benyamin, de Leeuw (2015): Meta-analysis of the heritability of human traits based on fifty years of twin studies",
+        "url": "https://doi.org/10.1038/ng.3285",
+        "kind": "Scholarly source; publisher access may vary."
+      }
+    ]
+  },
+  "9": {
+    "claims": [
+      "Distinguish task-specific plasticity from a claim of general brain improvement."
+    ],
+    "note": "Plasticity research shows that neural systems can change, but evidence for a particular training product requires its own controlled studies and meaningful outcomes.\n\nChanges in an image or trained score do not automatically show durable far transfer or clinical recovery.",
+    "sources": [
+      {
+        "title": "OpenStax Psychology 2e: The brain and spinal cord",
+        "url": "https://openstax.org/books/psychology-2e/pages/3-4-the-brain-and-spinal-cord",
+        "kind": "Open introductory textbook; further context and references."
+      },
+      {
+        "title": "Draganski, Gaser, Busch (2004): Changes in grey matter induced by training",
+        "url": "https://doi.org/10.1038/427311a",
+        "kind": "Scholarly source; publisher access may vary."
+      }
+    ]
+  },
+  "10": {
+    "claims": [
+      "Combine neural, psychological and contextual evidence in a bounded practical recommendation."
+    ],
+    "note": "A strong biological account uses suitable measurements, competing explanations and converging methods. Translation to individual care or products requires additional evidence.\n\nThis course is not medical training. Completing it does not establish competence to interpret scans, genetic tests or treatment choices.",
+    "sources": [
+      {
+        "title": "OpenStax Psychology 2e: Introduction",
+        "url": "https://openstax.org/books/psychology-2e/pages/3-introduction",
+        "kind": "Open introductory textbook; further context and references."
+      },
+      {
+        "title": "POLDRACK (2006): Can cognitive processes be inferred from neuroimaging data?",
+        "url": "https://doi.org/10.1016/j.tics.2005.12.004",
+        "kind": "Scholarly source; publisher access may vary."
+      },
+      {
+        "title": "Draganski, Gaser, Busch (2004): Changes in grey matter induced by training",
+        "url": "https://doi.org/10.1038/427311a",
+        "kind": "Scholarly source; publisher access may vary."
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "title": "Try a new case",
+  "caseTitle": "The community sports centre",
+  "subtitle": "An optional written transfer check after the ten chapters",
+  "intro": "Try this fictional case without your notes. Allow twenty to thirty minutes. Write somewhere private; this page does not collect or grade your answers. Compare with the suggested reasoning after your attempt.",
+  "paragraphs": [
+    "A sports centre advertises a brain-based focus programme. A small group practises one game and improves on that game. A scan changes after training, and the advert promises better reasoning in everyday life without testing it.",
+    "A wrist device labels sleep stages. One volunteer’s pulse rises before a talk, and a coach calls it fear. A single hormone sample is described as proof of chronic stress damage. The volunteer also works changing shifts.",
+    "A genetic score is proposed for selecting leaders, although validation used a different population. The coach calls slow performance left-brained thinking and suggests that a high heritability estimate means change is impossible.",
+    "The centre wants an accessible, evidence-based programme and appropriate professional referral for persistent health concerns."
+  ],
+  "tasks": [
+    {
+      "title": "Neural signals and systems",
+      "chapters": [
+        1,
+        2,
+        3
+      ],
+      "prompt": "Explain what a scan or neural signal can and cannot establish.",
+      "answer": "Signals concern measured physiology. Neurons integrate inputs, propagate action potentials and communicate through synapses; complex tasks involve interacting systems. A changed image does not uniquely identify a thought, a personality type or a causal mechanism."
+    },
+    {
+      "title": "Sensory and body measures",
+      "chapters": [
+        4,
+        5,
+        6
+      ],
+      "prompt": "Assess the pulse and hormone claims and name measurement details that matter.",
+      "answer": "Pulse can reflect several emotional and non-emotional conditions. Hormone levels depend on time, sampling and health. One sample does not establish chronic damage; stress regulation involves time, demands, recovery and multiple pathways."
+    },
+    {
+      "title": "Sleep and working conditions",
+      "chapters": [
+        6,
+        7
+      ],
+      "prompt": "Explain why sleep timing is not merely a choice and evaluate the tracker.",
+      "answer": "Circadian timing, sleep pressure and opportunity interact. Shifts can misalign required activity and biological timing. A tracker needs validation for its claimed stages and cannot replace clinical assessment of persistent concerns."
+    },
+    {
+      "title": "Genetic prediction",
+      "chapters": [
+        8,
+        10
+      ],
+      "prompt": "Critique leader selection and the immutability claim.",
+      "answer": "Heritability describes population variation under conditions, not an individual percentage or inability to change. Genetic scores need relevant independent validation, consent and privacy; population transfer and practical utility remain unestablished here."
+    },
+    {
+      "title": "Training and practical action",
+      "chapters": [
+        1,
+        9,
+        10
+      ],
+      "prompt": "Propose a better evaluation and a proportionate recommendation.",
+      "answer": "Use a credible comparison, suitable allocation, meaningful untrained outcomes and delayed follow-up, recording harms as well as benefit. Provide accessible conditions now. A trained score and image change do not demonstrate far transfer or treatment efficacy."
+    }
+  ],
+  "rubric": [
+    {
+      "title": "Accurate distinctions",
+      "strong": "Explains the relevant concepts and separates observations from interpretations.",
+      "developing": "Adds labels without explaining how the evidence supports them."
+    },
+    {
+      "title": "Evidence and alternatives",
+      "strong": "Considers competing explanations and a comparison that could distinguish them.",
+      "developing": "Treats a plausible account, score or correlation as a settled cause."
+    },
+    {
+      "title": "Proportionate application",
+      "strong": "States limitations, respects the people involved and explains what would change the recommendation.",
+      "developing": "Overgeneralizes to individuals or makes a recommendation beyond the evidence."
+    }
+  ],
+  "followup": "Return tomorrow or in a week with an unfamiliar example. Compare the quality of your explanation, not just your confidence. This self-check does not certify professional competence or establish general mastery."
+}

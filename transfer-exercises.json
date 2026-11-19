@@ -1,0 +1,172 @@
+{
+  "1": {
+    "prompt": "Which conclusion is best supported?",
+    "options": [
+      "The recording identifies the exact thought.",
+      "The conditions differ in a measured signal; interpretation needs the task.",
+      "Electrical activity is unrelated to mental processes."
+    ],
+    "correct": 1,
+    "feedback": [
+      "The signal is not a unique thought label.",
+      "This distinguishes an observation from a process inference.",
+      "The limitation does not make the measurement meaningless."
+    ],
+    "context": "A scalp recording differs while participants hear frequent and unexpected sounds.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "biological-psychology-v1"
+  },
+  "2": {
+    "prompt": "What should the explanation include?",
+    "options": [
+      "The transmitter’s receptor and circuit context.",
+      "A fixed emotional meaning for the chemical.",
+      "The assumption that more transmitter is better."
+    ],
+    "correct": 0,
+    "feedback": [
+      "The same messenger can have different effects through different targets.",
+      "That ignores receptor and network differences.",
+      "Benefits and harms depend on system, dose and function."
+    ],
+    "context": "The same neurotransmitter is found in pathways supporting different functions.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "biological-psychology-v1"
+  },
+  "3": {
+    "prompt": "What inference is proportionate?",
+    "options": [
+      "The area is the sole store of that ability.",
+      "No other methods are needed.",
+      "The damaged system contributes to performance under these conditions."
+    ],
+    "correct": 2,
+    "feedback": [
+      "The lesion can disrupt a connected system rather than one isolated store.",
+      "Converging evidence helps address alternative explanations.",
+      "This recognizes a contribution without claiming exclusive localization."
+    ],
+    "context": "After a lesion, a person struggles with a particular task, but several connected pathways were affected.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "biological-psychology-v1"
+  },
+  "4": {
+    "prompt": "Which conclusion is reasonable?",
+    "options": [
+      "The listener’s hearing capacity permanently improved.",
+      "Written support made the message more accessible in this task.",
+      "Visual information is always superior to sound."
+    ],
+    "correct": 1,
+    "feedback": [
+      "A task support does not establish a physiological change.",
+      "The claim fits the local outcome without broad overreach.",
+      "Accessibility depends on the person, message and context."
+    ],
+    "context": "A visitor follows instructions more accurately when a spoken announcement also appears as clear text.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "biological-psychology-v1"
+  },
+  "5": {
+    "prompt": "What additional information matters?",
+    "options": [
+      "Sampling time and conditions, plus suitable clinical interpretation.",
+      "Whether the result matches a personality stereotype.",
+      "A single universal normal value for every circumstance."
+    ],
+    "correct": 0,
+    "feedback": [
+      "Biological measures need context and appropriate interpretation.",
+      "A stereotype is not a measurement model.",
+      "Reference values and sampling conditions are more complex."
+    ],
+    "context": "A social-media post interprets one hormone measurement as a complete measure of chronic stress.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "biological-psychology-v1"
+  },
+  "6": {
+    "prompt": "What response fits the situation best?",
+    "options": [
+      "Address recurring workload and support, then evaluate outcomes.",
+      "Assign a fixed stress personality.",
+      "Treat one breathing exercise as sufficient evidence of recovery."
+    ],
+    "correct": 0,
+    "feedback": [
+      "The persistent demand and available resources are relevant targets.",
+      "A personality label does not identify the cause or needed change.",
+      "A local exercise does not demonstrate resolution of ongoing strain."
+    ],
+    "context": "A volunteer reports repeated overload because staffing and break arrangements have changed.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "biological-psychology-v1"
+  },
+  "7": {
+    "prompt": "Which conclusion fits the evidence?",
+    "options": [
+      "The device can diagnose every sleep disorder.",
+      "The estimate needs validation for that particular use.",
+      "Any estimate with uncertainty is useless."
+    ],
+    "correct": 1,
+    "feedback": [
+      "The available signals do not support such an unrestricted diagnostic claim.",
+      "Validation should match the claimed stage or clinical inference.",
+      "Estimates can be useful while retaining defined limits."
+    ],
+    "context": "A wrist device labels several minutes as a specific sleep stage using movement and pulse data.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "biological-psychology-v1"
+  },
+  "8": {
+    "prompt": "What should be checked before using the score?",
+    "options": [
+      "Whether the label sounds biologically precise.",
+      "Whether any gene association exists at all.",
+      "Independent validation for the population and intended decision."
+    ],
+    "correct": 2,
+    "feedback": [
+      "A precise-sounding label does not establish useful prediction.",
+      "Some association is insufficient to justify a practical individual decision.",
+      "Validation must address actual predictive value, uncertainty and population transfer."
+    ],
+    "context": "A company offers a DNA-based score to decide who should lead a volunteer team.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "biological-psychology-v1"
+  },
+  "9": {
+    "prompt": "What would best test the broader claim?",
+    "options": [
+      "Repeat only the trained task immediately.",
+      "Use credible controls and delayed untrained outcomes.",
+      "Display a colourful brain image after training."
+    ],
+    "correct": 1,
+    "feedback": [
+      "That checks practice gains rather than broader transfer.",
+      "The design addresses expectations, transfer and persistence.",
+      "An image change is not equivalent to the claimed functional benefit."
+    ],
+    "context": "A training programme claims better everyday reasoning after practice on one game.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "biological-psychology-v1"
+  },
+  "10": {
+    "prompt": "Which conclusion is proportionate?",
+    "options": [
+      "The environment cannot matter because the signal is biological.",
+      "The image proves the workshop treats a disorder.",
+      "A signal changed, but clinical benefit and transfer remain untested."
+    ],
+    "correct": 2,
+    "feedback": [
+      "Environmental conditions can influence biological responses and behaviour.",
+      "The measurement is not evidence of clinical efficacy by itself.",
+      "This separates the measured change from the untested practical claim."
+    ],
+    "context": "A small uncontrolled study finds a brain-signal difference after a workshop but measures no daily-life benefit.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "biological-psychology-v1"
+  }
+}

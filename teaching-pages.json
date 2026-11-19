@@ -1,0 +1,1642 @@
+{
+  "1": [
+    {
+      "id": "c01s03",
+      "kind": "concept",
+      "title": "Biological psychology connects levels.",
+      "points": [
+        "Biological psychology: study of biological contributions to behaviour",
+        "Neural correlate: brain measure associated with a process",
+        "Mechanism: a process proposed to produce an effect"
+      ],
+      "text": "Biological psychology: study of biological contributions to behaviour. Neural correlate: brain measure associated with a process. Mechanism: a process proposed to produce an effect.\n\nBehaviour involves interacting biological, psychological and social processes. A biological description adds a level of explanation; it does not remove the need to understand the task.\n\nAn association between a brain signal and an event is a starting point. It does not uniquely identify what one person thought.",
+      "stage": "Explanation",
+      "visual": "c01s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish neural association, intervention and reverse inference in a claim about behaviour."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Functional imaging findings depend on comparisons, analysis choices and samples. Reverse inference is stronger when the observed pattern is selective and the prior alternatives are considered.\n\nThe café image is fictional. It supplies no diagnostic or individual mental-state evidence."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A neural association does not automatically establish a causal mechanism."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: The brain and spinal cord",
+            "url": "https://openstax.org/books/psychology-2e/pages/3-4-the-brain-and-spinal-cord",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "POLDRACK (2006): Can cognitive processes be inferred from neuroimaging data?",
+            "url": "https://doi.org/10.1016/j.tics.2005.12.004",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c01s03b",
+      "kind": "concept",
+      "title": "Methods reveal different things.",
+      "points": [
+        "Electroencephalography: recording electrical activity at the scalp",
+        "Functional imaging: estimating activity-related physiological changes",
+        "Lesion evidence: studying consequences of tissue damage"
+      ],
+      "text": "Electroencephalography: recording electrical activity at the scalp. Functional imaging: estimating activity-related physiological changes. Lesion evidence: studying consequences of tissue damage.\n\nScalp electrical recordings have useful temporal resolution but limited source localization. Functional magnetic resonance imaging measures blood-oxygen-related changes rather than thoughts directly.\n\nLesions and carefully designed interventions can add causal evidence, but damage or stimulation can affect connected systems. Each method has practical and inferential limits.",
+      "stage": "Explanation",
+      "visual": "c01s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish neural association, intervention and reverse inference in a claim about behaviour."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Functional imaging findings depend on comparisons, analysis choices and samples. Reverse inference is stronger when the observed pattern is selective and the prior alternatives are considered.\n\nThe café image is fictional. It supplies no diagnostic or individual mental-state evidence."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Different measures offer different kinds of resolution."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: The brain and spinal cord",
+            "url": "https://openstax.org/books/psychology-2e/pages/3-4-the-brain-and-spinal-cord",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "POLDRACK (2006): Can cognitive processes be inferred from neuroimaging data?",
+            "url": "https://doi.org/10.1016/j.tics.2005.12.004",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c01s04",
+      "kind": "concept",
+      "title": "Do not read a mind from a hotspot.",
+      "points": [
+        "Reverse inference: inferring a process from associated brain activity",
+        "Specificity: how uniquely a measure identifies a target",
+        "Converging evidence: support across suitable methods"
+      ],
+      "text": "Reverse inference: inferring a process from associated brain activity. Converging evidence: support across suitable methods.\n\nIf fear sometimes involves a region, activity there does not prove fear. The same region may participate in attention, learning and other tasks.\n\nA stronger account uses comparison conditions, task behaviour and information about specificity. Neural evidence should narrow alternatives rather than decorate a preferred story.",
+      "stage": "Explanation",
+      "visual": "c01s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish neural association, intervention and reverse inference in a claim about behaviour."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Functional imaging findings depend on comparisons, analysis choices and samples. Reverse inference is stronger when the observed pattern is selective and the prior alternatives are considered.\n\nThe café image is fictional. It supplies no diagnostic or individual mental-state evidence."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A colourful image is a measurement, not a complete mental-state label."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: The brain and spinal cord",
+            "url": "https://openstax.org/books/psychology-2e/pages/3-4-the-brain-and-spinal-cord",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "POLDRACK (2006): Can cognitive processes be inferred from neuroimaging data?",
+            "url": "https://doi.org/10.1016/j.tics.2005.12.004",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c01s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Functional imaging findings depend on comparisons, analysis choices and samples. Reverse inference is stronger when the observed pattern is selective and the prior alternatives are considered.\n\nThe café image is fictional. It supplies no diagnostic or individual mental-state evidence.",
+      "stage": "Evidence check",
+      "visual": "c01s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish neural association, intervention and reverse inference in a claim about behaviour."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Functional imaging findings depend on comparisons, analysis choices and samples. Reverse inference is stronger when the observed pattern is selective and the prior alternatives are considered.\n\nThe café image is fictional. It supplies no diagnostic or individual mental-state evidence."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Method limits qualify the claim rather than invalidate neuroscience."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: The brain and spinal cord",
+            "url": "https://openstax.org/books/psychology-2e/pages/3-4-the-brain-and-spinal-cord",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "POLDRACK (2006): Can cognitive processes be inferred from neuroimaging data?",
+            "url": "https://doi.org/10.1016/j.tics.2005.12.004",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    }
+  ],
+  "2": [
+    {
+      "id": "c02s03",
+      "kind": "concept",
+      "title": "Cells maintain an electrical difference.",
+      "points": [
+        "Neuron: a cell specialized for neural signalling",
+        "Membrane potential: voltage difference across a cell membrane",
+        "Ion channel: a membrane pathway for specific ions"
+      ],
+      "text": "Ion channel: a membrane pathway for specific ions.\n\nNeurons maintain differences in charged particles across a membrane. Inputs can change the membrane potential. Dendrites and the cell body receive many inputs, while an axon can carry a propagated signal.\n\nThese are useful functional distinctions, with variation across neuron types. A single neuron is not a miniature thinking person.",
+      "stage": "Explanation",
+      "visual": "c02s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Explain an action potential and distinguish electrical propagation from synaptic transmission."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Cellular physiology supports detailed mechanisms of signalling, while links from those mechanisms to complex behaviour require additional levels of evidence.\n\nElectrical and chemical descriptions are complementary. Neither identifies a personality trait or emotion from one cell."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. The diagram simplifies a diverse class of cells."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Cells of the nervous system",
+            "url": "https://openstax.org/books/psychology-2e/pages/3-2-cells-of-the-nervous-system",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Parts of the nervous system",
+            "url": "https://openstax.org/books/psychology-2e/pages/3-3-parts-of-the-nervous-system",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c02s03b",
+      "kind": "concept",
+      "title": "An action potential regenerates.",
+      "points": [
+        "Action potential: a brief propagated membrane-voltage change",
+        "Threshold: condition required to initiate a spike",
+        "Refractory period: interval limiting immediate refiring"
+      ],
+      "text": "Action potential: a brief propagated membrane-voltage change. Refractory period: interval limiting immediate refiring.\n\nWhen conditions reach threshold, voltage-sensitive channels support a rapid change in membrane potential. The process regenerates along the axon.\n\nIndividual spikes are broadly all-or-none. Information can depend on timing, firing rates and population patterns rather than a bigger spike meaning a stronger thought.",
+      "stage": "Explanation",
+      "visual": "c02s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Explain an action potential and distinguish electrical propagation from synaptic transmission."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Cellular physiology supports detailed mechanisms of signalling, while links from those mechanisms to complex behaviour require additional levels of evidence.\n\nElectrical and chemical descriptions are complementary. Neither identifies a personality trait or emotion from one cell."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A simplified action-potential sequence is not a psychological codebook."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Cells of the nervous system",
+            "url": "https://openstax.org/books/psychology-2e/pages/3-2-cells-of-the-nervous-system",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Parts of the nervous system",
+            "url": "https://openstax.org/books/psychology-2e/pages/3-3-parts-of-the-nervous-system",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c02s04",
+      "kind": "concept",
+      "title": "The connection changes the next cell.",
+      "points": [
+        "Synapse: a junction for signalling between cells",
+        "Neurotransmitter: chemical messenger released at a synapse",
+        "Receptor: molecular target responsive to a messenger"
+      ],
+      "text": "Synapse: a junction for signalling between cells. Neurotransmitter: chemical messenger released at a synapse. Receptor: molecular target responsive to a messenger.\n\nAt many synapses, an arriving signal triggers chemical release. A transmitter binds receptors that affect the receiving cell. Other synapses transmit electrically.\n\nThe effect depends on receptors, cell state and circuitry. A transmitter is not inherently a single emotion, and more of it does not imply more happiness.",
+      "stage": "Explanation",
+      "visual": "c02s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Explain an action potential and distinguish electrical propagation from synaptic transmission."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Cellular physiology supports detailed mechanisms of signalling, while links from those mechanisms to complex behaviour require additional levels of evidence.\n\nElectrical and chemical descriptions are complementary. Neither identifies a personality trait or emotion from one cell."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Receptor and circuit context determine the effect."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Cells of the nervous system",
+            "url": "https://openstax.org/books/psychology-2e/pages/3-2-cells-of-the-nervous-system",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Parts of the nervous system",
+            "url": "https://openstax.org/books/psychology-2e/pages/3-3-parts-of-the-nervous-system",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c02s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Cellular physiology supports detailed mechanisms of signalling, while links from those mechanisms to complex behaviour require additional levels of evidence.\n\nElectrical and chemical descriptions are complementary. Neither identifies a personality trait or emotion from one cell.",
+      "stage": "Evidence check",
+      "visual": "c02s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Explain an action potential and distinguish electrical propagation from synaptic transmission."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Cellular physiology supports detailed mechanisms of signalling, while links from those mechanisms to complex behaviour require additional levels of evidence.\n\nElectrical and chemical descriptions are complementary. Neither identifies a personality trait or emotion from one cell."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. The two mechanisms are connected but distinct."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Cells of the nervous system",
+            "url": "https://openstax.org/books/psychology-2e/pages/3-2-cells-of-the-nervous-system",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Parts of the nervous system",
+            "url": "https://openstax.org/books/psychology-2e/pages/3-3-parts-of-the-nervous-system",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    }
+  ],
+  "3": [
+    {
+      "id": "c03s03",
+      "kind": "concept",
+      "title": "Anatomy gives landmarks, not isolated minds.",
+      "points": [
+        "Cerebral cortex: outer neural tissue of the cerebrum",
+        "Subcortical structure: structure beneath the cortex",
+        "Network: interacting set of connected regions"
+      ],
+      "text": "Cerebral cortex: outer neural tissue of the cerebrum. Subcortical structure: structure beneath the cortex. Network: interacting set of connected regions.\n\nBrain regions have different connections and contributions. Cortical and subcortical systems interact in perception, memory and action.\n\nA task can involve several networks, and a region can contribute to several tasks. A labelled anatomical map is a starting point for understanding these interactions.",
+      "stage": "Explanation",
+      "visual": "c03s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Explain a brain function using interacting networks rather than a single-region personality label."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Neuroscience combines anatomy, task measures and interventions to examine functional organization. Region labels alone cannot establish a psychological explanation.\n\nThe café repair is not a localization experiment. Brain-based personality quizzes need independent validation rather than anatomical metaphors."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. The functions interact across connected systems."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: The brain and spinal cord",
+            "url": "https://openstax.org/books/psychology-2e/pages/3-4-the-brain-and-spinal-cord",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "POLDRACK (2006): Can cognitive processes be inferred from neuroimaging data?",
+            "url": "https://doi.org/10.1016/j.tics.2005.12.004",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c03s03b",
+      "kind": "concept",
+      "title": "Lateralization is not a personality test.",
+      "points": [
+        "Lateralization: unequal contribution across hemispheres",
+        "Corpus callosum: major connection between the hemispheres",
+        "Functional specialization: relative contribution to a function"
+      ],
+      "text": "Lateralization: unequal contribution across hemispheres. Corpus callosum: major connection between the hemispheres. Functional specialization: relative contribution to a function.\n\nSome functions show hemispheric asymmetries. Many aspects of language are often left-lateralized, but variation and bilateral contributions matter.\n\nBoth hemispheres participate in complex reasoning and creative activity. Classifying a person as left-brained or right-brained is not supported by this anatomical distinction.",
+      "stage": "Explanation",
+      "visual": "c03s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Explain a brain function using interacting networks rather than a single-region personality label."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Neuroscience combines anatomy, task measures and interventions to examine functional organization. Region labels alone cannot establish a psychological explanation.\n\nThe café repair is not a localization experiment. Brain-based personality quizzes need independent validation rather than anatomical metaphors."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Hemispheric specialization does not divide people into thinking types."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: The brain and spinal cord",
+            "url": "https://openstax.org/books/psychology-2e/pages/3-4-the-brain-and-spinal-cord",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "POLDRACK (2006): Can cognitive processes be inferred from neuroimaging data?",
+            "url": "https://doi.org/10.1016/j.tics.2005.12.004",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c03s04",
+      "kind": "concept",
+      "title": "Damage affects connected systems.",
+      "points": [
+        "Plasticity: experience-related change in a biological system",
+        "Distributed processing: a function depends on interacting components",
+        "Compensation: another route helps maintain performance"
+      ],
+      "text": "Plasticity: experience-related change in a biological system. Distributed processing: a function depends on interacting components. Compensation: another route helps maintain performance.\n\nA lesion can disrupt local tissue and its connections. Changes in performance help investigate a system, but task demands and the extent of damage matter.\n\nRecovery can involve practice, support and reorganization. It is not evidence that all regions are interchangeable or that every injury has the same prognosis.",
+      "stage": "Explanation",
+      "visual": "c03s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Explain a brain function using interacting networks rather than a single-region personality label."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Neuroscience combines anatomy, task measures and interventions to examine functional organization. Region labels alone cannot establish a psychological explanation.\n\nThe café repair is not a localization experiment. Brain-based personality quizzes need independent validation rather than anatomical metaphors."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A lesion supports a bounded system-level inference."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: The brain and spinal cord",
+            "url": "https://openstax.org/books/psychology-2e/pages/3-4-the-brain-and-spinal-cord",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "POLDRACK (2006): Can cognitive processes be inferred from neuroimaging data?",
+            "url": "https://doi.org/10.1016/j.tics.2005.12.004",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c03s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Neuroscience combines anatomy, task measures and interventions to examine functional organization. Region labels alone cannot establish a psychological explanation.\n\nThe café repair is not a localization experiment. Brain-based personality quizzes need independent validation rather than anatomical metaphors.",
+      "stage": "Evidence check",
+      "visual": "c03s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Explain a brain function using interacting networks rather than a single-region personality label."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Neuroscience combines anatomy, task measures and interventions to examine functional organization. Region labels alone cannot establish a psychological explanation.\n\nThe café repair is not a localization experiment. Brain-based personality quizzes need independent validation rather than anatomical metaphors."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Brain organization includes specialization and interaction."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: The brain and spinal cord",
+            "url": "https://openstax.org/books/psychology-2e/pages/3-4-the-brain-and-spinal-cord",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "POLDRACK (2006): Can cognitive processes be inferred from neuroimaging data?",
+            "url": "https://doi.org/10.1016/j.tics.2005.12.004",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    }
+  ],
+  "4": [
+    {
+      "id": "c04s03",
+      "kind": "concept",
+      "title": "Energy must become a neural signal.",
+      "points": [
+        "Sensory transduction: conversion of stimulation into cellular signalling",
+        "Sensory receptor: cell or ending responsive to stimulation",
+        "Stimulus: a physical event capable of detection"
+      ],
+      "text": "Sensory transduction: conversion of stimulation into cellular signalling. Sensory receptor: cell or ending responsive to stimulation.\n\nSound pressure, light and other physical events interact with specialized receptors. Transduction turns these interactions into biological signals.\n\nDetection depends on the stimulus, receptor system and conditions. The physical presence of a sound does not guarantee that a listener received a usable message.",
+      "stage": "Explanation",
+      "visual": "c04s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish physical stimulation, transduction and perceptual interpretation."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Sensory physiology identifies transduction and pathways; perceptual research investigates how information is selected and interpreted. A demonstration does not diagnose an individual sensory condition.\n\nThresholds depend on measurement procedures and response criteria. Persistent sensory concerns warrant suitable professional assessment."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Receiving a physical stimulus differs from understanding a message."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Sensation versus perception",
+            "url": "https://openstax.org/books/psychology-2e/pages/5-1-sensation-versus-perception",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Hearing",
+            "url": "https://openstax.org/books/psychology-2e/pages/5-4-hearing",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c04s03b",
+      "kind": "concept",
+      "title": "Sensory systems adapt.",
+      "points": [
+        "Sensory adaptation: changed responsiveness during sustained stimulation",
+        "Absolute threshold: stimulus level detected under defined conditions",
+        "Difference threshold: change detectable under defined conditions"
+      ],
+      "text": "Sensory adaptation: changed responsiveness during sustained stimulation. Absolute threshold: stimulus level detected under defined conditions. Difference threshold: change detectable under defined conditions.\n\nResponsiveness can change with ongoing stimulation. Detection thresholds are measured probabilistically under specified conditions, not as an unchanging line for every person.\n\nNoise, fatigue, attention and sensory access affect performance. Compare the actual listening conditions before assigning a psychological motive to a missed message.",
+      "stage": "Explanation",
+      "visual": "c04s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish physical stimulation, transduction and perceptual interpretation."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Sensory physiology identifies transduction and pathways; perceptual research investigates how information is selected and interpreted. A demonstration does not diagnose an individual sensory condition.\n\nThresholds depend on measurement procedures and response criteria. Persistent sensory concerns warrant suitable professional assessment."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. The example illustrates a change in task conditions, not measured hearing thresholds."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Sensation versus perception",
+            "url": "https://openstax.org/books/psychology-2e/pages/5-1-sensation-versus-perception",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Hearing",
+            "url": "https://openstax.org/books/psychology-2e/pages/5-4-hearing",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c04s04",
+      "kind": "concept",
+      "title": "Perception uses more than receptors.",
+      "points": [
+        "Perception: organization and interpretation of sensory information",
+        "Multisensory integration: combining information across senses",
+        "Top-down influence: effects of knowledge or expectation on processing"
+      ],
+      "text": "Perception: organization and interpretation of sensory information. Multisensory integration: combining information across senses. Top-down influence: effects of knowledge or expectation on processing.\n\nA visible speaker, clear context or written message can improve interpretation. Expectations can also favour a mistaken reading of an ambiguous signal.\n\nBiological pathways and cognitive interpretation work together. Provide accessible information and check understanding instead of assuming that a loud enough signal solves every difficulty.",
+      "stage": "Explanation",
+      "visual": "c04s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish physical stimulation, transduction and perceptual interpretation."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Sensory physiology identifies transduction and pathways; perceptual research investigates how information is selected and interpreted. A demonstration does not diagnose an individual sensory condition.\n\nThresholds depend on measurement procedures and response criteria. Persistent sensory concerns warrant suitable professional assessment."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Communication needs usable information rather than assumed reception."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Sensation versus perception",
+            "url": "https://openstax.org/books/psychology-2e/pages/5-1-sensation-versus-perception",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Hearing",
+            "url": "https://openstax.org/books/psychology-2e/pages/5-4-hearing",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c04s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Sensory physiology identifies transduction and pathways; perceptual research investigates how information is selected and interpreted. A demonstration does not diagnose an individual sensory condition.\n\nThresholds depend on measurement procedures and response criteria. Persistent sensory concerns warrant suitable professional assessment.",
+      "stage": "Evidence check",
+      "visual": "c04s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish physical stimulation, transduction and perceptual interpretation."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Sensory physiology identifies transduction and pathways; perceptual research investigates how information is selected and interpreted. A demonstration does not diagnose an individual sensory condition.\n\nThresholds depend on measurement procedures and response criteria. Persistent sensory concerns warrant suitable professional assessment."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. An everyday miss does not uniquely identify which level contributed."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Sensation versus perception",
+            "url": "https://openstax.org/books/psychology-2e/pages/5-1-sensation-versus-perception",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Hearing",
+            "url": "https://openstax.org/books/psychology-2e/pages/5-4-hearing",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    }
+  ],
+  "5": [
+    {
+      "id": "c05s03",
+      "kind": "concept",
+      "title": "Regulation involves connected systems.",
+      "points": [
+        "Autonomic nervous system: regulation of many internal bodily functions",
+        "Sympathetic division: supports mobilization in many conditions",
+        "Parasympathetic division: supports regulation including recovery and digestion"
+      ],
+      "text": "Autonomic nervous system: regulation of many internal bodily functions. Sympathetic division: supports mobilization in many conditions. Parasympathetic division: supports regulation including recovery and digestion.\n\nAutonomic pathways help regulate cardiovascular, digestive and other functions. Their effects are organ-specific and coordinated with central processes.\n\nThe common mobilize-and-recover description is useful but simplified. The divisions are not two personality types or exact opposites in every organ and situation.",
+      "stage": "Explanation",
+      "visual": "c05s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Explain autonomic and hormonal responses without treating one physiological signal as a unique emotion."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Autonomic and endocrine measures help investigate regulation when sampling, context and suitable comparisons are specified. Individual signals usually lack psychological specificity.\n\nA course explanation cannot diagnose a symptom or justify changing medication."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Autonomic divisions interact rather than operate as a single on/off switch."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Parts of the nervous system",
+            "url": "https://openstax.org/books/psychology-2e/pages/3-3-parts-of-the-nervous-system",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "OpenStax Psychology 2e: The endocrine system",
+            "url": "https://openstax.org/books/psychology-2e/pages/3-5-the-endocrine-system",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c05s03b",
+      "kind": "concept",
+      "title": "Hormones signal through receptors.",
+      "points": [
+        "Hormone: chemical messenger released into circulation",
+        "Endocrine system: glands and signals regulating bodily functions",
+        "Feedback loop: system output influences subsequent regulation"
+      ],
+      "text": "Endocrine system: glands and signals regulating bodily functions. Feedback loop: system output influences subsequent regulation.\n\nHormones reach target tissues through circulation. Effects depend on receptors, timing and the state of the system. Feedback helps regulate activity over time.\n\nA single hormone measurement can vary with time of day and sampling conditions. It is not a direct scale of personality, stress damage or moral character.",
+      "stage": "Explanation",
+      "visual": "c05s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Explain autonomic and hormonal responses without treating one physiological signal as a unique emotion."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Autonomic and endocrine measures help investigate regulation when sampling, context and suitable comparisons are specified. Individual signals usually lack psychological specificity.\n\nA course explanation cannot diagnose a symptom or justify changing medication."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. The same circulating signal can have different tissue-specific effects."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Parts of the nervous system",
+            "url": "https://openstax.org/books/psychology-2e/pages/3-3-parts-of-the-nervous-system",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "OpenStax Psychology 2e: The endocrine system",
+            "url": "https://openstax.org/books/psychology-2e/pages/3-5-the-endocrine-system",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c05s04",
+      "kind": "concept",
+      "title": "Arousal does not name the feeling.",
+      "points": [
+        "Physiological arousal: change in bodily activation",
+        "Interoception: sensing internal bodily states",
+        "Appraisal: evaluation of a situation’s significance"
+      ],
+      "text": "Physiological arousal: change in bodily activation. Interoception: sensing internal bodily states. Appraisal: evaluation of a situation’s significance.\n\nA fast heartbeat can accompany exertion, excitement, fear or other conditions. Interpretation also uses the situation, expectations and subjective experience.\n\nDo not infer another person’s emotion from one bodily cue. Ask what they report and consider other explanations; persistent or concerning symptoms need appropriate medical advice.",
+      "stage": "Explanation",
+      "visual": "c05s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Explain autonomic and hormonal responses without treating one physiological signal as a unique emotion."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Autonomic and endocrine measures help investigate regulation when sampling, context and suitable comparisons are specified. Individual signals usually lack psychological specificity.\n\nA course explanation cannot diagnose a symptom or justify changing medication."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A physiological cue does not uniquely identify an emotion."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Parts of the nervous system",
+            "url": "https://openstax.org/books/psychology-2e/pages/3-3-parts-of-the-nervous-system",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "OpenStax Psychology 2e: The endocrine system",
+            "url": "https://openstax.org/books/psychology-2e/pages/3-5-the-endocrine-system",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c05s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Autonomic and endocrine measures help investigate regulation when sampling, context and suitable comparisons are specified. Individual signals usually lack psychological specificity.\n\nA course explanation cannot diagnose a symptom or justify changing medication.",
+      "stage": "Evidence check",
+      "visual": "c05s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Explain autonomic and hormonal responses without treating one physiological signal as a unique emotion."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Autonomic and endocrine measures help investigate regulation when sampling, context and suitable comparisons are specified. Individual signals usually lack psychological specificity.\n\nA course explanation cannot diagnose a symptom or justify changing medication."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A physiological signal needs a bounded interpretation."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Parts of the nervous system",
+            "url": "https://openstax.org/books/psychology-2e/pages/3-3-parts-of-the-nervous-system",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "OpenStax Psychology 2e: The endocrine system",
+            "url": "https://openstax.org/books/psychology-2e/pages/3-5-the-endocrine-system",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    }
+  ],
+  "6": [
+    {
+      "id": "c06s03",
+      "kind": "concept",
+      "title": "Acute responses can support action.",
+      "points": [
+        "Stressor: a demand or threat capable of eliciting a response",
+        "Stress response: coordinated response to a perceived demand",
+        "Acute stress: a response over a relatively short period"
+      ],
+      "text": "Stressor: a demand or threat capable of eliciting a response. Stress response: coordinated response to a perceived demand. Acute stress: a response over a relatively short period.\n\nStress responses can mobilize attention and resources for immediate demands. Whether a response helps depends on the task, its intensity and the available resources.\n\nA useful short-term response is not evidence that prolonged strain is harmless. Likewise, a long-term risk association does not mean every alarm response causes damage.",
+      "stage": "Explanation",
+      "visual": "c06s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Differentiate an acute adaptive response from claims about chronic stress and allostatic load."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Allostatic-load measures are composites, and studies differ in which indicators they include. Longitudinal associations do not turn one cortisol result into proof of damage.\n\nPersistent distress or physical concerns need appropriate care. The course does not prescribe a biological treatment."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Timing and context qualify claims about stress."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: What is stress",
+            "url": "https://openstax.org/books/psychology-2e/pages/14-1-what-is-stress",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "McEwen (1998): Protective and Damaging Effects of Stress Mediators",
+            "url": "https://doi.org/10.1056/NEJM199801153380307",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c06s03b",
+      "kind": "concept",
+      "title": "Regulation has more than one pathway.",
+      "points": [
+        "Hypothalamic–pituitary–adrenal axis: linked hormonal stress-regulation pathway",
+        "Cortisol: a glucocorticoid involved in regulation",
+        "Allostasis: stability supported through changing regulation"
+      ],
+      "text": "Hypothalamic–pituitary–adrenal axis: linked hormonal stress-regulation pathway. Allostasis: stability supported through changing regulation.\n\nStress regulation involves autonomic and hormonal systems, including the hypothalamic, pituitary and adrenal pathway. Cortisol has ordinary regulatory functions as well as changing with some stressors.\n\nIts level depends on time, health and measurement conditions. A single sample cannot reveal a person’s complete stress history.",
+      "stage": "Explanation",
+      "visual": "c06s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Differentiate an acute adaptive response from claims about chronic stress and allostatic load."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Allostatic-load measures are composites, and studies differ in which indicators they include. Longitudinal associations do not turn one cortisol result into proof of damage.\n\nPersistent distress or physical concerns need appropriate care. The course does not prescribe a biological treatment."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. This pathway is one component of a broader stress response."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: What is stress",
+            "url": "https://openstax.org/books/psychology-2e/pages/14-1-what-is-stress",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "McEwen (1998): Protective and Damaging Effects of Stress Mediators",
+            "url": "https://doi.org/10.1056/NEJM199801153380307",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c06s04",
+      "kind": "concept",
+      "title": "Repeated strain has social conditions.",
+      "points": [
+        "Allostatic load: cumulative burden associated with repeated adaptation",
+        "Recovery: return or adjustment following demands",
+        "Confounding: other factors contributing to an association"
+      ],
+      "text": "Allostatic load: cumulative burden associated with repeated adaptation. Recovery: return or adjustment following demands. Confounding: other factors contributing to an association.\n\nResearch relates prolonged adversity and physiological regulation to health, using multiple measures and long timescales. Causal interpretation must consider health, resources and other exposures.\n\nWorkload, safety and material support matter. An individual relaxation exercise is not an adequate answer to every structural stressor.",
+      "stage": "Explanation",
+      "visual": "c06s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Differentiate an acute adaptive response from claims about chronic stress and allostatic load."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Allostatic-load measures are composites, and studies differ in which indicators they include. Longitudinal associations do not turn one cortisol result into proof of damage.\n\nPersistent distress or physical concerns need appropriate care. The course does not prescribe a biological treatment."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Stress is shaped by conditions as well as individual responses."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: What is stress",
+            "url": "https://openstax.org/books/psychology-2e/pages/14-1-what-is-stress",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "McEwen (1998): Protective and Damaging Effects of Stress Mediators",
+            "url": "https://doi.org/10.1056/NEJM199801153380307",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c06s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Allostatic-load measures are composites, and studies differ in which indicators they include. Longitudinal associations do not turn one cortisol result into proof of damage.\n\nPersistent distress or physical concerns need appropriate care. The course does not prescribe a biological treatment.",
+      "stage": "Evidence check",
+      "visual": "c06s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Differentiate an acute adaptive response from claims about chronic stress and allostatic load."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Allostatic-load measures are composites, and studies differ in which indicators they include. Longitudinal associations do not turn one cortisol result into proof of damage.\n\nPersistent distress or physical concerns need appropriate care. The course does not prescribe a biological treatment."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A stress explanation needs timescale, context and appropriate measures."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: What is stress",
+            "url": "https://openstax.org/books/psychology-2e/pages/14-1-what-is-stress",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "McEwen (1998): Protective and Damaging Effects of Stress Mediators",
+            "url": "https://doi.org/10.1056/NEJM199801153380307",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    }
+  ],
+  "7": [
+    {
+      "id": "c07s03",
+      "kind": "concept",
+      "title": "Two processes shape sleep timing.",
+      "points": [
+        "Circadian rhythm: approximately daily biological cycle",
+        "Sleep pressure: need for sleep increasing with sustained wakefulness",
+        "Entrainment: alignment of a rhythm to external timing cues"
+      ],
+      "text": "Circadian rhythm: approximately daily biological cycle. Sleep pressure: need for sleep increasing with sustained wakefulness. Entrainment: alignment of a rhythm to external timing cues.\n\nSleep timing reflects both accumulated wakefulness and circadian regulation. Light is an important timing cue, alongside behaviour and social schedules.\n\nFeeling alert does not necessarily mean a person is fully rested. Shift schedules can place biological timing and required activity in conflict.",
+      "stage": "Explanation",
+      "visual": "c07s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish circadian timing, sleep pressure and sleep stages in a practical sleep claim."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Sleep findings depend on duration, timing, task and measurement. Laboratory deprivation studies inform specific outcomes without establishing every real-world effect.\n\nSleep needs and clinical problems vary. The course provides concepts rather than individualized sleep treatment."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. The processes interact; this is a conceptual model, not a personal sleep score."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Sleep and why we sleep",
+            "url": "https://openstax.org/books/psychology-2e/pages/4-2-sleep-and-why-we-sleep",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Stages of sleep",
+            "url": "https://openstax.org/books/psychology-2e/pages/4-3-stages-of-sleep",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c07s03b",
+      "kind": "concept",
+      "title": "Sleep is not one uniform state.",
+      "points": [
+        "Non-rapid-eye-movement sleep: sleep stages without rapid eye movements",
+        "Rapid-eye-movement sleep: sleep stage with characteristic eye movements",
+        "Sleep architecture: organization of sleep stages across time"
+      ],
+      "text": "Non-rapid-eye-movement sleep: sleep stages without rapid eye movements. Rapid-eye-movement sleep: sleep stage with characteristic eye movements. Sleep architecture: organization of sleep stages across time.\n\nSleep cycles through stages identified using physiological measures. Stages differ in features such as brain activity, muscle tone and eye movements.\n\nSleep supports several functions, including aspects of memory and regulation. Dreams are not restricted to one simple function, and a stage label is not a unique psychological meaning.",
+      "stage": "Explanation",
+      "visual": "c07s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish circadian timing, sleep pressure and sleep stages in a practical sleep claim."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Sleep findings depend on duration, timing, task and measurement. Laboratory deprivation studies inform specific outcomes without establishing every real-world effect.\n\nSleep needs and clinical problems vary. The course provides concepts rather than individualized sleep treatment."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A sleep-stage estimate depends on how it is measured."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Sleep and why we sleep",
+            "url": "https://openstax.org/books/psychology-2e/pages/4-2-sleep-and-why-we-sleep",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Stages of sleep",
+            "url": "https://openstax.org/books/psychology-2e/pages/4-3-stages-of-sleep",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c07s04",
+      "kind": "concept",
+      "title": "A tracker is an estimate.",
+      "points": [
+        "Sleep opportunity: time and conditions available for sleeping",
+        "Sleep deprivation: insufficient sleep relative to need",
+        "Measurement validity: whether a measure supports its intended use"
+      ],
+      "text": "Sleep opportunity: time and conditions available for sleeping. Measurement validity: whether a measure supports its intended use.\n\nConsumer devices infer sleep from limited signals; their estimates are not equivalent to a complete clinical sleep study. Judge a device against validation for its claimed use.\n\nPersistent sleep difficulties, breathing concerns or excessive sleepiness warrant appropriate care. Do not alter medication or undertake sleep deprivation as course practice.",
+      "stage": "Explanation",
+      "visual": "c07s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish circadian timing, sleep pressure and sleep stages in a practical sleep claim."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Sleep findings depend on duration, timing, task and measurement. Laboratory deprivation studies inform specific outcomes without establishing every real-world effect.\n\nSleep needs and clinical problems vary. The course provides concepts rather than individualized sleep treatment."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A convenient estimate is not automatically a clinical assessment."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Sleep and why we sleep",
+            "url": "https://openstax.org/books/psychology-2e/pages/4-2-sleep-and-why-we-sleep",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Stages of sleep",
+            "url": "https://openstax.org/books/psychology-2e/pages/4-3-stages-of-sleep",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c07s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Sleep findings depend on duration, timing, task and measurement. Laboratory deprivation studies inform specific outcomes without establishing every real-world effect.\n\nSleep needs and clinical problems vary. The course provides concepts rather than individualized sleep treatment.",
+      "stage": "Evidence check",
+      "visual": "c07s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish circadian timing, sleep pressure and sleep stages in a practical sleep claim."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Sleep findings depend on duration, timing, task and measurement. Laboratory deprivation studies inform specific outcomes without establishing every real-world effect.\n\nSleep needs and clinical problems vary. The course provides concepts rather than individualized sleep treatment."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Sleep is shaped by interacting processes and circumstances."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Sleep and why we sleep",
+            "url": "https://openstax.org/books/psychology-2e/pages/4-2-sleep-and-why-we-sleep",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Stages of sleep",
+            "url": "https://openstax.org/books/psychology-2e/pages/4-3-stages-of-sleep",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    }
+  ],
+  "8": [
+    {
+      "id": "c08s03",
+      "kind": "concept",
+      "title": "Genes are part of a process.",
+      "points": [
+        "Gene: a DNA sequence involved in biological function",
+        "Genotype: genetic constitution at relevant sites",
+        "Phenotype: an observed characteristic"
+      ],
+      "text": "Gene: a DNA sequence involved in biological function. Genotype: genetic constitution at relevant sites.\n\nGenes contribute through biological processes in developing environments. Complex psychological traits usually involve many variants with small, context-dependent associations.\n\nA genetic association is not a single-purpose instruction for a behaviour. The phenotype depends on development, measurement and circumstances.",
+      "stage": "Explanation",
+      "visual": "c08s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Interpret heritability without treating a genetic association as individual destiny."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Genetically informative studies rely on design assumptions and measured environments. Association studies need replication and careful attention to population structure.\n\nAn introductory example cannot validate a genetic product or establish an individual prognosis."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A complex behaviour is not directly encoded as a single fixed instruction."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Human genetics",
+            "url": "https://openstax.org/books/psychology-2e/pages/3-1-human-genetics",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Polderman, Benyamin, de Leeuw (2015): Meta-analysis of the heritability of human traits based on fifty years of twin studies",
+            "url": "https://doi.org/10.1038/ng.3285",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c08s03b",
+      "kind": "concept",
+      "title": "Heritability describes variation in a population.",
+      "points": [
+        "Heritability: proportion of observed variation attributed to genetic differences under a model",
+        "Gene–environment interaction: genetic effects vary across environments",
+        "Gene–environment correlation: genetic differences associated with environmental exposure"
+      ],
+      "text": "Gene–environment interaction: genetic effects vary across environments. Gene–environment correlation: genetic differences associated with environmental exposure.\n\nHeritability concerns differences within a specified population and range of environments. It does not state what percentage of one person’s trait is genetic.\n\nA high estimate does not imply that environmental changes are ineffective. Estimates can change when conditions or measurement change.",
+      "stage": "Explanation",
+      "visual": "c08s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Interpret heritability without treating a genetic association as individual destiny."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Genetically informative studies rely on design assumptions and measured environments. Association studies need replication and careful attention to population structure.\n\nAn introductory example cannot validate a genetic product or establish an individual prognosis."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A variance estimate does not divide an individual into genetic and environmental parts."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Human genetics",
+            "url": "https://openstax.org/books/psychology-2e/pages/3-1-human-genetics",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Polderman, Benyamin, de Leeuw (2015): Meta-analysis of the heritability of human traits based on fifty years of twin studies",
+            "url": "https://doi.org/10.1038/ng.3285",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c08s04",
+      "kind": "concept",
+      "title": "Prediction and explanation differ.",
+      "points": [
+        "Polygenic score: weighted summary of many genetic associations",
+        "Population transfer: performance in a different population",
+        "Association: statistical relationship without automatic causation"
+      ],
+      "text": "Polygenic score: weighted summary of many genetic associations. Population transfer: performance in a different population. Association: statistical relationship without automatic causation.\n\nA genetic score’s predictive value depends on the outcome, sample and reference data. Performance can fall in populations unlike the study group.\n\nPrediction does not identify a modifiable mechanism or justify ranking someone’s worth. Privacy and informed consent matter for genetic information.",
+      "stage": "Explanation",
+      "visual": "c08s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Interpret heritability without treating a genetic association as individual destiny."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Genetically informative studies rely on design assumptions and measured environments. Association studies need replication and careful attention to population structure.\n\nAn introductory example cannot validate a genetic product or establish an individual prognosis."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A marketed score needs evidence for its intended practical use."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Human genetics",
+            "url": "https://openstax.org/books/psychology-2e/pages/3-1-human-genetics",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Polderman, Benyamin, de Leeuw (2015): Meta-analysis of the heritability of human traits based on fifty years of twin studies",
+            "url": "https://doi.org/10.1038/ng.3285",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c08s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Genetically informative studies rely on design assumptions and measured environments. Association studies need replication and careful attention to population structure.\n\nAn introductory example cannot validate a genetic product or establish an individual prognosis.",
+      "stage": "Evidence check",
+      "visual": "c08s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Interpret heritability without treating a genetic association as individual destiny."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Genetically informative studies rely on design assumptions and measured environments. Association studies need replication and careful attention to population structure.\n\nAn introductory example cannot validate a genetic product or establish an individual prognosis."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Genetic influence does not imply a fixed individual outcome."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Human genetics",
+            "url": "https://openstax.org/books/psychology-2e/pages/3-1-human-genetics",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Polderman, Benyamin, de Leeuw (2015): Meta-analysis of the heritability of human traits based on fifty years of twin studies",
+            "url": "https://doi.org/10.1038/ng.3285",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    }
+  ],
+  "9": [
+    {
+      "id": "c09s03",
+      "kind": "concept",
+      "title": "Plasticity is change, not a promise.",
+      "points": [
+        "Neuroplasticity: change in neural organization or function",
+        "Experience-dependent change: change associated with particular experience",
+        "Synaptic plasticity: change in the effectiveness of connections"
+      ],
+      "text": "Neuroplasticity: change in neural organization or function. Experience-dependent change: change associated with particular experience. Synaptic plasticity: change in the effectiveness of connections.\n\nNervous systems change with development, experience, injury and learning. Plasticity includes several mechanisms and timescales.\n\nCalling an activity plasticity does not tell us whether a change is beneficial or durable. The effect must be measured against a specific outcome.",
+      "stage": "Explanation",
+      "visual": "c09s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish task-specific plasticity from a claim of general brain improvement."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Plasticity research shows that neural systems can change, but evidence for a particular training product requires its own controlled studies and meaningful outcomes.\n\nChanges in an image or trained score do not automatically show durable far transfer or clinical recovery."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Change alone does not demonstrate a benefit."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: The brain and spinal cord",
+            "url": "https://openstax.org/books/psychology-2e/pages/3-4-the-brain-and-spinal-cord",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Draganski, Gaser, Busch (2004): Changes in grey matter induced by training",
+            "url": "https://doi.org/10.1038/427311a",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c09s03b",
+      "kind": "concept",
+      "title": "Practice can improve a specific task.",
+      "points": [
+        "Near transfer: benefit on a closely related task",
+        "Far transfer: benefit on a substantially different task",
+        "Active control: comparison with a credible alternative activity"
+      ],
+      "text": "Near transfer: benefit on a closely related task. Far transfer: benefit on a substantially different task. Active control: comparison with a credible alternative activity.\n\nSam may learn the regularities of familiar repairs. That is useful even if general memory does not change.\n\nTo test a broader benefit, compare suitable groups on untrained outcomes, account for expectations and assess persistence. A pre-to-post improvement without a comparison leaves practice and other explanations open.",
+      "stage": "Explanation",
+      "visual": "c09s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish task-specific plasticity from a claim of general brain improvement."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Plasticity research shows that neural systems can change, but evidence for a particular training product requires its own controlled studies and meaningful outcomes.\n\nChanges in an image or trained score do not automatically show durable far transfer or clinical recovery."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A local improvement does not establish a general cognitive upgrade."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: The brain and spinal cord",
+            "url": "https://openstax.org/books/psychology-2e/pages/3-4-the-brain-and-spinal-cord",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Draganski, Gaser, Busch (2004): Changes in grey matter induced by training",
+            "url": "https://doi.org/10.1038/427311a",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c09s04",
+      "kind": "concept",
+      "title": "Rehabilitation is individualized.",
+      "points": [
+        "Rehabilitation: support aimed at functioning after illness or injury",
+        "Functional outcome: performance relevant to daily life",
+        "Prognosis: anticipated course with uncertainty"
+      ],
+      "text": "Functional outcome: performance relevant to daily life. Prognosis: anticipated course with uncertainty.\n\nRecovery and rehabilitation depend on the injury, health, time, goals and available care. Neural changes may support recovery without restoring every previous function.\n\nDo not promise cures from a general plasticity claim. Professional plans should connect meaningful outcomes with suitable evidence and the person’s priorities.",
+      "stage": "Explanation",
+      "visual": "c09s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish task-specific plasticity from a claim of general brain improvement."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Plasticity research shows that neural systems can change, but evidence for a particular training product requires its own controlled studies and meaningful outcomes.\n\nChanges in an image or trained score do not automatically show durable far transfer or clinical recovery."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A broad brain claim is less useful than a tested functional outcome."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: The brain and spinal cord",
+            "url": "https://openstax.org/books/psychology-2e/pages/3-4-the-brain-and-spinal-cord",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Draganski, Gaser, Busch (2004): Changes in grey matter induced by training",
+            "url": "https://doi.org/10.1038/427311a",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c09s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Plasticity research shows that neural systems can change, but evidence for a particular training product requires its own controlled studies and meaningful outcomes.\n\nChanges in an image or trained score do not automatically show durable far transfer or clinical recovery.",
+      "stage": "Evidence check",
+      "visual": "c09s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish task-specific plasticity from a claim of general brain improvement."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Plasticity research shows that neural systems can change, but evidence for a particular training product requires its own controlled studies and meaningful outcomes.\n\nChanges in an image or trained score do not automatically show durable far transfer or clinical recovery."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Plasticity is a mechanism category, not a universal endorsement."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: The brain and spinal cord",
+            "url": "https://openstax.org/books/psychology-2e/pages/3-4-the-brain-and-spinal-cord",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Draganski, Gaser, Busch (2004): Changes in grey matter induced by training",
+            "url": "https://doi.org/10.1038/427311a",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    }
+  ],
+  "10": [
+    {
+      "id": "c10s03",
+      "kind": "concept",
+      "title": "Connect levels without skipping steps.",
+      "points": [
+        "Reductionism: explaining a complex phenomenon only at a narrower level",
+        "Multilevel explanation: linking relevant levels of analysis",
+        "Causal chain: specified sequence of influences"
+      ],
+      "text": "Reductionism: explaining a complex phenomenon only at a narrower level. Multilevel explanation: linking relevant levels of analysis. Causal chain: specified sequence of influences.\n\nA biological explanation can connect cells, circuits, behaviour and environment. Each link needs evidence rather than an attractive metaphor.\n\nA brain correlate does not identify the only cause, and a social context is not biologically irrelevant. Ask how the proposed levels interact in the actual task.",
+      "stage": "Explanation",
+      "visual": "c10s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Combine neural, psychological and contextual evidence in a bounded practical recommendation."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "A strong biological account uses suitable measurements, competing explanations and converging methods. Translation to individual care or products requires additional evidence.\n\nThis course is not medical training. Completing it does not establish competence to interpret scans, genetic tests or treatment choices."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A multilevel explanation tests links rather than merely listing levels."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Introduction",
+            "url": "https://openstax.org/books/psychology-2e/pages/3-introduction",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "POLDRACK (2006): Can cognitive processes be inferred from neuroimaging data?",
+            "url": "https://doi.org/10.1016/j.tics.2005.12.004",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Draganski, Gaser, Busch (2004): Changes in grey matter induced by training",
+            "url": "https://doi.org/10.1038/427311a",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c10s03b",
+      "kind": "concept",
+      "title": "Evaluate the intervention claim separately.",
+      "points": [
+        "Efficacy: effect under specified study conditions",
+        "Generalizability: applicability to other settings or populations",
+        "Adverse effect: an unwanted consequence of an intervention"
+      ],
+      "text": "Generalizability: applicability to other settings or populations. Adverse effect: an unwanted consequence of an intervention.\n\nA product can use accurate neuroscience terms while making an untested practical claim. Check the comparison group, sample, outcome, follow-up and unwanted effects.\n\nAsk whether the benefit matters in everyday life and whether the study tested the actual product. Biological plausibility is not a substitute for efficacy evidence.",
+      "stage": "Explanation",
+      "visual": "c10s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Combine neural, psychological and contextual evidence in a bounded practical recommendation."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "A strong biological account uses suitable measurements, competing explanations and converging methods. Translation to individual care or products requires additional evidence.\n\nThis course is not medical training. Completing it does not establish competence to interpret scans, genetic tests or treatment choices."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A plausible mechanism and an effective intervention are distinct claims."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Introduction",
+            "url": "https://openstax.org/books/psychology-2e/pages/3-introduction",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "POLDRACK (2006): Can cognitive processes be inferred from neuroimaging data?",
+            "url": "https://doi.org/10.1016/j.tics.2005.12.004",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Draganski, Gaser, Busch (2004): Changes in grey matter induced by training",
+            "url": "https://doi.org/10.1038/427311a",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c10s04",
+      "kind": "concept",
+      "title": "Keep choices proportionate.",
+      "points": [
+        "Informed consent: agreement based on relevant information",
+        "Biological determinism: treating biology as a fixed inevitable cause",
+        "Uncertainty: limits in what evidence establishes"
+      ],
+      "text": "Informed consent: agreement based on relevant information. Biological determinism: treating biology as a fixed inevitable cause. Uncertainty: limits in what evidence establishes.\n\nUse the evidence to ask better questions and improve accessible conditions. Avoid diagnosing, prescribing or interpreting another person’s private biological data.\n\nHealth decisions need qualified care and informed choice. If a claim exceeds the evidence, narrow it rather than replacing it with another certainty.",
+      "stage": "Explanation",
+      "visual": "c10s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Combine neural, psychological and contextual evidence in a bounded practical recommendation."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "A strong biological account uses suitable measurements, competing explanations and converging methods. Translation to individual care or products requires additional evidence.\n\nThis course is not medical training. Completing it does not establish competence to interpret scans, genetic tests or treatment choices."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Biological understanding should improve decisions without creating false certainty."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Introduction",
+            "url": "https://openstax.org/books/psychology-2e/pages/3-introduction",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "POLDRACK (2006): Can cognitive processes be inferred from neuroimaging data?",
+            "url": "https://doi.org/10.1016/j.tics.2005.12.004",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Draganski, Gaser, Busch (2004): Changes in grey matter induced by training",
+            "url": "https://doi.org/10.1038/427311a",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c10s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "A strong biological account uses suitable measurements, competing explanations and converging methods. Translation to individual care or products requires additional evidence.\n\nThis course is not medical training. Completing it does not establish competence to interpret scans, genetic tests or treatment choices.",
+      "stage": "Evidence check",
+      "visual": "c10s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Combine neural, psychological and contextual evidence in a bounded practical recommendation."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "A strong biological account uses suitable measurements, competing explanations and converging methods. Translation to individual care or products requires additional evidence.\n\nThis course is not medical training. Completing it does not establish competence to interpret scans, genetic tests or treatment choices."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Use neuroscience as evidence rather than a decorative authority."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Introduction",
+            "url": "https://openstax.org/books/psychology-2e/pages/3-introduction",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "POLDRACK (2006): Can cognitive processes be inferred from neuroimaging data?",
+            "url": "https://doi.org/10.1016/j.tics.2005.12.004",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Draganski, Gaser, Busch (2004): Changes in grey matter induced by training",
+            "url": "https://doi.org/10.1038/427311a",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    }
+  ]
+}

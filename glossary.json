@@ -1,0 +1,112 @@
+{
+  "1": {
+    "Biological psychology": "Study of biological contributions to behaviour.",
+    "Neural correlate": "Brain measure associated with a process.",
+    "Mechanism": "A process proposed to produce an effect.",
+    "Electroencephalography": "Recording electrical activity at the scalp.",
+    "Functional imaging": "Estimating activity-related physiological changes.",
+    "Lesion evidence": "Studying consequences of tissue damage.",
+    "Reverse inference": "Inferring a process from associated brain activity.",
+    "Specificity": "How uniquely a measure identifies a target.",
+    "Converging evidence": "Support across suitable methods."
+  },
+  "2": {
+    "Neuron": "A cell specialized for neural signalling.",
+    "Membrane potential": "Voltage difference across a cell membrane.",
+    "Ion channel": "A membrane pathway for specific ions.",
+    "Action potential": "A brief propagated membrane-voltage change.",
+    "Threshold": "Condition required to initiate a spike.",
+    "Refractory period": "Interval limiting immediate refiring.",
+    "Synapse": "A junction for signalling between cells.",
+    "Neurotransmitter": "Chemical messenger released at a synapse.",
+    "Receptor": "Molecular target responsive to a messenger."
+  },
+  "3": {
+    "Cerebral cortex": "Outer neural tissue of the cerebrum.",
+    "Subcortical structure": "Structure beneath the cortex.",
+    "Network": "Interacting set of connected regions.",
+    "Lateralization": "Unequal contribution across hemispheres.",
+    "Corpus callosum": "Major connection between the hemispheres.",
+    "Functional specialization": "Relative contribution to a function.",
+    "Plasticity": "Experience-related change in a biological system.",
+    "Distributed processing": "A function depends on interacting components.",
+    "Compensation": "Another route helps maintain performance."
+  },
+  "4": {
+    "Sensory transduction": "Conversion of stimulation into cellular signalling.",
+    "Sensory receptor": "Cell or ending responsive to stimulation.",
+    "Stimulus": "A physical event capable of detection.",
+    "Sensory adaptation": "Changed responsiveness during sustained stimulation.",
+    "Absolute threshold": "Stimulus level detected under defined conditions.",
+    "Difference threshold": "Change detectable under defined conditions.",
+    "Perception": "Organization and interpretation of sensory information.",
+    "Multisensory integration": "Combining information across senses.",
+    "Top-down influence": "Effects of knowledge or expectation on processing."
+  },
+  "5": {
+    "Autonomic nervous system": "Regulation of many internal bodily functions.",
+    "Sympathetic division": "Supports mobilization in many conditions.",
+    "Parasympathetic division": "Supports regulation including recovery and digestion.",
+    "Hormone": "Chemical messenger released into circulation.",
+    "Endocrine system": "Glands and signals regulating bodily functions.",
+    "Feedback loop": "System output influences subsequent regulation.",
+    "Physiological arousal": "Change in bodily activation.",
+    "Interoception": "Sensing internal bodily states.",
+    "Appraisal": "Evaluation of a situation’s significance."
+  },
+  "6": {
+    "Stressor": "A demand or threat capable of eliciting a response.",
+    "Stress response": "Coordinated response to a perceived demand.",
+    "Acute stress": "A response over a relatively short period.",
+    "Hypothalamic–pituitary–adrenal axis": "Linked hormonal stress-regulation pathway.",
+    "Cortisol": "A glucocorticoid involved in regulation.",
+    "Allostasis": "Stability supported through changing regulation.",
+    "Allostatic load": "Cumulative burden associated with repeated adaptation.",
+    "Recovery": "Return or adjustment following demands.",
+    "Confounding": "Other factors contributing to an association."
+  },
+  "7": {
+    "Circadian rhythm": "Approximately daily biological cycle.",
+    "Sleep pressure": "Need for sleep increasing with sustained wakefulness.",
+    "Entrainment": "Alignment of a rhythm to external timing cues.",
+    "Non-rapid-eye-movement sleep": "Sleep stages without rapid eye movements.",
+    "Rapid-eye-movement sleep": "Sleep stage with characteristic eye movements.",
+    "Sleep architecture": "Organization of sleep stages across time.",
+    "Sleep opportunity": "Time and conditions available for sleeping.",
+    "Sleep deprivation": "Insufficient sleep relative to need.",
+    "Measurement validity": "Whether a measure supports its intended use."
+  },
+  "8": {
+    "Gene": "A DNA sequence involved in biological function.",
+    "Genotype": "Genetic constitution at relevant sites.",
+    "Phenotype": "An observed characteristic.",
+    "Heritability": "Proportion of observed variation attributed to genetic differences under a model.",
+    "Gene–environment interaction": "Genetic effects vary across environments.",
+    "Gene–environment correlation": "Genetic differences associated with environmental exposure.",
+    "Polygenic score": "Weighted summary of many genetic associations.",
+    "Population transfer": "Performance in a different population.",
+    "Association": "Statistical relationship without automatic causation."
+  },
+  "9": {
+    "Neuroplasticity": "Change in neural organization or function.",
+    "Experience-dependent change": "Change associated with particular experience.",
+    "Synaptic plasticity": "Change in the effectiveness of connections.",
+    "Near transfer": "Benefit on a closely related task.",
+    "Far transfer": "Benefit on a substantially different task.",
+    "Active control": "Comparison with a credible alternative activity.",
+    "Rehabilitation": "Support aimed at functioning after illness or injury.",
+    "Functional outcome": "Performance relevant to daily life.",
+    "Prognosis": "Anticipated course with uncertainty."
+  },
+  "10": {
+    "Reductionism": "Explaining a complex phenomenon only at a narrower level.",
+    "Multilevel explanation": "Linking relevant levels of analysis.",
+    "Causal chain": "Specified sequence of influences.",
+    "Efficacy": "Effect under specified study conditions.",
+    "Generalizability": "Applicability to other settings or populations.",
+    "Adverse effect": "An unwanted consequence of an intervention.",
+    "Informed consent": "Agreement based on relevant information.",
+    "Biological determinism": "Treating biology as a fixed inevitable cause.",
+    "Uncertainty": "Limits in what evidence establishes."
+  }
+}

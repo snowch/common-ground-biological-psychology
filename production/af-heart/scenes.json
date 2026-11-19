@@ -1,0 +1,962 @@
+[
+  {
+    "id": "c01s01",
+    "step": "Chapter 1: A brain explanation needs a comparison",
+    "text": "A café visitor shows a colourful brain image and says one bright area proves that Sam felt afraid. Maya asks how the image was collected and what other processes can activate the same area.",
+    "say": "A café visitor shows a colourful brain image and says one bright area proves that Sam felt afraid. [Maya](/mˈaɪə/) asks how the image was collected and what other processes can activate the same area."
+  },
+  {
+    "id": "c01s02",
+    "step": "Chapter 1: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat is missing from the fear claim?\n\nA. Evidence that the signal uniquely supports fear over alternatives.\n\nB. A brighter colour scale for the same image.\n\nC. A confident statement from the visitor.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What is missing from the fear claim? [pause 0.65] A. Evidence that the signal uniquely supports fear over alternatives. [pause 0.65] B. A brighter colour scale for the same image. [pause 0.65] C. A confident statement from the visitor. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c01s02-feedback-0",
+    "step": "Chapter 1: feedback 1",
+    "text": "Specificity and comparison conditions are needed for that inference.",
+    "say": "Specificity and comparison conditions are needed for that inference."
+  },
+  {
+    "id": "c01s02-feedback-1",
+    "step": "Chapter 1: feedback 2",
+    "text": "A colour display changes presentation rather than inference.",
+    "say": "A colour display changes presentation rather than inference."
+  },
+  {
+    "id": "c01s02-feedback-2",
+    "step": "Chapter 1: feedback 3",
+    "text": "Confidence does not add the missing evidence.",
+    "say": "Confidence does not add the missing evidence."
+  },
+  {
+    "id": "c01s03",
+    "step": "Chapter 1: Biological psychology connects levels.",
+    "text": "Biological psychology: study of biological contributions to behaviour. Neural correlate: brain measure associated with a process. Mechanism: a process proposed to produce an effect.\n\nBehaviour involves interacting biological, psychological and social processes. A biological description adds a level of explanation; it does not remove the need to understand the task.\n\nAn association between a brain signal and an event is a starting point. It does not uniquely identify what one person thought.",
+    "say": "Biological psychology: study of biological contributions to behaviour. Neural correlate: brain measure associated with a process. Mechanism: a process proposed to produce an effect. [pause 0.65] Behaviour involves interacting biological, psychological and social processes. A biological description adds a level of explanation; it does not remove the need to understand the task. [pause 0.65] An association between a brain signal and an event is a starting point. It does not uniquely identify what one person thought."
+  },
+  {
+    "id": "c01s03b",
+    "step": "Chapter 1: Methods reveal different things.",
+    "text": "Electroencephalography: recording electrical activity at the scalp. Functional imaging: estimating activity-related physiological changes. Lesion evidence: studying consequences of tissue damage.\n\nScalp electrical recordings have useful temporal resolution but limited source localization. Functional magnetic resonance imaging measures blood-oxygen-related changes rather than thoughts directly.\n\nLesions and carefully designed interventions can add causal evidence, but damage or stimulation can affect connected systems. Each method has practical and inferential limits.",
+    "say": "Electroencephalography: recording electrical activity at the scalp. Functional imaging: estimating activity-related physiological changes. Lesion evidence: studying consequences of tissue damage. [pause 0.65] Scalp electrical recordings have useful temporal resolution but limited source localization. Functional magnetic resonance imaging measures blood-oxygen-related changes rather than thoughts directly. [pause 0.65] Lesions and carefully designed interventions can add causal evidence, but damage or stimulation can affect connected systems. Each method has practical and inferential limits."
+  },
+  {
+    "id": "c01s04",
+    "step": "Chapter 1: Do not read a mind from a hotspot.",
+    "text": "Reverse inference: inferring a process from associated brain activity. Converging evidence: support across suitable methods.\n\nIf fear sometimes involves a region, activity there does not prove fear. The same region may participate in attention, learning and other tasks.\n\nA stronger account uses comparison conditions, task behaviour and information about specificity. Neural evidence should narrow alternatives rather than decorate a preferred story.",
+    "say": "Reverse inference: inferring a process from associated brain activity. Converging evidence: support across suitable methods. [pause 0.65] If fear sometimes involves a region, activity there does not prove fear. The same region may participate in attention, learning and other tasks. [pause 0.65] A stronger account uses comparison conditions, task behaviour and information about specificity. Neural evidence should narrow alternatives rather than decorate a preferred story."
+  },
+  {
+    "id": "c01s05",
+    "step": "Chapter 1: What does the evidence allow?",
+    "text": "Functional imaging findings depend on comparisons, analysis choices and samples. Reverse inference is stronger when the observed pattern is selective and the prior alternatives are considered.\n\nThe café image is fictional. It supplies no diagnostic or individual mental-state evidence.",
+    "say": "Functional imaging findings depend on comparisons, analysis choices and samples. Reverse inference is stronger when the observed pattern is selective and the prior alternatives are considered. [pause 0.65] The café image is fictional. It supplies no diagnostic or individual mental-state evidence."
+  },
+  {
+    "id": "c01s06",
+    "step": "Chapter 1: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA scalp recording differs while participants hear frequent and unexpected sounds.\n\nWhich conclusion is best supported?\n\nA. The recording identifies the exact thought.\n\nB. The conditions differ in a measured signal; interpretation needs the task.\n\nC. Electrical activity is unrelated to mental processes.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A scalp recording differs while participants hear frequent and unexpected sounds. [pause 0.65] Which conclusion is best supported? [pause 0.65] A. The recording identifies the exact thought. [pause 0.65] B. The conditions differ in a measured signal; interpretation needs the task. [pause 0.65] C. Electrical activity is unrelated to mental processes. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c01s06-feedback-0",
+    "step": "Chapter 1: feedback 1",
+    "text": "The signal is not a unique thought label.",
+    "say": "The signal is not a unique thought label. [pause 1.0]"
+  },
+  {
+    "id": "c01s06-feedback-1",
+    "step": "Chapter 1: feedback 2",
+    "text": "This distinguishes an observation from a process inference.",
+    "say": "This distinguishes an observation from a process inference. [pause 1.0]"
+  },
+  {
+    "id": "c01s06-feedback-2",
+    "step": "Chapter 1: feedback 3",
+    "text": "The limitation does not make the measurement meaningless.",
+    "say": "The limitation does not make the measurement meaningless. [pause 1.0]"
+  },
+  {
+    "id": "c01s07",
+    "step": "Chapter 1: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhy is functional imaging indirect?\n\nWhat is reverse inference?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] Why is functional imaging indirect? [pause 0.65] What is reverse inference? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c01s07-answers",
+    "step": "Chapter 1: recall answers",
+    "text": "It measures a physiological correlate, such as blood-oxygen changes, rather than a thought itself.\n\nIt infers a psychological process from a brain pattern associated with that process.",
+    "say": "It measures a physiological correlate, such as blood-oxygen changes, rather than a thought itself. [pause 0.65] It infers a psychological process from a brain pattern associated with that process. [pause 1.0]"
+  },
+  {
+    "id": "c01s08",
+    "step": "Chapter 1: Take the idea into everyday life",
+    "text": "Inspect a public brain-image headline. Name its measure, comparison and one alternative interpretation.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Inspect a public brain-image headline. Name its measure, comparison and one alternative interpretation. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c02s01",
+    "step": "Chapter 2: A signal is a process, not a spark of personality",
+    "text": "A diagram at the café calls neurons tiny wires carrying thoughts. Sam asks what actually happens when a neural signal travels and reaches another cell.",
+    "say": "A diagram at the café calls neurons tiny wires carrying thoughts. Sam asks what actually happens when a neural signal travels and reaches another cell."
+  },
+  {
+    "id": "c02s02",
+    "step": "Chapter 2: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhich correction improves the wire metaphor?\n\nA. A neuron carries one fixed personality trait.\n\nB. All spikes have sizes proportional to happiness.\n\nC. Signals involve membrane processes and connections between cells.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] Which correction improves the wire metaphor? [pause 0.65] A. A neuron carries one fixed personality trait. [pause 0.65] B. All spikes have sizes proportional to happiness. [pause 0.65] C. Signals involve membrane processes and connections between cells. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c02s02-feedback-0",
+    "step": "Chapter 2: feedback 1",
+    "text": "Traits are not carried as individual labelled packets.",
+    "say": "Traits are not carried as individual labelled packets."
+  },
+  {
+    "id": "c02s02-feedback-1",
+    "step": "Chapter 2: feedback 2",
+    "text": "Spike amplitude is not a happiness scale.",
+    "say": "Spike amplitude is not a happiness scale."
+  },
+  {
+    "id": "c02s02-feedback-2",
+    "step": "Chapter 2: feedback 3",
+    "text": "This retains the process without treating neurons as passive wires.",
+    "say": "This retains the process without treating neurons as passive wires."
+  },
+  {
+    "id": "c02s03",
+    "step": "Chapter 2: Cells maintain an electrical difference.",
+    "text": "Ion channel: a membrane pathway for specific ions.\n\nNeurons maintain differences in charged particles across a membrane. Inputs can change the membrane potential. Dendrites and the cell body receive many inputs, while an axon can carry a propagated signal.\n\nThese are useful functional distinctions, with variation across neuron types. A single neuron is not a miniature thinking person.",
+    "say": "Ion channel: a membrane pathway for specific ions. [pause 0.65] Neurons maintain differences in charged particles across a membrane. Inputs can change the membrane potential. Dendrites and the cell body receive many inputs, while an axon can carry a propagated signal. [pause 0.65] These are useful functional distinctions, with variation across neuron types. A single neuron is not a miniature thinking person."
+  },
+  {
+    "id": "c02s03b",
+    "step": "Chapter 2: An action potential regenerates.",
+    "text": "Action potential: a brief propagated membrane-voltage change. Refractory period: interval limiting immediate refiring.\n\nWhen conditions reach threshold, voltage-sensitive channels support a rapid change in membrane potential. The process regenerates along the axon.\n\nIndividual spikes are broadly all-or-none. Information can depend on timing, firing rates and population patterns rather than a bigger spike meaning a stronger thought.",
+    "say": "Action potential: a brief propagated membrane-voltage change. Refractory period: interval limiting immediate refiring. [pause 0.65] When conditions reach threshold, voltage-sensitive channels support a rapid change in membrane potential. The process regenerates along the axon. [pause 0.65] Individual spikes are broadly all-or-none. Information can depend on timing, firing rates and population patterns rather than a bigger spike meaning a stronger thought."
+  },
+  {
+    "id": "c02s04",
+    "step": "Chapter 2: The connection changes the next cell.",
+    "text": "Synapse: a junction for signalling between cells. Neurotransmitter: chemical messenger released at a synapse. Receptor: molecular target responsive to a messenger.\n\nAt many synapses, an arriving signal triggers chemical release. A transmitter binds receptors that affect the receiving cell. Other synapses transmit electrically.\n\nThe effect depends on receptors, cell state and circuitry. A transmitter is not inherently a single emotion, and more of it does not imply more happiness.",
+    "say": "Synapse: a junction for signalling between cells. Neurotransmitter: chemical messenger released at a synapse. Receptor: molecular target responsive to a messenger. [pause 0.65] At many synapses, an arriving signal triggers chemical release. A transmitter binds receptors that affect the receiving cell. Other synapses transmit electrically. [pause 0.65] The effect depends on receptors, cell state and circuitry. A transmitter is not inherently a single emotion, and more of it does not imply more happiness."
+  },
+  {
+    "id": "c02s05",
+    "step": "Chapter 2: What does the evidence allow?",
+    "text": "Cellular physiology supports detailed mechanisms of signalling, while links from those mechanisms to complex behaviour require additional levels of evidence.\n\nElectrical and chemical descriptions are complementary. Neither identifies a personality trait or emotion from one cell.",
+    "say": "Cellular physiology supports detailed mechanisms of signalling, while links from those mechanisms to complex behaviour require additional levels of evidence. [pause 0.65] Electrical and chemical descriptions are complementary. Neither identifies a personality trait or emotion from one cell."
+  },
+  {
+    "id": "c02s06",
+    "step": "Chapter 2: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nThe same neurotransmitter is found in pathways supporting different functions.\n\nWhat should the explanation include?\n\nA. The transmitter’s receptor and circuit context.\n\nB. A fixed emotional meaning for the chemical.\n\nC. The assumption that more transmitter is better.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] The same neurotransmitter is found in pathways supporting different functions. [pause 0.65] What should the explanation include? [pause 0.65] A. The transmitter’s receptor and circuit context. [pause 0.65] B. A fixed emotional meaning for the chemical. [pause 0.65] C. The assumption that more transmitter is better. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c02s06-feedback-0",
+    "step": "Chapter 2: feedback 1",
+    "text": "The same messenger can have different effects through different targets.",
+    "say": "The same messenger can have different effects through different targets. [pause 1.0]"
+  },
+  {
+    "id": "c02s06-feedback-1",
+    "step": "Chapter 2: feedback 2",
+    "text": "That ignores receptor and network differences.",
+    "say": "That ignores receptor and network differences. [pause 1.0]"
+  },
+  {
+    "id": "c02s06-feedback-2",
+    "step": "Chapter 2: feedback 3",
+    "text": "Benefits and harms depend on system, dose and function.",
+    "say": "Benefits and harms depend on system, dose and function. [pause 1.0]"
+  },
+  {
+    "id": "c02s07",
+    "step": "Chapter 2: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhat propagates in an action potential?\n\nWhy does a transmitter need receptor context?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] What propagates in an action potential? [pause 0.65] Why does a transmitter need receptor context? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c02s07-answers",
+    "step": "Chapter 2: recall answers",
+    "text": "A regenerated change in membrane voltage, driven by ion-channel processes.\n\nIts effect depends on the receiving receptor, cell and circuit rather than the chemical name alone.",
+    "say": "A regenerated change in membrane voltage, driven by ion-channel processes. [pause 0.65] Its effect depends on the receiving receptor, cell and circuit rather than the chemical name alone. [pause 1.0]"
+  },
+  {
+    "id": "c02s08",
+    "step": "Chapter 2: Take the idea into everyday life",
+    "text": "Explain a neural signal in your own words using three stages. Identify where the wire metaphor stops being useful.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Explain a neural signal in your own words using three stages. Identify where the wire metaphor stops being useful. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c03s01",
+    "step": "Chapter 3: Networks work together",
+    "text": "Leo says the left brain does logic and the right brain does creativity. Maya asks him to explain how Sam listens, remembers instructions and repairs a radio at the same time.",
+    "say": "Leo says the left brain does logic and the right brain does creativity. [Maya](/mˈaɪə/) asks him to explain how Sam listens, remembers instructions and repairs a radio at the same time."
+  },
+  {
+    "id": "c03s02",
+    "step": "Chapter 3: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat best corrects Leo’s claim?\n\nA. Every function is equally distributed everywhere.\n\nB. Complex tasks recruit interacting systems in both hemispheres.\n\nC. Creativity is located entirely on the right.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What best corrects Leo’s claim? [pause 0.65] A. Every function is equally distributed everywhere. [pause 0.65] B. Complex tasks recruit interacting systems in both hemispheres. [pause 0.65] C. Creativity is located entirely on the right. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c03s02-feedback-0",
+    "step": "Chapter 3: feedback 1",
+    "text": "Specialization still matters; total interchangeability is another overstatement.",
+    "say": "Specialization still matters; total interchangeability is another overstatement."
+  },
+  {
+    "id": "c03s02-feedback-1",
+    "step": "Chapter 3: feedback 2",
+    "text": "This allows specialization without a one-sided personality classification.",
+    "say": "This allows specialization without a one-sided personality classification."
+  },
+  {
+    "id": "c03s02-feedback-2",
+    "step": "Chapter 3: feedback 3",
+    "text": "The task and networks are more complex than that label.",
+    "say": "The task and networks are more complex than that label."
+  },
+  {
+    "id": "c03s03",
+    "step": "Chapter 3: Anatomy gives landmarks, not isolated minds.",
+    "text": "Cerebral cortex: outer neural tissue of the cerebrum. Subcortical structure: structure beneath the cortex. Network: interacting set of connected regions.\n\nBrain regions have different connections and contributions. Cortical and subcortical systems interact in perception, memory and action.\n\nA task can involve several networks, and a region can contribute to several tasks. A labelled anatomical map is a starting point for understanding these interactions.",
+    "say": "Cerebral cortex: outer neural tissue of the cerebrum. Subcortical structure: structure beneath the cortex. Network: interacting set of connected regions. [pause 0.65] Brain regions have different connections and contributions. Cortical and subcortical systems interact in perception, memory and action. [pause 0.65] A task can involve several networks, and a region can contribute to several tasks. A labelled anatomical map is a starting point for understanding these interactions."
+  },
+  {
+    "id": "c03s03b",
+    "step": "Chapter 3: Lateralization is not a personality test.",
+    "text": "Lateralization: unequal contribution across hemispheres. Corpus callosum: major connection between the hemispheres. Functional specialization: relative contribution to a function.\n\nSome functions show hemispheric asymmetries. Many aspects of language are often left-lateralized, but variation and bilateral contributions matter.\n\nBoth hemispheres participate in complex reasoning and creative activity. Classifying a person as left-brained or right-brained is not supported by this anatomical distinction.",
+    "say": "Lateralization: unequal contribution across hemispheres. Corpus callosum: major connection between the hemispheres. Functional specialization: relative contribution to a function. [pause 0.65] Some functions show hemispheric asymmetries. Many aspects of language are often left-lateralized, but variation and bilateral contributions matter. [pause 0.65] Both hemispheres participate in complex reasoning and creative activity. Classifying a person as left-brained or right-brained is not supported by this anatomical distinction."
+  },
+  {
+    "id": "c03s04",
+    "step": "Chapter 3: Damage affects connected systems.",
+    "text": "Plasticity: experience-related change in a biological system. Distributed processing: a function depends on interacting components. Compensation: another route helps maintain performance.\n\nA lesion can disrupt local tissue and its connections. Changes in performance help investigate a system, but task demands and the extent of damage matter.\n\nRecovery can involve practice, support and reorganization. It is not evidence that all regions are interchangeable or that every injury has the same prognosis.",
+    "say": "Plasticity: experience-related change in a biological system. Distributed processing: a function depends on interacting components. Compensation: another route helps maintain performance. [pause 0.65] A lesion can disrupt local tissue and its connections. Changes in performance help investigate a system, but task demands and the extent of damage matter. [pause 0.65] Recovery can involve practice, support and reorganization. It is not evidence that all regions are interchangeable or that every injury has the same prognosis."
+  },
+  {
+    "id": "c03s05",
+    "step": "Chapter 3: What does the evidence allow?",
+    "text": "Neuroscience combines anatomy, task measures and interventions to examine functional organization. Region labels alone cannot establish a psychological explanation.\n\nThe café repair is not a localization experiment. Brain-based personality quizzes need independent validation rather than anatomical metaphors.",
+    "say": "Neuroscience combines anatomy, task measures and interventions to examine functional organization. Region labels alone cannot establish a psychological explanation. [pause 0.65] The café repair is not a localization experiment. Brain-based personality quizzes need independent validation rather than anatomical metaphors."
+  },
+  {
+    "id": "c03s06",
+    "step": "Chapter 3: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nAfter a lesion, a person struggles with a particular task, but several connected pathways were affected.\n\nWhat inference is proportionate?\n\nA. The area is the sole store of that ability.\n\nB. No other methods are needed.\n\nC. The damaged system contributes to performance under these conditions.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] After a lesion, a person struggles with a particular task, but several connected pathways were affected. [pause 0.65] What inference is proportionate? [pause 0.65] A. The area is the sole store of that ability. [pause 0.65] B. No other methods are needed. [pause 0.65] C. The damaged system contributes to performance under these conditions. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c03s06-feedback-0",
+    "step": "Chapter 3: feedback 1",
+    "text": "The lesion can disrupt a connected system rather than one isolated store.",
+    "say": "The lesion can disrupt a connected system rather than one isolated store. [pause 1.0]"
+  },
+  {
+    "id": "c03s06-feedback-1",
+    "step": "Chapter 3: feedback 2",
+    "text": "Converging evidence helps address alternative explanations.",
+    "say": "Converging evidence helps address alternative explanations. [pause 1.0]"
+  },
+  {
+    "id": "c03s06-feedback-2",
+    "step": "Chapter 3: feedback 3",
+    "text": "This recognizes a contribution without claiming exclusive localization.",
+    "say": "This recognizes a contribution without claiming exclusive localization. [pause 1.0]"
+  },
+  {
+    "id": "c03s07",
+    "step": "Chapter 3: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhat does lateralization describe?\n\nWhy does a lesion not imply a single isolated function?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] What does lateralization describe? [pause 0.65] Why does a lesion not imply a single isolated function? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c03s07-answers",
+    "step": "Chapter 3: recall answers",
+    "text": "A relative hemispheric difference in contribution to a specified function.\n\nDamage affects connections and multiple processes needed for the task.",
+    "say": "A relative hemispheric difference in contribution to a specified function. [pause 0.65] Damage affects connections and multiple processes needed for the task. [pause 1.0]"
+  },
+  {
+    "id": "c03s08",
+    "step": "Chapter 3: Take the idea into everyday life",
+    "text": "Rewrite a left-brain/right-brain headline as a testable statement about a specified task and measure.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Rewrite a left-brain/right-brain headline as a testable statement about a specified task and measure. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c04s01",
+    "step": "Chapter 4: Sensing is active biological work",
+    "text": "Sam and Pat hear the same café announcement differently in background noise. Leo says the sound either reached both ears or it did not. Maya asks what happens between sound and understanding.",
+    "say": "Sam and Pat hear the same café announcement differently in background noise. Leo says the sound either reached both ears or it did not. [Maya](/mˈaɪə/) asks what happens between sound and understanding."
+  },
+  {
+    "id": "c04s02",
+    "step": "Chapter 4: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat is missing from Leo’s explanation?\n\nA. Transduction and processing under the actual listening conditions.\n\nB. The assumption that a missed word proves disinterest.\n\nC. A larger volume increase in every situation.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What is missing from Leo’s explanation? [pause 0.65] A. Transduction and processing under the actual listening conditions. [pause 0.65] B. The assumption that a missed word proves disinterest. [pause 0.65] C. A larger volume increase in every situation. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c04s02-feedback-0",
+    "step": "Chapter 4: feedback 1",
+    "text": "The signal must be detected and interpreted in context.",
+    "say": "The signal must be detected and interpreted in context."
+  },
+  {
+    "id": "c04s02-feedback-1",
+    "step": "Chapter 4: feedback 2",
+    "text": "That adds an unsupported motive.",
+    "say": "That adds an unsupported motive."
+  },
+  {
+    "id": "c04s02-feedback-2",
+    "step": "Chapter 4: feedback 3",
+    "text": "Volume alone does not address all noise, access or interpretation problems.",
+    "say": "Volume alone does not address all noise, access or interpretation problems."
+  },
+  {
+    "id": "c04s03",
+    "step": "Chapter 4: Energy must become a neural signal.",
+    "text": "Sensory transduction: conversion of stimulation into cellular signalling. Sensory receptor: cell or ending responsive to stimulation.\n\nSound pressure, light and other physical events interact with specialized receptors. Transduction turns these interactions into biological signals.\n\nDetection depends on the stimulus, receptor system and conditions. The physical presence of a sound does not guarantee that a listener received a usable message.",
+    "say": "Sensory transduction: conversion of stimulation into cellular signalling. Sensory receptor: cell or ending responsive to stimulation. [pause 0.65] Sound pressure, light and other physical events interact with specialized receptors. Transduction turns these interactions into biological signals. [pause 0.65] Detection depends on the stimulus, receptor system and conditions. The physical presence of a sound does not guarantee that a listener received a usable message."
+  },
+  {
+    "id": "c04s03b",
+    "step": "Chapter 4: Sensory systems adapt.",
+    "text": "Sensory adaptation: changed responsiveness during sustained stimulation. Absolute threshold: stimulus level detected under defined conditions. Difference threshold: change detectable under defined conditions.\n\nResponsiveness can change with ongoing stimulation. Detection thresholds are measured probabilistically under specified conditions, not as an unchanging line for every person.\n\nNoise, fatigue, attention and sensory access affect performance. Compare the actual listening conditions before assigning a psychological motive to a missed message.",
+    "say": "Sensory adaptation: changed responsiveness during sustained stimulation. Absolute threshold: stimulus level detected under defined conditions. Difference threshold: change detectable under defined conditions. [pause 0.65] Responsiveness can change with ongoing stimulation. Detection thresholds are measured probabilistically under specified conditions, not as an unchanging line for every person. [pause 0.65] Noise, fatigue, attention and sensory access affect performance. Compare the actual listening conditions before assigning a psychological motive to a missed message."
+  },
+  {
+    "id": "c04s04",
+    "step": "Chapter 4: Perception uses more than receptors.",
+    "text": "Perception: organization and interpretation of sensory information. Multisensory integration: combining information across senses. Top-down influence: effects of knowledge or expectation on processing.\n\nA visible speaker, clear context or written message can improve interpretation. Expectations can also favour a mistaken reading of an ambiguous signal.\n\nBiological pathways and cognitive interpretation work together. Provide accessible information and check understanding instead of assuming that a loud enough signal solves every difficulty.",
+    "say": "Perception: organization and interpretation of sensory information. Multisensory integration: combining information across senses. Top-down influence: effects of knowledge or expectation on processing. [pause 0.65] A visible speaker, clear context or written message can improve interpretation. Expectations can also favour a mistaken reading of an ambiguous signal. [pause 0.65] Biological pathways and cognitive interpretation work together. Provide accessible information and check understanding instead of assuming that a loud enough signal solves every difficulty."
+  },
+  {
+    "id": "c04s05",
+    "step": "Chapter 4: What does the evidence allow?",
+    "text": "Sensory physiology identifies transduction and pathways; perceptual research investigates how information is selected and interpreted. A demonstration does not diagnose an individual sensory condition.\n\nThresholds depend on measurement procedures and response criteria. Persistent sensory concerns warrant suitable professional assessment.",
+    "say": "Sensory physiology identifies transduction and pathways; perceptual research investigates how information is selected and interpreted. A demonstration does not diagnose an individual sensory condition. [pause 0.65] Thresholds depend on measurement procedures and response criteria. Persistent sensory concerns warrant suitable professional assessment."
+  },
+  {
+    "id": "c04s06",
+    "step": "Chapter 4: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA visitor follows instructions more accurately when a spoken announcement also appears as clear text.\n\nWhich conclusion is reasonable?\n\nA. The listener’s hearing capacity permanently improved.\n\nB. Written support made the message more accessible in this task.\n\nC. Visual information is always superior to sound.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A visitor follows instructions more accurately when a spoken announcement also appears as clear text. [pause 0.65] Which conclusion is reasonable? [pause 0.65] A. The listener’s hearing capacity permanently improved. [pause 0.65] B. Written support made the message more accessible in this task. [pause 0.65] C. Visual information is always superior to sound. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c04s06-feedback-0",
+    "step": "Chapter 4: feedback 1",
+    "text": "A task support does not establish a physiological change.",
+    "say": "A task support does not establish a physiological change. [pause 1.0]"
+  },
+  {
+    "id": "c04s06-feedback-1",
+    "step": "Chapter 4: feedback 2",
+    "text": "The claim fits the local outcome without broad overreach.",
+    "say": "The claim fits the local outcome without broad overreach. [pause 1.0]"
+  },
+  {
+    "id": "c04s06-feedback-2",
+    "step": "Chapter 4: feedback 3",
+    "text": "Accessibility depends on the person, message and context.",
+    "say": "Accessibility depends on the person, message and context. [pause 1.0]"
+  },
+  {
+    "id": "c04s07",
+    "step": "Chapter 4: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhat is transduction?\n\nWhy distinguish detection from interpretation?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] What is transduction? [pause 0.65] Why distinguish detection from interpretation? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c04s07-answers",
+    "step": "Chapter 4: recall answers",
+    "text": "Conversion of physical stimulation into biological signalling.\n\nA signal can be present or detected without its intended meaning being correctly understood.",
+    "say": "Conversion of physical stimulation into biological signalling. [pause 0.65] A signal can be present or detected without its intended meaning being correctly understood. [pause 1.0]"
+  },
+  {
+    "id": "c04s08",
+    "step": "Chapter 4: Take the idea into everyday life",
+    "text": "Inspect your own low-stakes listening environment. Identify a signal, a source of competition and an accessibility support.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Inspect your own low-stakes listening environment. Identify a signal, a source of competition and an accessibility support. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c05s01",
+    "step": "Chapter 5: The body helps organize a response",
+    "text": "Before a café presentation Sam notices a fast heartbeat. Leo calls it proof of fear. Sam says there is also excitement, and asks whether the body can distinguish the two from pulse alone.",
+    "say": "Before a café presentation Sam notices a fast heartbeat. Leo calls it proof of fear. Sam says there is also excitement, and asks whether the body can distinguish the two from pulse alone."
+  },
+  {
+    "id": "c05s02",
+    "step": "Chapter 5: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat can the pulse establish by itself?\n\nA. Sam is definitely afraid.\n\nB. A bodily rate changed; the psychological meaning needs context.\n\nC. Sam is definitely excited rather than afraid.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What can the pulse establish by itself? [pause 0.65] A. Sam is definitely afraid. [pause 0.65] B. A bodily rate changed; the psychological meaning needs context. [pause 0.65] C. Sam is definitely excited rather than afraid. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c05s02-feedback-0",
+    "step": "Chapter 5: feedback 1",
+    "text": "Fear is one possible account, not a unique reading.",
+    "say": "Fear is one possible account, not a unique reading."
+  },
+  {
+    "id": "c05s02-feedback-1",
+    "step": "Chapter 5: feedback 2",
+    "text": "This separates a measurement from the emotional interpretation.",
+    "say": "This separates a measurement from the emotional interpretation."
+  },
+  {
+    "id": "c05s02-feedback-2",
+    "step": "Chapter 5: feedback 3",
+    "text": "Excitement also cannot be uniquely inferred from pulse alone.",
+    "say": "Excitement also cannot be uniquely inferred from pulse alone."
+  },
+  {
+    "id": "c05s03",
+    "step": "Chapter 5: Regulation involves connected systems.",
+    "text": "Autonomic nervous system: regulation of many internal bodily functions. Sympathetic division: supports mobilization in many conditions. Parasympathetic division: supports regulation including recovery and digestion.\n\nAutonomic pathways help regulate cardiovascular, digestive and other functions. Their effects are organ-specific and coordinated with central processes.\n\nThe common mobilize-and-recover description is useful but simplified. The divisions are not two personality types or exact opposites in every organ and situation.",
+    "say": "Autonomic nervous system: regulation of many internal bodily functions. Sympathetic division: supports mobilization in many conditions. Parasympathetic division: supports regulation including recovery and digestion. [pause 0.65] Autonomic pathways help regulate cardiovascular, digestive and other functions. Their effects are organ-specific and coordinated with central processes. [pause 0.65] The common mobilize-and-recover description is useful but simplified. The divisions are not two personality types or exact opposites in every organ and situation."
+  },
+  {
+    "id": "c05s03b",
+    "step": "Chapter 5: Hormones signal through receptors.",
+    "text": "Endocrine system: glands and signals regulating bodily functions. Feedback loop: system output influences subsequent regulation.\n\nHormones reach target tissues through circulation. Effects depend on receptors, timing and the state of the system. Feedback helps regulate activity over time.\n\nA single hormone measurement can vary with time of day and sampling conditions. It is not a direct scale of personality, stress damage or moral character.",
+    "say": "Endocrine system: glands and signals regulating bodily functions. Feedback loop: system output influences subsequent regulation. [pause 0.65] Hormones reach target tissues through circulation. Effects depend on receptors, timing and the state of the system. Feedback helps regulate activity over time. [pause 0.65] A single hormone measurement can vary with time of day and sampling conditions. It is not a direct scale of personality, stress damage or moral character."
+  },
+  {
+    "id": "c05s04",
+    "step": "Chapter 5: Arousal does not name the feeling.",
+    "text": "Physiological arousal: change in bodily activation. Interoception: sensing internal bodily states. Appraisal: evaluation of a situation’s significance.\n\nA fast heartbeat can accompany exertion, excitement, fear or other conditions. Interpretation also uses the situation, expectations and subjective experience.\n\nDo not infer another person’s emotion from one bodily cue. Ask what they report and consider other explanations; persistent or concerning symptoms need appropriate medical advice.",
+    "say": "Physiological arousal: change in bodily activation. Interoception: sensing internal bodily states. Appraisal: evaluation of a situation’s significance. [pause 0.65] A fast heartbeat can accompany exertion, excitement, fear or other conditions. Interpretation also uses the situation, expectations and subjective experience. [pause 0.65] Do not infer another person’s emotion from one bodily cue. Ask what they report and consider other explanations; persistent or concerning symptoms need appropriate medical advice."
+  },
+  {
+    "id": "c05s05",
+    "step": "Chapter 5: What does the evidence allow?",
+    "text": "Autonomic and endocrine measures help investigate regulation when sampling, context and suitable comparisons are specified. Individual signals usually lack psychological specificity.\n\nA course explanation cannot diagnose a symptom or justify changing medication.",
+    "say": "Autonomic and endocrine measures help investigate regulation when sampling, context and suitable comparisons are specified. Individual signals usually lack psychological specificity. [pause 0.65] A course explanation cannot diagnose a symptom or justify changing medication."
+  },
+  {
+    "id": "c05s06",
+    "step": "Chapter 5: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA social-media post interprets one hormone measurement as a complete measure of chronic stress.\n\nWhat additional information matters?\n\nA. Sampling time and conditions, plus suitable clinical interpretation.\n\nB. Whether the result matches a personality stereotype.\n\nC. A single universal normal value for every circumstance.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A social-media post interprets one hormone measurement as a complete measure of chronic stress. [pause 0.65] What additional information matters? [pause 0.65] A. Sampling time and conditions, plus suitable clinical interpretation. [pause 0.65] B. Whether the result matches a personality stereotype. [pause 0.65] C. A single universal normal value for every circumstance. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c05s06-feedback-0",
+    "step": "Chapter 5: feedback 1",
+    "text": "Biological measures need context and appropriate interpretation.",
+    "say": "Biological measures need context and appropriate interpretation. [pause 1.0]"
+  },
+  {
+    "id": "c05s06-feedback-1",
+    "step": "Chapter 5: feedback 2",
+    "text": "A stereotype is not a measurement model.",
+    "say": "A stereotype is not a measurement model. [pause 1.0]"
+  },
+  {
+    "id": "c05s06-feedback-2",
+    "step": "Chapter 5: feedback 3",
+    "text": "Reference values and sampling conditions are more complex.",
+    "say": "Reference values and sampling conditions are more complex. [pause 1.0]"
+  },
+  {
+    "id": "c05s07",
+    "step": "Chapter 5: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhy does hormone action depend on receptors?\n\nWhy is arousal not an emotion label?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] Why does hormone action depend on receptors? [pause 0.65] Why is arousal not an emotion label? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c05s07-answers",
+    "step": "Chapter 5: recall answers",
+    "text": "Target tissues respond differently according to receptor and system context.\n\nSimilar bodily changes can occur in several emotions and non-emotional conditions.",
+    "say": "Target tissues respond differently according to receptor and system context. [pause 0.65] Similar bodily changes can occur in several emotions and non-emotional conditions. [pause 1.0]"
+  },
+  {
+    "id": "c05s08",
+    "step": "Chapter 5: Take the idea into everyday life",
+    "text": "For a fictional presentation scene, list one bodily observation, two possible explanations and a respectful question. Do not monitor or diagnose another person.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "For a fictional presentation scene, list one bodily observation, two possible explanations and a respectful question. Do not monitor or diagnose another person. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c06s01",
+    "step": "Chapter 6: Stress is a response in context",
+    "text": "A sudden alarm interrupts the café. Sam feels alert and reacts quickly. Later a headline says every stress response damages the brain. Maya asks whether brief mobilization and prolonged strain are the same claim.",
+    "say": "A sudden alarm interrupts the café. Sam feels alert and reacts quickly. Later a headline says every stress response damages the brain. [Maya](/mˈaɪə/) asks whether brief mobilization and prolonged strain are the same claim."
+  },
+  {
+    "id": "c06s02",
+    "step": "Chapter 6: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nHow should the headline be qualified?\n\nA. Every stress response causes the same damage.\n\nB. Acute mobilization and prolonged strain need different evidence.\n\nC. A useful alarm response proves stress has no risks.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] How should the headline be qualified? [pause 0.65] A. Every stress response causes the same damage. [pause 0.65] B. Acute mobilization and prolonged strain need different evidence. [pause 0.65] C. A useful alarm response proves stress has no risks. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c06s02-feedback-0",
+    "step": "Chapter 6: feedback 1",
+    "text": "That erases duration, dose and individual context.",
+    "say": "That erases duration, dose and individual context."
+  },
+  {
+    "id": "c06s02-feedback-1",
+    "step": "Chapter 6: feedback 2",
+    "text": "This separates a short-term function from long-term risk claims.",
+    "say": "This separates a short-term function from long-term risk claims."
+  },
+  {
+    "id": "c06s02-feedback-2",
+    "step": "Chapter 6: feedback 3",
+    "text": "Short-term usefulness does not establish long-term harmlessness.",
+    "say": "Short-term usefulness does not establish long-term harmlessness."
+  },
+  {
+    "id": "c06s03",
+    "step": "Chapter 6: Acute responses can support action.",
+    "text": "Stressor: a demand or threat capable of eliciting a response. Stress response: coordinated response to a perceived demand. Acute stress: a response over a relatively short period.\n\nStress responses can mobilize attention and resources for immediate demands. Whether a response helps depends on the task, its intensity and the available resources.\n\nA useful short-term response is not evidence that prolonged strain is harmless. Likewise, a long-term risk association does not mean every alarm response causes damage.",
+    "say": "Stressor: a demand or threat capable of eliciting a response. Stress response: coordinated response to a perceived demand. Acute stress: a response over a relatively short period. [pause 0.65] Stress responses can mobilize attention and resources for immediate demands. Whether a response helps depends on the task, its intensity and the available resources. [pause 0.65] A useful short-term response is not evidence that prolonged strain is harmless. Likewise, a long-term risk association does not mean every alarm response causes damage."
+  },
+  {
+    "id": "c06s03b",
+    "step": "Chapter 6: Regulation has more than one pathway.",
+    "text": "Hypothalamic–pituitary–adrenal axis: linked hormonal stress-regulation pathway. Allostasis: stability supported through changing regulation.\n\nStress regulation involves autonomic and hormonal systems, including the hypothalamic, pituitary and adrenal pathway. Cortisol has ordinary regulatory functions as well as changing with some stressors.\n\nIts level depends on time, health and measurement conditions. A single sample cannot reveal a person’s complete stress history.",
+    "say": "Hypothalamic–pituitary–adrenal axis: linked hormonal stress-regulation pathway. Allostasis: stability supported through changing regulation. [pause 0.65] Stress regulation involves autonomic and hormonal systems, including the hypothalamic, pituitary and adrenal pathway. Cortisol has ordinary regulatory functions as well as changing with some stressors. [pause 0.65] Its level depends on time, health and measurement conditions. A single sample cannot reveal a person’s complete stress history."
+  },
+  {
+    "id": "c06s04",
+    "step": "Chapter 6: Repeated strain has social conditions.",
+    "text": "Allostatic load: cumulative burden associated with repeated adaptation. Recovery: return or adjustment following demands. Confounding: other factors contributing to an association.\n\nResearch relates prolonged adversity and physiological regulation to health, using multiple measures and long timescales. Causal interpretation must consider health, resources and other exposures.\n\nWorkload, safety and material support matter. An individual relaxation exercise is not an adequate answer to every structural stressor.",
+    "say": "Allostatic load: cumulative burden associated with repeated adaptation. Recovery: return or adjustment following demands. Confounding: other factors contributing to an association. [pause 0.65] Research relates prolonged adversity and physiological regulation to health, using multiple measures and long timescales. Causal interpretation must consider health, resources and other exposures. [pause 0.65] Workload, safety and material support matter. An individual relaxation exercise is not an adequate answer to every structural stressor."
+  },
+  {
+    "id": "c06s05",
+    "step": "Chapter 6: What does the evidence allow?",
+    "text": "Allostatic-load measures are composites, and studies differ in which indicators they include. Longitudinal associations do not turn one cortisol result into proof of damage.\n\nPersistent distress or physical concerns need appropriate care. The course does not prescribe a biological treatment.",
+    "say": "Allostatic-load measures are composites, and studies differ in which indicators they include. Longitudinal associations do not turn one cortisol result into proof of damage. [pause 0.65] Persistent distress or physical concerns need appropriate care. The course does not prescribe a biological treatment."
+  },
+  {
+    "id": "c06s06",
+    "step": "Chapter 6: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA volunteer reports repeated overload because staffing and break arrangements have changed.\n\nWhat response fits the situation best?\n\nA. Address recurring workload and support, then evaluate outcomes.\n\nB. Assign a fixed stress personality.\n\nC. Treat one breathing exercise as sufficient evidence of recovery.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A volunteer reports repeated overload because staffing and break arrangements have changed. [pause 0.65] What response fits the situation best? [pause 0.65] A. Address recurring workload and support, then evaluate outcomes. [pause 0.65] B. Assign a fixed stress personality. [pause 0.65] C. Treat one breathing exercise as sufficient evidence of recovery. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c06s06-feedback-0",
+    "step": "Chapter 6: feedback 1",
+    "text": "The persistent demand and available resources are relevant targets.",
+    "say": "The persistent demand and available resources are relevant targets. [pause 1.0]"
+  },
+  {
+    "id": "c06s06-feedback-1",
+    "step": "Chapter 6: feedback 2",
+    "text": "A personality label does not identify the cause or needed change.",
+    "say": "A personality label does not identify the cause or needed change. [pause 1.0]"
+  },
+  {
+    "id": "c06s06-feedback-2",
+    "step": "Chapter 6: feedback 3",
+    "text": "A local exercise does not demonstrate resolution of ongoing strain.",
+    "say": "A local exercise does not demonstrate resolution of ongoing strain. [pause 1.0]"
+  },
+  {
+    "id": "c06s07",
+    "step": "Chapter 6: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhy is cortisol not simply a damage chemical?\n\nWhat is allostatic load intended to describe?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] Why is cortisol not simply a damage chemical? [pause 0.65] What is allostatic load intended to describe? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c06s07-answers",
+    "step": "Chapter 6: recall answers",
+    "text": "It has normal regulatory functions and varies with time and context.\n\nCumulative physiological burden associated with repeated adaptation, estimated using specified measures.",
+    "say": "It has normal regulatory functions and varies with time and context. [pause 0.65] Cumulative physiological burden associated with repeated adaptation, estimated using specified measures. [pause 1.0]"
+  },
+  {
+    "id": "c06s08",
+    "step": "Chapter 6: Take the idea into everyday life",
+    "text": "Use a fictional recurring workload problem. Separate demand, response, recovery opportunity and a change in the environment.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Use a fictional recurring workload problem. Separate demand, response, recovery opportunity and a change in the environment. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c07s01",
+    "step": "Chapter 7: Sleep has timing and structure",
+    "text": "Pat feels sleepy late at night after a long day. Jo, working a shifted schedule, feels alert then but sleepy in the morning. Leo says both should simply decide to sleep at the same time.",
+    "say": "Pat feels sleepy late at night after a long day. Jo, working a shifted schedule, feels alert then but sleepy in the morning. Leo says both should simply decide to sleep at the same time."
+  },
+  {
+    "id": "c07s02",
+    "step": "Chapter 7: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat is missing from Leo’s instruction?\n\nA. Circadian timing and accumulated wakefulness.\n\nB. The claim that sleep is only a choice.\n\nC. The assumption that feeling alert proves sufficient sleep.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What is missing from Leo’s instruction? [pause 0.65] A. Circadian timing and accumulated wakefulness. [pause 0.65] B. The claim that sleep is only a choice. [pause 0.65] C. The assumption that feeling alert proves sufficient sleep. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c07s02-feedback-0",
+    "step": "Chapter 7: feedback 1",
+    "text": "Both processes and the available sleep opportunity matter.",
+    "say": "Both processes and the available sleep opportunity matter."
+  },
+  {
+    "id": "c07s02-feedback-1",
+    "step": "Chapter 7: feedback 2",
+    "text": "That is the oversimplification, not the missing mechanism.",
+    "say": "That is the oversimplification, not the missing mechanism."
+  },
+  {
+    "id": "c07s02-feedback-2",
+    "step": "Chapter 7: feedback 3",
+    "text": "Subjective alertness does not uniquely establish adequate sleep.",
+    "say": "Subjective alertness does not uniquely establish adequate sleep."
+  },
+  {
+    "id": "c07s03",
+    "step": "Chapter 7: Two processes shape sleep timing.",
+    "text": "Circadian rhythm: approximately daily biological cycle. Sleep pressure: need for sleep increasing with sustained wakefulness. Entrainment: alignment of a rhythm to external timing cues.\n\nSleep timing reflects both accumulated wakefulness and circadian regulation. Light is an important timing cue, alongside behaviour and social schedules.\n\nFeeling alert does not necessarily mean a person is fully rested. Shift schedules can place biological timing and required activity in conflict.",
+    "say": "Circadian rhythm: approximately daily biological cycle. Sleep pressure: need for sleep increasing with sustained wakefulness. Entrainment: alignment of a rhythm to external timing cues. [pause 0.65] Sleep timing reflects both accumulated wakefulness and circadian regulation. Light is an important timing cue, alongside behaviour and social schedules. [pause 0.65] Feeling alert does not necessarily mean a person is fully rested. Shift schedules can place biological timing and required activity in conflict."
+  },
+  {
+    "id": "c07s03b",
+    "step": "Chapter 7: Sleep is not one uniform state.",
+    "text": "Non-rapid-eye-movement sleep: sleep stages without rapid eye movements. Rapid-eye-movement sleep: sleep stage with characteristic eye movements. Sleep architecture: organization of sleep stages across time.\n\nSleep cycles through stages identified using physiological measures. Stages differ in features such as brain activity, muscle tone and eye movements.\n\nSleep supports several functions, including aspects of memory and regulation. Dreams are not restricted to one simple function, and a stage label is not a unique psychological meaning.",
+    "say": "Non-rapid-eye-movement sleep: sleep stages without rapid eye movements. Rapid-eye-movement sleep: sleep stage with characteristic eye movements. Sleep architecture: organization of sleep stages across time. [pause 0.65] Sleep cycles through stages identified using physiological measures. Stages differ in features such as brain activity, muscle tone and eye movements. [pause 0.65] Sleep supports several functions, including aspects of memory and regulation. Dreams are not restricted to one simple function, and a stage label is not a unique psychological meaning."
+  },
+  {
+    "id": "c07s04",
+    "step": "Chapter 7: A tracker is an estimate.",
+    "text": "Sleep opportunity: time and conditions available for sleeping. Measurement validity: whether a measure supports its intended use.\n\nConsumer devices infer sleep from limited signals; their estimates are not equivalent to a complete clinical sleep study. Judge a device against validation for its claimed use.\n\nPersistent sleep difficulties, breathing concerns or excessive sleepiness warrant appropriate care. Do not alter medication or undertake sleep deprivation as course practice.",
+    "say": "Sleep opportunity: time and conditions available for sleeping. Measurement validity: whether a measure supports its intended use. [pause 0.65] Consumer devices infer sleep from limited signals; their estimates are not equivalent to a complete clinical sleep study. Judge a device against validation for its claimed use. [pause 0.65] Persistent sleep difficulties, breathing concerns or excessive sleepiness warrant appropriate care. Do not alter medication or undertake sleep deprivation as course practice."
+  },
+  {
+    "id": "c07s05",
+    "step": "Chapter 7: What does the evidence allow?",
+    "text": "Sleep findings depend on duration, timing, task and measurement. Laboratory deprivation studies inform specific outcomes without establishing every real-world effect.\n\nSleep needs and clinical problems vary. The course provides concepts rather than individualized sleep treatment.",
+    "say": "Sleep findings depend on duration, timing, task and measurement. Laboratory deprivation studies inform specific outcomes without establishing every real-world effect. [pause 0.65] Sleep needs and clinical problems vary. The course provides concepts rather than individualized sleep treatment."
+  },
+  {
+    "id": "c07s06",
+    "step": "Chapter 7: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA wrist device labels several minutes as a specific sleep stage using movement and pulse data.\n\nWhich conclusion fits the evidence?\n\nA. The device can diagnose every sleep disorder.\n\nB. The estimate needs validation for that particular use.\n\nC. Any estimate with uncertainty is useless.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A wrist device labels several minutes as a specific sleep stage using movement and pulse data. [pause 0.65] Which conclusion fits the evidence? [pause 0.65] A. The device can diagnose every sleep disorder. [pause 0.65] B. The estimate needs validation for that particular use. [pause 0.65] C. Any estimate with uncertainty is useless. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c07s06-feedback-0",
+    "step": "Chapter 7: feedback 1",
+    "text": "The available signals do not support such an unrestricted diagnostic claim.",
+    "say": "The available signals do not support such an unrestricted diagnostic claim. [pause 1.0]"
+  },
+  {
+    "id": "c07s06-feedback-1",
+    "step": "Chapter 7: feedback 2",
+    "text": "Validation should match the claimed stage or clinical inference.",
+    "say": "Validation should match the claimed stage or clinical inference. [pause 1.0]"
+  },
+  {
+    "id": "c07s06-feedback-2",
+    "step": "Chapter 7: feedback 3",
+    "text": "Estimates can be useful while retaining defined limits.",
+    "say": "Estimates can be useful while retaining defined limits. [pause 1.0]"
+  },
+  {
+    "id": "c07s07",
+    "step": "Chapter 7: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nHow do circadian timing and sleep pressure differ?\n\nWhy distinguish a tracker from clinical assessment?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] How do circadian timing and sleep pressure differ? [pause 0.65] Why distinguish a tracker from clinical assessment? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c07s07-answers",
+    "step": "Chapter 7: recall answers",
+    "text": "One modulates timing over the day; the other reflects accumulated wakefulness.\n\nSignals, validation and intended uses differ, and clinical interpretation requires more context.",
+    "say": "One modulates timing over the day; the other reflects accumulated wakefulness. [pause 0.65] Signals, validation and intended uses differ, and clinical interpretation requires more context. [pause 1.0]"
+  },
+  {
+    "id": "c07s08",
+    "step": "Chapter 7: Take the idea into everyday life",
+    "text": "Evaluate a public sleep-device claim using its measured signals and intended use. Do not change your sleep duration to run an experiment.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Evaluate a public sleep-device claim using its measured signals and intended use. Do not change your sleep duration to run an experiment. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c08s01",
+    "step": "Chapter 8: Genes act in developing systems",
+    "text": "A visitor advertises a gene test for motivation. Leo says a high heritability estimate means a trait cannot change. Sam asks what the estimate describes and whether it explains an individual.",
+    "say": "A visitor advertises a gene test for motivation. Leo says a high heritability estimate means a trait cannot change. Sam asks what the estimate describes and whether it explains an individual."
+  },
+  {
+    "id": "c08s02",
+    "step": "Chapter 8: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat does a heritability estimate describe?\n\nA. A fixed percentage of one person’s trait.\n\nB. Variation in a population under specified conditions.\n\nC. How much a trait can never change.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What does a heritability estimate describe? [pause 0.65] A. A fixed percentage of one person’s trait. [pause 0.65] B. Variation in a population under specified conditions. [pause 0.65] C. How much a trait can never change. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c08s02-feedback-0",
+    "step": "Chapter 8: feedback 1",
+    "text": "The estimate is about population variation, not a personal decomposition.",
+    "say": "The estimate is about population variation, not a personal decomposition."
+  },
+  {
+    "id": "c08s02-feedback-1",
+    "step": "Chapter 8: feedback 2",
+    "text": "Population, environment range, measure and model define its interpretation.",
+    "say": "Population, environment range, measure and model define its interpretation."
+  },
+  {
+    "id": "c08s02-feedback-2",
+    "step": "Chapter 8: feedback 3",
+    "text": "Heritability and modifiability are different questions.",
+    "say": "Heritability and modifiability are different questions."
+  },
+  {
+    "id": "c08s03",
+    "step": "Chapter 8: Genes are part of a process.",
+    "text": "Gene: a DNA sequence involved in biological function. Genotype: genetic constitution at relevant sites.\n\nGenes contribute through biological processes in developing environments. Complex psychological traits usually involve many variants with small, context-dependent associations.\n\nA genetic association is not a single-purpose instruction for a behaviour. The phenotype depends on development, measurement and circumstances.",
+    "say": "Gene: a DNA sequence involved in biological function. Genotype: genetic constitution at relevant sites. [pause 0.65] Genes contribute through biological processes in developing environments. Complex psychological traits usually involve many variants with small, context-dependent associations. [pause 0.65] A genetic association is not a single-purpose instruction for a behaviour. The phenotype depends on development, measurement and circumstances."
+  },
+  {
+    "id": "c08s03b",
+    "step": "Chapter 8: Heritability describes variation in a population.",
+    "text": "Gene–environment interaction: genetic effects vary across environments. Gene–environment correlation: genetic differences associated with environmental exposure.\n\nHeritability concerns differences within a specified population and range of environments. It does not state what percentage of one person’s trait is genetic.\n\nA high estimate does not imply that environmental changes are ineffective. Estimates can change when conditions or measurement change.",
+    "say": "Gene–environment interaction: genetic effects vary across environments. Gene–environment correlation: genetic differences associated with environmental exposure. [pause 0.65] Heritability concerns differences within a specified population and range of environments. It does not state what percentage of one person’s trait is genetic. [pause 0.65] A high estimate does not imply that environmental changes are ineffective. Estimates can change when conditions or measurement change."
+  },
+  {
+    "id": "c08s04",
+    "step": "Chapter 8: Prediction and explanation differ.",
+    "text": "Polygenic score: weighted summary of many genetic associations. Population transfer: performance in a different population. Association: statistical relationship without automatic causation.\n\nA genetic score’s predictive value depends on the outcome, sample and reference data. Performance can fall in populations unlike the study group.\n\nPrediction does not identify a modifiable mechanism or justify ranking someone’s worth. Privacy and informed consent matter for genetic information.",
+    "say": "Polygenic score: weighted summary of many genetic associations. Population transfer: performance in a different population. Association: statistical relationship without automatic causation. [pause 0.65] A genetic score’s predictive value depends on the outcome, sample and reference data. Performance can fall in populations unlike the study group. [pause 0.65] Prediction does not identify a modifiable mechanism or justify ranking someone’s worth. Privacy and informed consent matter for genetic information."
+  },
+  {
+    "id": "c08s05",
+    "step": "Chapter 8: What does the evidence allow?",
+    "text": "Genetically informative studies rely on design assumptions and measured environments. Association studies need replication and careful attention to population structure.\n\nAn introductory example cannot validate a genetic product or establish an individual prognosis.",
+    "say": "Genetically informative studies rely on design assumptions and measured environments. Association studies need replication and careful attention to population structure. [pause 0.65] An introductory example cannot validate a genetic product or establish an individual prognosis."
+  },
+  {
+    "id": "c08s06",
+    "step": "Chapter 8: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA company offers a DNA-based score to decide who should lead a volunteer team.\n\nWhat should be checked before using the score?\n\nA. Whether the label sounds biologically precise.\n\nB. Whether any gene association exists at all.\n\nC. Independent validation for the population and intended decision.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A company offers a DNA-based score to decide who should lead a volunteer team. [pause 0.65] What should be checked before using the score? [pause 0.65] A. Whether the label sounds biologically precise. [pause 0.65] B. Whether any gene association exists at all. [pause 0.65] C. Independent validation for the population and intended decision. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c08s06-feedback-0",
+    "step": "Chapter 8: feedback 1",
+    "text": "A precise-sounding label does not establish useful prediction.",
+    "say": "A precise-sounding label does not establish useful prediction. [pause 1.0]"
+  },
+  {
+    "id": "c08s06-feedback-1",
+    "step": "Chapter 8: feedback 2",
+    "text": "Some association is insufficient to justify a practical individual decision.",
+    "say": "Some association is insufficient to justify a practical individual decision. [pause 1.0]"
+  },
+  {
+    "id": "c08s06-feedback-2",
+    "step": "Chapter 8: feedback 3",
+    "text": "Validation must address actual predictive value, uncertainty and population transfer.",
+    "say": "Validation must address actual predictive value, uncertainty and population transfer. [pause 1.0]"
+  },
+  {
+    "id": "c08s07",
+    "step": "Chapter 8: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhy is heritability not immutability?\n\nWhy may a polygenic score transfer poorly?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] Why is heritability not immutability? [pause 0.65] Why may a polygenic score transfer poorly? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c08s07-answers",
+    "step": "Chapter 8: recall answers",
+    "text": "A population variance estimate does not show how outcomes respond to changed conditions.\n\nIts associations and reference data may not match the new population or environment.",
+    "say": "A population variance estimate does not show how outcomes respond to changed conditions. [pause 0.65] Its associations and reference data may not match the new population or environment. [pause 1.0]"
+  },
+  {
+    "id": "c08s08",
+    "step": "Chapter 8: Take the idea into everyday life",
+    "text": "Rewrite a public genes-for-behaviour headline with the population, measured outcome and uncertainty made explicit.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Rewrite a public genes-for-behaviour headline with the population, measured outcome and uncertainty made explicit. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c09s01",
+    "step": "Chapter 9: Experience changes systems, within limits",
+    "text": "After weeks of practice, Sam identifies familiar radio faults faster. A training app calls this proof of a stronger brain. Maya asks whether the improvement transfers to an unfamiliar task.",
+    "say": "After weeks of practice, Sam identifies familiar radio faults faster. A training app calls this proof of a stronger brain. [Maya](/mˈaɪə/) asks whether the improvement transfers to an unfamiliar task."
+  },
+  {
+    "id": "c09s02",
+    "step": "Chapter 9: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat does Sam’s improvement support most directly?\n\nA. Better performance on the practiced repair task.\n\nB. A permanent increase in all mental abilities.\n\nC. Proof that any training app works.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What does Sam’s improvement support most directly? [pause 0.65] A. Better performance on the practiced repair task. [pause 0.65] B. A permanent increase in all mental abilities. [pause 0.65] C. Proof that any training app works. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c09s02-feedback-0",
+    "step": "Chapter 9: feedback 1",
+    "text": "The improvement is meaningful but task-specific until further tested.",
+    "say": "The improvement is meaningful but task-specific until further tested."
+  },
+  {
+    "id": "c09s02-feedback-1",
+    "step": "Chapter 9: feedback 2",
+    "text": "The observed task does not establish broad or permanent change.",
+    "say": "The observed task does not establish broad or permanent change."
+  },
+  {
+    "id": "c09s02-feedback-2",
+    "step": "Chapter 9: feedback 3",
+    "text": "This says nothing about an unrelated product.",
+    "say": "This says nothing about an unrelated product."
+  },
+  {
+    "id": "c09s03",
+    "step": "Chapter 9: Plasticity is change, not a promise.",
+    "text": "Neuroplasticity: change in neural organization or function. Experience-dependent change: change associated with particular experience. Synaptic plasticity: change in the effectiveness of connections.\n\nNervous systems change with development, experience, injury and learning. Plasticity includes several mechanisms and timescales.\n\nCalling an activity plasticity does not tell us whether a change is beneficial or durable. The effect must be measured against a specific outcome.",
+    "say": "Neuroplasticity: change in neural organization or function. Experience-dependent change: change associated with particular experience. Synaptic plasticity: change in the effectiveness of connections. [pause 0.65] Nervous systems change with development, experience, injury and learning. Plasticity includes several mechanisms and timescales. [pause 0.65] Calling an activity plasticity does not tell us whether a change is beneficial or durable. The effect must be measured against a specific outcome."
+  },
+  {
+    "id": "c09s03b",
+    "step": "Chapter 9: Practice can improve a specific task.",
+    "text": "Near transfer: benefit on a closely related task. Far transfer: benefit on a substantially different task. Active control: comparison with a credible alternative activity.\n\nSam may learn the regularities of familiar repairs. That is useful even if general memory does not change.\n\nTo test a broader benefit, compare suitable groups on untrained outcomes, account for expectations and assess persistence. A pre-to-post improvement without a comparison leaves practice and other explanations open.",
+    "say": "Near transfer: benefit on a closely related task. Far transfer: benefit on a substantially different task. Active control: comparison with a credible alternative activity. [pause 0.65] Sam may learn the regularities of familiar repairs. That is useful even if general memory does not change. [pause 0.65] To test a broader benefit, compare suitable groups on untrained outcomes, account for expectations and assess persistence. A pre-to-post improvement without a comparison leaves practice and other explanations open."
+  },
+  {
+    "id": "c09s04",
+    "step": "Chapter 9: Rehabilitation is individualized.",
+    "text": "Functional outcome: performance relevant to daily life. Prognosis: anticipated course with uncertainty.\n\nRecovery and rehabilitation depend on the injury, health, time, goals and available care. Neural changes may support recovery without restoring every previous function.\n\nDo not promise cures from a general plasticity claim. Professional plans should connect meaningful outcomes with suitable evidence and the person’s priorities.",
+    "say": "Functional outcome: performance relevant to daily life. Prognosis: anticipated course with uncertainty. [pause 0.65] Recovery and rehabilitation depend on the injury, health, time, goals and available care. Neural changes may support recovery without restoring every previous function. [pause 0.65] Do not promise cures from a general plasticity claim. Professional plans should connect meaningful outcomes with suitable evidence and the person’s priorities."
+  },
+  {
+    "id": "c09s05",
+    "step": "Chapter 9: What does the evidence allow?",
+    "text": "Plasticity research shows that neural systems can change, but evidence for a particular training product requires its own controlled studies and meaningful outcomes.\n\nChanges in an image or trained score do not automatically show durable far transfer or clinical recovery.",
+    "say": "Plasticity research shows that neural systems can change, but evidence for a particular training product requires its own controlled studies and meaningful outcomes. [pause 0.65] Changes in an image or trained score do not automatically show durable far transfer or clinical recovery."
+  },
+  {
+    "id": "c09s06",
+    "step": "Chapter 9: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA training programme claims better everyday reasoning after practice on one game.\n\nWhat would best test the broader claim?\n\nA. Repeat only the trained task immediately.\n\nB. Use credible controls and delayed untrained outcomes.\n\nC. Display a colourful brain image after training.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A training programme claims better everyday reasoning after practice on one game. [pause 0.65] What would best test the broader claim? [pause 0.65] A. Repeat only the trained task immediately. [pause 0.65] B. Use credible controls and delayed untrained outcomes. [pause 0.65] C. Display a colourful brain image after training. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c09s06-feedback-0",
+    "step": "Chapter 9: feedback 1",
+    "text": "That checks practice gains rather than broader transfer.",
+    "say": "That checks practice gains rather than broader transfer. [pause 1.0]"
+  },
+  {
+    "id": "c09s06-feedback-1",
+    "step": "Chapter 9: feedback 2",
+    "text": "The design addresses expectations, transfer and persistence.",
+    "say": "The design addresses expectations, transfer and persistence. [pause 1.0]"
+  },
+  {
+    "id": "c09s06-feedback-2",
+    "step": "Chapter 9: feedback 3",
+    "text": "An image change is not equivalent to the claimed functional benefit.",
+    "say": "An image change is not equivalent to the claimed functional benefit. [pause 1.0]"
+  },
+  {
+    "id": "c09s07",
+    "step": "Chapter 9: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhy does plasticity not necessarily mean improvement?\n\nWhat distinguishes far transfer from practice?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] Why does plasticity not necessarily mean improvement? [pause 0.65] What distinguishes far transfer from practice? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c09s07-answers",
+    "step": "Chapter 9: recall answers",
+    "text": "Biological change can have different consequences; benefit needs a specified outcome.\n\nFar transfer concerns substantially different untrained tasks rather than improvement on the practiced activity.",
+    "say": "Biological change can have different consequences; benefit needs a specified outcome. [pause 0.65] Far transfer concerns substantially different untrained tasks rather than improvement on the practiced activity. [pause 1.0]"
+  },
+  {
+    "id": "c09s08",
+    "step": "Chapter 9: Take the idea into everyday life",
+    "text": "Choose a skill you practise. State one trained outcome and one untrained outcome needed to support a broader claim.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Choose a skill you practise. State one trained outcome and one untrained outcome needed to support a broader claim. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c10s01",
+    "step": "Chapter 10: Build a biological explanation carefully",
+    "text": "The café considers a brain-based wellbeing workshop. Its advert combines genetic scores, hormone checks and a short training game. The team wants to distinguish credible concepts from unsupported product claims.",
+    "say": "The café considers a brain-based wellbeing workshop. Its advert combines genetic scores, hormone checks and a short training game. The team wants to distinguish credible concepts from unsupported product claims."
+  },
+  {
+    "id": "c10s02",
+    "step": "Chapter 10: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat should the café ask first?\n\nA. Which brain terms make the advert sound convincing.\n\nB. Which benefit was tested, against what comparison, in whom.\n\nC. Whether all biological research should be dismissed.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What should the café ask first? [pause 0.65] A. Which brain terms make the advert sound convincing. [pause 0.65] B. Which benefit was tested, against what comparison, in whom. [pause 0.65] C. Whether all biological research should be dismissed. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c10s02-feedback-0",
+    "step": "Chapter 10: feedback 1",
+    "text": "Terminology cannot establish a product’s efficacy.",
+    "say": "Terminology cannot establish a product’s efficacy."
+  },
+  {
+    "id": "c10s02-feedback-1",
+    "step": "Chapter 10: feedback 2",
+    "text": "The practical claim needs a relevant design and outcome.",
+    "say": "The practical claim needs a relevant design and outcome."
+  },
+  {
+    "id": "c10s02-feedback-2",
+    "step": "Chapter 10: feedback 3",
+    "text": "Unsupported advertising does not invalidate the underlying science.",
+    "say": "Unsupported advertising does not invalidate the underlying science."
+  },
+  {
+    "id": "c10s03",
+    "step": "Chapter 10: Connect levels without skipping steps.",
+    "text": "Reductionism: explaining a complex phenomenon only at a narrower level. Multilevel explanation: linking relevant levels of analysis. Causal chain: specified sequence of influences.\n\nA biological explanation can connect cells, circuits, behaviour and environment. Each link needs evidence rather than an attractive metaphor.\n\nA brain correlate does not identify the only cause, and a social context is not biologically irrelevant. Ask how the proposed levels interact in the actual task.",
+    "say": "Reductionism: explaining a complex phenomenon only at a narrower level. Multilevel explanation: linking relevant levels of analysis. Causal chain: specified sequence of influences. [pause 0.65] A biological explanation can connect cells, circuits, behaviour and environment. Each link needs evidence rather than an attractive metaphor. [pause 0.65] A brain correlate does not identify the only cause, and a social context is not biologically irrelevant. Ask how the proposed levels interact in the actual task."
+  },
+  {
+    "id": "c10s03b",
+    "step": "Chapter 10: Evaluate the intervention claim separately.",
+    "text": "Generalizability: applicability to other settings or populations. Adverse effect: an unwanted consequence of an intervention.\n\nA product can use accurate neuroscience terms while making an untested practical claim. Check the comparison group, sample, outcome, follow-up and unwanted effects.\n\nAsk whether the benefit matters in everyday life and whether the study tested the actual product. Biological plausibility is not a substitute for efficacy evidence.",
+    "say": "Generalizability: applicability to other settings or populations. Adverse effect: an unwanted consequence of an intervention. [pause 0.65] A product can use accurate neuroscience terms while making an untested practical claim. Check the comparison group, sample, outcome, follow-up and unwanted effects. [pause 0.65] Ask whether the benefit matters in everyday life and whether the study tested the actual product. Biological plausibility is not a substitute for efficacy evidence."
+  },
+  {
+    "id": "c10s04",
+    "step": "Chapter 10: Keep choices proportionate.",
+    "text": "Informed consent: agreement based on relevant information. Biological determinism: treating biology as a fixed inevitable cause. Uncertainty: limits in what evidence establishes.\n\nUse the evidence to ask better questions and improve accessible conditions. Avoid diagnosing, prescribing or interpreting another person’s private biological data.\n\nHealth decisions need qualified care and informed choice. If a claim exceeds the evidence, narrow it rather than replacing it with another certainty.",
+    "say": "Informed consent: agreement based on relevant information. Biological determinism: treating biology as a fixed inevitable cause. Uncertainty: limits in what evidence establishes. [pause 0.65] Use the evidence to ask better questions and improve accessible conditions. Avoid diagnosing, prescribing or interpreting another person’s private biological data. [pause 0.65] Health decisions need qualified care and informed choice. If a claim exceeds the evidence, narrow it rather than replacing it with another certainty."
+  },
+  {
+    "id": "c10s05",
+    "step": "Chapter 10: What does the evidence allow?",
+    "text": "A strong biological account uses suitable measurements, competing explanations and converging methods. Translation to individual care or products requires additional evidence.\n\nThis course is not medical training. Completing it does not establish competence to interpret scans, genetic tests or treatment choices.",
+    "say": "A strong biological account uses suitable measurements, competing explanations and converging methods. Translation to individual care or products requires additional evidence. [pause 0.65] This course is not medical training. Completing it does not establish competence to interpret scans, genetic tests or treatment choices."
+  },
+  {
+    "id": "c10s06",
+    "step": "Chapter 10: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA small uncontrolled study finds a brain-signal difference after a workshop but measures no daily-life benefit.\n\nWhich conclusion is proportionate?\n\nA. The environment cannot matter because the signal is biological.\n\nB. The image proves the workshop treats a disorder.\n\nC. A signal changed, but clinical benefit and transfer remain untested.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A small uncontrolled study finds a brain-signal difference after a workshop but measures no daily-life benefit. [pause 0.65] Which conclusion is proportionate? [pause 0.65] A. The environment cannot matter because the signal is biological. [pause 0.65] B. The image proves the workshop treats a disorder. [pause 0.65] C. A signal changed, but clinical benefit and transfer remain untested. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c10s06-feedback-0",
+    "step": "Chapter 10: feedback 1",
+    "text": "Environmental conditions can influence biological responses and behaviour.",
+    "say": "Environmental conditions can influence biological responses and behaviour. [pause 1.0]"
+  },
+  {
+    "id": "c10s06-feedback-1",
+    "step": "Chapter 10: feedback 2",
+    "text": "The measurement is not evidence of clinical efficacy by itself.",
+    "say": "The measurement is not evidence of clinical efficacy by itself. [pause 1.0]"
+  },
+  {
+    "id": "c10s06-feedback-2",
+    "step": "Chapter 10: feedback 3",
+    "text": "This separates the measured change from the untested practical claim.",
+    "say": "This separates the measured change from the untested practical claim. [pause 1.0]"
+  },
+  {
+    "id": "c10s07",
+    "step": "Chapter 10: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhy separate mechanism from efficacy?\n\nWhat does a multilevel explanation add?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] Why separate mechanism from efficacy? [pause 0.65] What does a multilevel explanation add? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c10s07-answers",
+    "step": "Chapter 10: recall answers",
+    "text": "A plausible mechanism does not show that an intervention produces meaningful benefit.\n\nIt specifies and tests interactions between biological processes, behaviour and context.",
+    "say": "A plausible mechanism does not show that an intervention produces meaningful benefit. [pause 0.65] It specifies and tests interactions between biological processes, behaviour and context. [pause 1.0]"
+  },
+  {
+    "id": "c10s08",
+    "step": "Chapter 10: Take the idea into everyday life",
+    "text": "Write a brief review of a fictional brain-based product: claimed outcome, actual measure, missing comparison and a proportionate conclusion.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Write a brief review of a fictional brain-based product: claimed outcome, actual measure, missing comparison and a proportionate conclusion. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  }
+]
